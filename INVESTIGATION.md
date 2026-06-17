@@ -3,10 +3,10 @@
 Goal: understand how the USPSA online rules get populated into the web app so we
 can extract and cache that content ourselves for search/querying.
 
-_Investigation date: 2026-06-17. At the time of investigation the site's data
-backend was in a maintenance window (see "Current status" below), so live data
-extraction was not possible. The architecture below was reconstructed from the
-static landing page, the served HTML/RSC shells, and the JavaScript bundles._
+_Investigation date: 2026-06-17. The site was first hit during a data-backend
+maintenance window; once it came back up the architecture below was confirmed
+and a working extractor was built (`scripts/extract.mjs`), producing the cache
+in `data/`. **Status: implemented — 1,337 rules + 56 appendices cached.**_
 
 ## Stack
 
@@ -72,25 +72,43 @@ curl -s -o /dev/null -w "%{http_code}\n" https://rules.uspsa.org/uspsa
 # 200 = back up, 500 = still in maintenance
 ```
 
-## Recommended extraction approach (once the backend is back)
+## Extraction approach (implemented in `scripts/extract.mjs`)
 
-No headless browser required for the primary path:
+No headless browser required — every request is a `curl`/`fetch` with the
+`RSC: 1` header, which returns the React Flight payload as `text/x-component`.
 
-1. **Capture the RSC flight payload** for each book and parse it:
-   ```bash
-   curl -s -H "RSC: 1" https://rules.uspsa.org/uspsa    > uspsa.rsc
-   curl -s -H "RSC: 1" https://rules.uspsa.org/multigun > multigun.rsc
-   curl -s -H "RSC: 1" https://rules.uspsa.org/scsa     > scsa.rsc
-   ```
-   When not in maintenance this should embed the full chapters/sections/rules
-   tree. Parse the `__next_f` / flight stream into normalized JSON.
-2. **Cross-check the bulk client payload** that feeds `localStorage["rules-pages"]`
-   (inspect a browser/headless network trace) — likely a single JSON blob that
-   is the cleanest source of truth.
-3. **Normalize and index** as e.g. `{ book, chapter, section, ruleNumber, text }`
-   into SQLite FTS (or an in-memory index) for our own search/query.
-4. Use the official `/api/search?rs=<ts>&q=...` endpoint as a **validation
-   oracle** to confirm our cached copy matches.
+Confirmed routes (all accept `RSC: 1`):
+
+| Route                          | Returns                                                         |
+|--------------------------------|----------------------------------------------------------------|
+| `/<book>`                      | Table of contents: `chapters[]`, `sectionsByChapter{}`, `appendices[]` |
+| `/<book>/section/<number>`     | A section's rules                                              |
+| `/<book>/appendix/<id>`        | An appendix's content (e.g. `C2` = Chronograph, `D1` = Open Division) |
+| `/api/search?rs=<book>&q=<q>`  | JSON search results `{type,badge,title,snippet}` (snippets only) |
+
+`<book>` is one of `uspsa`, `multigun`, `scsa`.
+
+The rule content appears in the flight payload in two forms, both handled by the
+extractor:
+
+1. **Clean data objects** — `{"number":"5.6.1","title":null,"text":"…"}`. Matched
+   directly with a regex (the markup/element form starts `["$","div","5.6.1",{…}]`
+   and is skipped). This is the authoritative source for most numbered rules.
+2. **Rendered `rule-prose` markup** — used for section-level prose (much of the
+   SCSA book), multi-paragraph rules, and appendices. The extractor walks the
+   `rule-prose` blocks, strips attributes/element headers/object keys, and
+   collects the readable text, keying each block to the nearest preceding
+   rule-number badge (`bg-navy`/`bg-muted` mono span).
+
+The two passes are merged (flat wins; prose fills missing rules and null `text`).
+Output is normalized into `data/<book>.json` (hierarchical) and
+`data/rules-flat.json` (flat index). The official `/api/search` endpoint was used
+as a validation oracle to confirm wording matches.
+
+Pieces explored but **not** used as the source of truth: the bulk client payload
+behind `localStorage["rules-pages"]` (the per-route RSC payloads turned out to be
+complete and simpler to parse), and the `/api/search` endpoint (snippets only, no
+full text).
 
 ## Environment notes (this sandbox)
 

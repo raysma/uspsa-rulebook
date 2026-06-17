@@ -1,0 +1,1660 @@
+{
+  "book": "scsa",
+  "source": "https://rules.uspsa.org/scsa",
+  "fetchedAt": "2026-06-17T23:38:03.473Z",
+  "chapterCount": 12,
+  "sectionCount": 60,
+  "ruleCount": 213,
+  "appendixCount": 18,
+  "chapters": [
+    {
+      "number": "1",
+      "title": "Range Rules",
+      "sections": [
+        {
+          "chapter": "1",
+          "number": "1.1",
+          "title": "Cold Range",
+          "rules": [
+            {
+              "number": "1.1",
+              "title": null,
+              "text": "The range is cold! All firearms will be kept UNLOADED except on the firing line under the direct supervision of a A person who has an official duty or function at a match, but who is not necessarily qualified as, or acting in the capacity of, a Range Officer Match Official . If it is possible that some competitors arriving at a range where a SCSA event is being held may be in possession of a A firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm. loaded firearm on their person (e.g., law enforcement officers, persons duly authorized to carry a loaded firearm, etc.), match organizers should provide an The removal of ammunition from a firearm. This action is completed when the firearm is empty of all ammunition and the magazine removed or cylinder opened and shown for inspection by a Range Officer Unloading The insertion of ammunition into a firearm. Loading is completed when ammunition is inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm). Loading Station to enable such competitors to safely unload their firearms prior to entering the range, and to safely load their firearms again on departure from the range. The Unloading/Loading Station should be conveniently located outside the entrance to the range (or outside the portion of the range allocated to the SCSA event), it should be clearly marked, and it must include a suitable impact zone. $L1b $L1c $L1d $L1e $L1f"
+            }
+          ]
+        },
+        {
+          "chapter": "1",
+          "number": "1.2",
+          "title": "Safety Equipment",
+          "rules": [
+            {
+              "number": "1.2",
+              "title": null,
+              "text": "Eye and hearing protection is required for all competitors and spectators. Anyone observed without eye or hearing protection will be required to leave the shooting area until such eye and hearing protection is worn or used."
+            }
+          ]
+        },
+        {
+          "chapter": "1",
+          "number": "1.3",
+          "title": "Dress Code",
+          "rules": [
+            {
+              "number": "1.3",
+              "title": null,
+              "text": "Offensive or objectionable garments are not allowed on the range. Anyone wearing items deemed to be offensive or objectionable will be asked to leave the range facility. The A contest within an event. Match Director will have final authority regarding garments deemed offensive or objectionable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "Stage Setup & Operation",
+      "sections": [
+        {
+          "chapter": "2",
+          "number": "2.1",
+          "title": "Target Height",
+          "rules": [
+            {
+              "number": "2.1",
+              "title": null,
+              "text": "All round targets, except for the Pendulum are 5' high to the top of the target as viewed from the box and all rectangles are 5'6” to the top of the target as viewed from the box. Pendulum has two round targets that are 6’ to the top of the target as viewed from the box. All targets should be set to appear level at their designated height from the A small shooting area (generally square) formed of four connected fault lines. Boxes must be at least 3/4\" high for hard surfaces and 1- 1/2\" high for loose surfaces. shooting box This may be accomplished with survey equipment, laser levels, string lines, etc. A slight variation in height (+/- 2”) is allowed. Setting targets at height above ground may accomplish the desired level height if the bay is flat and level."
+            }
+          ]
+        },
+        {
+          "chapter": "2",
+          "number": "2.2",
+          "title": "Layout of stages",
+          "rules": [
+            {
+              "number": "2.2",
+              "title": null,
+              "text": "All course designs and measurements are approximate with slight (+/- 2”) variations possible. All shooting boxes will be 3’ x 3’ except for Outer Limits, which are 4’ x 4’. NOTE: This is an outside dimension for the A small shooting area (generally square) formed of four connected fault lines. Boxes must be at least 3/4\" high for hard surfaces and 1- 1/2\" high for loose surfaces. shooting box for all stages. All courses of fire will be fired from a single shooting box with the exceptions of Outer Limits and Showdown, which will each have more than one shooting box. Showdown will have two 3’x 3’ shooting boxes and three strings will be shot from one shooting box and two from the other. The competitor may elect to shoot three strings from the first shooting box prior to moving and completing the last two strings. Conversely, a competitor may also move between shooting boxes after completing two strings. Failure to move after shooting a maximum of three strings from a single shooting box will result in a reshoot for each string fired until the competitor moves to the other shooting box. (See ) There is NO movement between boxes during each string in this course of fire. The Outer Limits will have three 4’ x 4’ shooting boxes. The competitor will start on their weak side shooting box and will engage the 20- and 35-yard plates on the weak side of the center line, move to the middle shooting box, while on the clock, and engage the remaining two plates and stop plate. The distance between each of the three boxes will be 6’. Note: Only two of the three boxes will be used by each competitor. Depending on whether they are right- or left-handed, they will begin in the appropriate outside box and finish in the middle box. Plates should be angled towards the shooting box to minimize skips and ricochets and provide a uniform target surface and appearance."
+            },
+            {
+              "number": "2.2.1",
+              "title": null,
+              "text": "Shooting Boxes should be constructed of wooden boards or other suitable material, must be fixed firmly in place, and provide both physical and visual references to competitors. For hard ground surfaces clear of debris, 0.75- inch material is the minimum allowable size. On other range surfaces, such as covered with turf, sand, gravel, wood chips, or similar, thicker material which rises at least 1.5 inches above the surface is recommended."
+            }
+          ]
+        },
+        {
+          "chapter": "2",
+          "number": "2.3",
+          "title": "Stage Diagrams",
+          "rules": [
+            {
+              "number": "2.3",
+              "title": null,
+              "text": "Diagrams for the official SCSA classifier stages can be found in Appendix B of this rulebook."
+            }
+          ]
+        },
+        {
+          "chapter": "2",
+          "number": "2.4",
+          "title": "Safety Areas",
+          "rules": [
+            {
+              "number": "2.4",
+              "title": null,
+              "text": "The host organization is responsible for the construction and placement of a sufficient number of Safety Areas for the match. They should be conveniently placed and easily identified with signs. At Level II or higher matches, Safety Areas must include a table with the safe direction and boundaries clearly shown."
+            },
+            {
+              "number": "2.4.1",
+              "title": null,
+              "text": "Competitors are permitted to use the Safety Areas for the activities stated below provided they remain within the boundaries of the Safety Area and the firearm is pointed in a safe direction. Violations are subject to match disqualification (see Rules 10.3.1 & 10.3.10)."
+            },
+            {
+              "number": "2.4.1.1",
+              "title": null,
+              "text": "Casing, uncasing, and holstering unloaded firearms."
+            },
+            {
+              "number": "2.4.1.2",
+              "title": null,
+              "text": "Practice the mounting, drawing, “dry-firing” and re-holstering of unloaded firearms."
+            },
+            {
+              "number": "2.4.1.3",
+              "title": null,
+              "text": "Practice the insertion and removal of empty magazines and/or to cycle the action of a firearm."
+            },
+            {
+              "number": "2.4.1.4",
+              "title": null,
+              "text": "Conduct inspections, stripping, cleaning, repairs and maintenance of firearms, component parts and other accessories."
+            },
+            {
+              "number": "2.4.2",
+              "title": null,
+              "text": "Dummy ammunition (including practice or training rounds, snap caps and empty cases), loaded magazines, loaded speed loading devices and live rounds must not be handled in a Safety Area under any circumstances (see Rule 10.3.10)."
+            }
+          ]
+        },
+        {
+          "chapter": "2",
+          "number": "2.5",
+          "title": "Uncasing/Casing Areas",
+          "rules": [
+            {
+              "number": "2.5.1",
+              "title": null,
+              "text": "For long guns, if there is not a sufficient length of side berm to safely serve as an uncasing/casing area, then the match director must identify and designate a suitable area."
+            },
+            {
+              "number": "2.5.2",
+              "title": null,
+              "text": "For long guns, checking if dot is on/off, removing dot cover, and turning dot on/off may be done at casing/uncasing area provided the long gun is flagged and the muzzle remains in a safe direction. All other gun handling with the long gun, e.g., cleaning, dry-fire, repairs, etc., must be accomplished in a Safety Area or under the direct supervision of a Range Officer. Competitors found in violation of this rule are subject to the provisions of 10.3.13."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Course Information",
+      "sections": [
+        {
+          "chapter": "3",
+          "number": "3.1",
+          "title": "General Regulations",
+          "rules": [
+            {
+              "number": "3.1",
+              "title": null,
+              "text": "The competitor is always responsible to safely fulfill the requirements of a course of fire but can only reasonably be expected to do so after verbally or physically receiving the written stage briefing, which must adequately explain the requirements to the competitors."
+            }
+          ]
+        },
+        {
+          "chapter": "3",
+          "number": "3.2",
+          "title": "Written Stage Briefings",
+          "rules": [
+            {
+              "number": "3.2.1",
+              "title": null,
+              "text": "A written stage briefing approved by the Range Master must be available at each course of fire. This briefing must provide the following minimum information: — Scoring Method — The firearm ready condition — Start position (this should be demonstrated by a Range Officer) — Procedure"
+            },
+            {
+              "number": "3.2.2",
+              "title": null,
+              "text": "The Written Stage Briefing for the stage may be read by any range official at the request of any competitor prior to commencing the stage. If no competitors request the WSB, it may be omitted."
+            }
+          ]
+        },
+        {
+          "chapter": "3",
+          "number": "3.3",
+          "title": "Applicability of Rules",
+          "rules": [
+            {
+              "number": "3.3",
+              "title": null,
+              "text": "SCSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to SCSA matches without the express written consent of the USPSA Director at Large. All local rules allowed under these provisions will be documented at USPSA HQ."
+            },
+            {
+              "number": "3.3.1",
+              "title": null,
+              "text": "In states where competitors are restricted by law to maximum magazine capacity, that maximum capacity will be the maximum allowed for all competitors in the contest. Any such limitations must be made known to all competitors by the Match Director/Range Master before the start of the match."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "Range Equipment",
+      "sections": [
+        {
+          "chapter": "4",
+          "number": "4.1",
+          "title": "Plate Painting",
+          "rules": [
+            {
+              "number": "4.1",
+              "title": null,
+              "text": "At all match levels care should be taken to paint the edges, including the bottom of the plates as well as the plate surface. At Level I matches plates used for non-official stages may be painted a color other than white. Optional but highly recommended. Should plates not be painted prior to each competitor’s first run the competitor forfeits their right to appeal any missed hit calls. At Level II or higher matches all plates are to be painted white (other colors okay for snowy weather) and must be repainted prior to each competitor’s first run on the stage."
+            },
+            {
+              "number": "4.1.1",
+              "title": null,
+              "text": "Stop Plate Painting: The 2x4 or post/pole used for the stop plate should be painted red, orange, yellow or some color on the surface facing the shooting box to clearly identify it as the stop plate."
+            }
+          ]
+        },
+        {
+          "chapter": "4",
+          "number": "4.2",
+          "title": "Rearrangement of Range Equipment or Surface",
+          "rules": [
+            {
+              "number": "4.2.1",
+              "title": null,
+              "text": "The competitor must not interfere with the range surface, natural foliage, constructions, props or other range equipment (including targets, target stands and shooting boxes) at any time. Violations may incur one procedural penalty per occurrence at the discretion of the Range Officer."
+            },
+            {
+              "number": "4.2.1.1",
+              "title": null,
+              "text": "Exception – a competitor is allowed to move stone, sand or other loose material at the starting position for the purposes of achieving level and stable footing."
+            },
+            {
+              "number": "4.2.2",
+              "title": null,
+              "text": "The competitor may request that Match Officials take corrective actions to ensure consistency in respect of the range surface, the presentation of targets and/or any other matter. The Range Master will have final authority concerning all such requests."
+            }
+          ]
+        },
+        {
+          "chapter": "4",
+          "number": "4.3",
+          "title": "Range Equipment Failure and Other Issues",
+          "rules": [
+            {
+              "number": "4.3.1",
+              "title": null,
+              "text": "Range equipment must present the challenge fairly and equitably to all competitors."
+            },
+            {
+              "number": "4.3.1.1",
+              "title": null,
+              "text": "The declaration and/or use of any loaded (see Appendix A3) or unloaded firearm as “range equipment” is prohibited."
+            },
+            {
+              "number": "4.3.2",
+              "title": null,
+              "text": "A competitor who is unable to complete a course of fire due to range equipment failure must be required to reshoot the course of fire after corrective actions have been taken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "Competitor Equipment Rules",
+      "sections": [
+        {
+          "chapter": "5",
+          "number": "5.1",
+          "title": "Holsters",
+          "rules": [
+            {
+              "number": "5.1",
+              "title": null,
+              "text": "In general, holsters shall be mounted at the waist, must cover the trigger, and must safely hold/retain the gun. All Centerfire handguns must be appropriate for holster use. Female competitors are permitted to wear a belt, holster and Holsters, magazines, speed loading devices and/or their respective pouches. allied equipment at hip level."
+            },
+            {
+              "number": "5.1.1",
+              "title": null,
+              "text": "Rimfire competition does not involve the use of a holster. It is permissible for a Rimfire Pistol to be transported between stages in a holster. Either a gun case or a holster must be used for transport."
+            },
+            {
+              "number": "5.1.2",
+              "title": null,
+              "text": "Division-specific holster restrictions may apply. See Appendix D1 through D9 for division-specific information."
+            },
+            {
+              "number": "5.1.3",
+              "title": null,
+              "text": "Due to the unique nature of the Steel Challenge, drawing from concealment or from inside the waist band is not allowed."
+            },
+            {
+              "number": "5.1.4",
+              "title": null,
+              "text": "$26"
+            },
+            {
+              "number": "5.1.5",
+              "title": null,
+              "text": "To be considered bagged, the firearm must be in a case or bag that completely covers the firearm, and prevents access to the trigger, including having the zipper or fastener completely closed. A long gun sheath/sleeve may be used provided it covers from the muzzle past the trigger guard and prevents access to/or manipulation of the trigger. The case must be completely closed or the long gun completely in the sheath/sleeve prior to \"Make ready\" and the \"Range is clear\" commands."
+            },
+            {
+              "number": "5.1.6",
+              "title": null,
+              "text": "Where a Division specifies a maximum distance that a competitor's handgun and equipment may extend away from a competitor's belt, the measurement shall be taken in the following manner: — Perpendicular to the top of the belt at the point of attachment to the belt — From the outer surface of the belt to the closest point of the grip of the handgun and/or any reloading device — Measurements may be made with an official USPSA overlay, using either the width or length of the overlay as appropriate to the Division requirement. See App. D1-D9, 10 for requirements. — These measurements must be taken with the equipment as worn."
+            },
+            {
+              "number": "5.1.6.1",
+              "title": null,
+              "text": "Any competitor who fails the foregoing test will immediately adjust his holster or equipment to comply with the requirements of the relevant Division. The Range Master may make allowances for variations in these requirements due to anatomical considerations. Some competitors may not be able to fully comply. Any competitor who shoots a course of fire while out of compliance will receive a zero score for that course of fire, unless specifically exempted by the Range Master. If the RO suspects or is notified that a competitor’s equipment is out of compliance for their relevant division, the RO must measure the distances at that time. Penalties will not be retroactive to previously completed stages and will be based solely on measurements taken on a particular stage. The Range Master must be informed of any penalties applied due to non-compliance."
+            }
+          ]
+        },
+        {
+          "chapter": "5",
+          "number": "5.2",
+          "title": "Changing Equipment",
+          "rules": [
+            {
+              "number": "5.2",
+              "title": null,
+              "text": "The same gun, sights, holster and holster position, if specified, in a division must be used throughout a specific match."
+            },
+            {
+              "number": "5.2.1",
+              "title": null,
+              "text": "If there is a mechanical problem requiring a change of equipment, equipment of similar make or model may be used as a replacement, subject to the approval of the Range Master. The replacement equipment must meet the same Division guidelines, conditions or restrictions as the original equipment."
+            },
+            {
+              "number": "5.2.2",
+              "title": null,
+              "text": "No change in equipment (gun, holster or holster position) is permitted without the approval of the Range Master. If a competitor makes such a change without prior approval, they may be disqualified from the match. See Rule 10.3.12."
+            },
+            {
+              "number": "5.2.3",
+              "title": null,
+              "text": "If the equipment guidelines cannot be met with the replacement gun or holster, the competitor shall be moved to the division where their equipment is eligible. As a last resort the competitor shall be moved to the Open division. Should the competitor already have a completed match in Open then the competitor will be withdrawn from the match for that specific firearm."
+            }
+          ]
+        },
+        {
+          "chapter": "5",
+          "number": "5.3",
+          "title": "Ammunition Carriers",
+          "rules": [
+            {
+              "number": "5.3",
+              "title": null,
+              "text": "Each competitor is expected to come to the firing line ready to shoot, with an appropriate amount of ammunition in an appropriate number of magazines or speed- loaders or other loading devices. A contest within an event. Match delays caused by, for example, excessive time spent loading magazines while on the firing line may be referred to the Range Master for guidance. A competitor may have an assistant to help them in he replenishment or the insertion of additional ammunition into a firearm. The reload is not complete until the magazine/speed loader is fully inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm). reloading , if needed. Optional but highly recommended. Should they not be prepared, and it would cause a severe delay while they prepare, the Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer may move them down in the shooting order until they are prepared."
+            },
+            {
+              "number": "5.3.1",
+              "title": null,
+              "text": "Should a competitor have less than 5 magazines any other competitor or spectator may reload magazines on behalf of the competitor completing the course of fire."
+            },
+            {
+              "number": "5.3.2",
+              "title": null,
+              "text": "Magazine carriers may be placed anywhere on the belt, regardless of division. For all divisions, magazines may be placed on top of the barrel or table available at the shooting box. Magazines need not be transported in a magazine pouch."
+            }
+          ]
+        },
+        {
+          "chapter": "5",
+          "number": "5.4",
+          "title": "Handicapped/Disabled Competitors",
+          "rules": [
+            {
+              "number": "5.4",
+              "title": null,
+              "text": "Handicapped/disabled competitors must seek and obtain approval from the Range Master for any waiver in relation to the type and/or placement of their holster and related equipment. The Range Master’s decision regarding the safety and suitability of such equipment will be final."
+            },
+            {
+              "number": "5.4.1",
+              "title": null,
+              "text": "Special penalty: A competitor unable to fully execute any part of a course of fire due to incapacity or injury may, prior to making his attempt at the course of fire, request that the Range Master apply a penalty in lieu of the stated course requirement. See 10.1.4.1 for details on applying procedural penalties in this instance."
+            },
+            {
+              "number": "5.4.2",
+              "title": null,
+              "text": "Should the Range Master accept the competitor’s request for penalty in lieu of moving, he shall assess a 4 second penalty per string. Deliberate failure to move will also result in a 4 second penalty per string. Only one 4 second procedural penalty per string will be applied."
+            }
+          ]
+        },
+        {
+          "chapter": "5",
+          "number": "5.5",
+          "title": "Ammunition",
+          "rules": [
+            {
+              "number": "5.5",
+              "title": null,
+              "text": "All ammunition used in competition must be safe, serviceable, and appropriate for the firearm being used."
+            },
+            {
+              "number": "5.5.1",
+              "title": null,
+              "text": "Minimum cartridge for centerfire competitions (38 Special/9X19). For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed."
+            },
+            {
+              "number": "5.5.2",
+              "title": null,
+              "text": "Rimfire firearms must be .22 Long Rifle (.22LR) only. No powderless cartridges."
+            },
+            {
+              "number": "5.5.3",
+              "title": null,
+              "text": "No multiple-projectile or magnum loads allowed."
+            },
+            {
+              "number": "5.5.4",
+              "title": null,
+              "text": "Any ammunition deemed unsafe or likely to damage the targets will be removed from use. Examples include, but are not limited to: Steel Jacketed, Steel core, tracer, and incendiary ammunition."
+            },
+            {
+              "number": "5.5.5",
+              "title": null,
+              "text": "There are no minimum power factor or velocity minimums in Steel Challenge. The Pistol Caliber Carbine Divisions (PCCI/PCCO) have a maximum velocity of 1600 feet per second."
+            }
+          ]
+        },
+        {
+          "chapter": "5",
+          "number": "5.6",
+          "title": "Equipment Malfunctions",
+          "rules": [
+            {
+              "number": "5.6",
+              "title": null,
+              "text": "Optional but highly recommended. Should a competitor’s equipment malfunction, the string of fire will be scored, the range shall be cleared per , and the competitor will be allowed to retire for repair or replacement of the equipment. The Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer will proceed with the next competitor. The same procedure will apply in the case of squib loads or if a Range Officer has declared a firearm unsafe."
+            },
+            {
+              "number": "5.6.1",
+              "title": null,
+              "text": "The Range Officer will retain the competitor’s score until such time as the competitor returns to resume his attempts at any remaining strings in the stage. If the competitor cannot complete the strings, any incomplete strings will be marked as a missed stop plate (30 sec)."
+            },
+            {
+              "number": "5.6.2",
+              "title": null,
+              "text": "In the event that a firearm cannot be unloaded due to a broken or failed mechanism, the competitor will notify the Range Officer. Under no circumstances will a competitor leave the firing line with a loaded firearm. See Section (10.3.4)."
+            },
+            {
+              "number": "5.6.3",
+              "title": null,
+              "text": "In the event that a Range Officer terminates a string due to a suspicion that a competitor has an unsafe firearm (e.g., a firearm that is doubling), or unsafe ammunition (e.g., a “squib” load), the Range Officer will take whatever steps he deems necessary to return both the competitor and the range to a safe condition. The Range Officer will then inspect the firearm or ammunition and proceed as follows:"
+            },
+            {
+              "number": "5.6.3.1",
+              "title": null,
+              "text": "If the Range Officer finds evidence that confirms the suspected problem, the competitor will not be entitled to a reshoot for that string but will be ordered to rectify the problem. On the competitor’s score sheet, the time will be recorded up to the last shot fired, and the string will be scored “as shot”, including all applicable misses and penalties. Once the problem has been corrected, the competitor may shoot any remaining unattempted strings."
+            },
+            {
+              "number": "5.6.3.2",
+              "title": null,
+              "text": "If the Range Officer discovers that the suspected safety problem does not exist, the competitor will be required to reshoot the string, and continue to any unattempted strings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "General Event Rules",
+      "sections": [
+        {
+          "chapter": "6",
+          "number": "6.1",
+          "title": "Competitor Status and Credentials",
+          "rules": [
+            {
+              "number": "6.1.1",
+              "title": null,
+              "text": "For Level II and higher competitions, all competitors must be individual members of USPSA/SCSA, or a current member of their IPSC region. A competitor who submits a paid USPSA/SCSA membership application to the Match Director or presents proof of online registration and payment as a new member prior to entering the competition is considered a member for the purpose of this rule."
+            },
+            {
+              "number": "6.1.1.1",
+              "title": null,
+              "text": "Anyone whose membership has been suspended or terminated by USPSA/SCSA will no longer be eligible to compete in any SCSA match including local (Level I) matches. A list of those who are ineligible will be kept at USPSA/SCSA headquarters for verification."
+            },
+            {
+              "number": "6.1.2",
+              "title": null,
+              "text": "Only current SCSA classifications may be used in determining class awards."
+            },
+            {
+              "number": "6.1.3",
+              "title": null,
+              "text": "No person may be barred from participating in a SCSA match based on gender, race, religion or occupation."
+            },
+            {
+              "number": "6.1.4",
+              "title": null,
+              "text": "An individual may be barred from participating in a SCSA match, at the match director’s discretion, if the person: a. has demonstrated an inability to safely complete courses of fire, or b. has demonstrated behavior which would or may disrupt the match, or which would bring disrepute to the sport."
+            },
+            {
+              "number": "6.1.5",
+              "title": null,
+              "text": "A Match Director enforcing Rule 6.1.4 must submit a detailed report to USPSA/SCSA within seven days of the occurrence."
+            }
+          ]
+        },
+        {
+          "chapter": "6",
+          "number": "6.2",
+          "title": "Event Hierarchy",
+          "rules": [
+            {
+              "number": "6.2",
+              "title": null,
+              "text": "One or more matches are contested within an event. For example, the World Speed Shooting Championship is an event and within that event there are 4 matches: Centerfire Pistol, Rimfire Pistol, Rimfire Rifle, and Pistol The diameter of a bullet measured in millimeters (or thousandths of an inch). Caliber Carbine. Competitors compete in one or more matches within an event."
+            }
+          ]
+        },
+        {
+          "chapter": "6",
+          "number": "6.3",
+          "title": "Competition Divisions",
+          "rules": [
+            {
+              "number": "6.3",
+              "title": null,
+              "text": "Competition Divisions are intended to provide a vehicle for recognition within the match by firearm characteristics (firearm types, sights, etc.). It is the competitor’s responsibility to properly declare their competition division prior to the start of the match. See Appendix D1 through D9 for division-specific information."
+            },
+            {
+              "number": "6.3.1",
+              "title": null,
+              "text": "If a competitor incorrectly declares a division but qualifies in a different division, they will be changed to another division in which their equipment is valid without penalty with the Range Master’s approval. For example, firearms and holsters failing to make Production criteria may still be eligible for Limited."
+            },
+            {
+              "number": "6.3.2",
+              "title": null,
+              "text": "When a match allows entry in more than one division, there may be restrictions. Those restrictions, if any, must be published on the match entry form, match book, and/or match website."
+            },
+            {
+              "number": "6.3.3",
+              "title": null,
+              "text": "Competitors are limited to a single firearm per division. A competitor may, however, compete with the same firearm in multiple divisions within the same match. For example, a competitor may use the same firearm in Production and Limited divisions but would not be permitted to shoot twice in Production or twice in Limited."
+            }
+          ]
+        },
+        {
+          "chapter": "6",
+          "number": "6.4",
+          "title": "Competition Categories",
+          "rules": [
+            {
+              "number": "6.4",
+              "title": null,
+              "text": "Competition Categories are intended to provide a vehicle for recognition within the match by personal characteristics (age, gender, occupation, etc.). It is the competitor’s responsibility to properly declare their competition category prior to the start of the match."
+            },
+            {
+              "number": "6.4.1",
+              "title": null,
+              "text": "A competitor may qualify and compete for recognition in more than one category (i.e., Junior and Lady)."
+            },
+            {
+              "number": "6.4.2",
+              "title": null,
+              "text": "If a competitor incorrectly declares a category, but qualifies in a different category, they will be changed to the correct category without penalty with the Range Master’s approval."
+            }
+          ]
+        },
+        {
+          "chapter": "6",
+          "number": "6.5",
+          "title": "General Principles – Competition Divisions",
+          "rules": [
+            {
+              "number": "6.5",
+              "title": null,
+              "text": "All competitors compete for overall placement in the match. In addition to overall placement, competitors may also compete for Division-specific awards based on equipment type."
+            },
+            {
+              "number": "6.5.1",
+              "title": null,
+              "text": "Equipment requirements for the SCSA shall be governed by the respective rules and equipment criteria regarding firearm and holster configurations and rule interpretations. (Also see Division requirements in Appendix D)"
+            },
+            {
+              "number": "6.5.2",
+              "title": null,
+              "text": "Failure to meet the appropriate SCSA rules and equipment criteria will disqualify the competitor from Division-specific award consideration. The competitor will remain eligible for overall placement awards."
+            },
+            {
+              "number": "6.5.3",
+              "title": null,
+              "text": "A competitor whose equipment fails to meet Division-specific equipment requirements may be moved into another Division in which their equipment qualifies, at the Range Master’s discretion (see rule 6.3.1)."
+            },
+            {
+              "number": "6.5.3.1",
+              "title": null,
+              "text": "In the event that the optic falls off the firearm in any division that requires an optic, it shall be treated as competitor equipment malfunction and will not warrant a move to another division. The optic must be mounted to the firearm at the start of the course of fire and may not be deliberately removed by the competitor during the course of fire. All safety rules apply."
+            },
+            {
+              "number": "6.5.4",
+              "title": null,
+              "text": "Binary Trigger, Forced Reset Trigger, or any trigger systems that allow one round to be fired upon pulling the trigger and another on releasing the trigger use is prohibited. Use of bump fire stocks or mechanisms are prohibited."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "Match Management",
+      "sections": [
+        {
+          "chapter": "7",
+          "number": "7.1",
+          "title": "Match Officials",
+          "rules": [
+            {
+              "number": "7.1",
+              "title": null,
+              "text": "The duties and terms of reference of A contest within an event. Match Officials are defined as follows:"
+            },
+            {
+              "number": "7.1.1",
+              "title": "Range Officer (“RO”)",
+              "text": "Range Officer (“RO”) – issues range commands, oversees competitor compliance with the written stage briefing and closely monitors safe competitor action. He also declares the time, scores, and penalties achieved by each competitor and verifies that these are correctly recorded on the competitor’s score sheet (under the authority of a Chief Range Officer and Range Master)."
+            },
+            {
+              "number": "7.1.2",
+              "title": null,
+              "text": "Chief Range Officer (“CRO”) – is the primary authority over all persons and activities in the courses of fire under his control, and oversees the fair, correct and consistent application of these rules (under the authority of the Range Master)."
+            },
+            {
+              "number": "7.1.3",
+              "title": "Stats Officer (“SO”)",
+              "text": "Stats Officer (“SO”) – collects, sorts, verifies, tabulates and retains all score sheets and ultimately produces provisional and final results (under direct authority of the Range Master). Any incomplete or inaccurate score sheets must be promptly referred to the Range Master."
+            },
+            {
+              "number": "7.1.4",
+              "title": "Quartermaster (“QM”)",
+              "text": "Quartermaster (“QM”) – distributes, repairs and maintains all range equipment and supplies (e.g. targets, patches, paint, props, timers, batteries, staplers, clipboards etc.) (under direct authority of the Range Master)."
+            },
+            {
+              "number": "7.1.5",
+              "title": "Range Master (“RM”)",
+              "text": "Range Master (“RM”) – has overall authority over all persons and activities within the entire range, including range safety, the operation of all courses of fire and the application of these rules. All match disqualifications and appeals to arbitration must be brought to his attention. The Range Master is usually appointed by and works with the Match Director, however, in respect of SCSA sanctioned Level III and IV matches, the appointment of the Range Master is subject to the prior written approval of the Director of NROI."
+            },
+            {
+              "number": "7.1.6",
+              "title": "Match Director (“MD”)",
+              "text": "Match Director (“MD”) – handles overall match administration including squadding, scheduling, range construction, the coordination of all support staff and the provision of services. His authority and decisions will prevail with regard to all matters except in respect of matters in these rules which are the domain of the Range Master. The Match Director is appointed by the host organization and works with the Range Master."
+            },
+            {
+              "number": "7.1.7",
+              "title": "Director NROI (\"DNROI\")",
+              "text": "Director NROI (\"DNROI\") - While serving at a match as a member of the staff carries the same overall authority as the Match Director and Range Master. The DNROI while on staff will be there to assist the Match Director and Range Master in all endeavors to keep things running smoothly and help to make the match a success."
+            }
+          ]
+        },
+        {
+          "chapter": "7",
+          "number": "7.2",
+          "title": "Discipline of Match Officials",
+          "rules": [
+            {
+              "number": "7.2.1",
+              "title": null,
+              "text": "The Range Master has authority over all Match Officials other than the Match Director (except when the Match Director is actually participating as a competitor at the match) and is responsible for decisions in matters concerning conduct and discipline."
+            },
+            {
+              "number": "7.2.2",
+              "title": null,
+              "text": "In the event that a Match Official is disciplined, the Range Master must send a report of the incident and details of the disciplinary action to the Director of NROI."
+            },
+            {
+              "number": "7.2.3",
+              "title": null,
+              "text": "A Match Official who is disqualified from a match for a safety infraction while competing will continue to be eligible to serve as a Match Official for the match, providing the medical provisions in 10.2.1 are not the cause of the disqualification. The Range Master will make all decisions related to an official's participation if the official is disqualified for any reason other than a safety violation."
+            },
+            {
+              "number": "7.2.4",
+              "title": null,
+              "text": "All match officials are subject to the current published Range Officer Discipline Policy, which is posted on the USPSA website."
+            }
+          ]
+        },
+        {
+          "chapter": "7",
+          "number": "7.3",
+          "title": "Appointment of Officials",
+          "rules": [
+            {
+              "number": "7.3.1",
+              "title": null,
+              "text": "Match organizers must, prior to commencement of a match, appoint a Match Director and a Range Master to carry out the duties detailed in these rules. The nominated Range Master should preferably be the most competent and experienced certified Range Official present (see Rule 7.1.5). For Level I and Level II matches a single person may be appointed to be both the Match Director and the Range Master."
+            },
+            {
+              "number": "7.3.2",
+              "title": null,
+              "text": "References in these rules to Range Officials (e.g., “Range Officer”, “Range Master” etc.), mean personnel who have been officially appointed by match organizers to actually serve in an official capacity at the match. Persons who are certified Range Officials, but who are actually participating in the match as regular competitors, have no standing or authority as Range Officials for that match. Such persons should therefore not participate in the match wearing garments bearing NROI insignia."
+            },
+            {
+              "number": "7.3.2.1",
+              "title": null,
+              "text": "At Level II and above matches, only staff assigned to the stage may make penalty, safety, or procedural calls during the COF. When match staff are actively competing in a match, only the timer and tablet Range Officials and designated assistant Range Official(s) for a competitor's COF may make such calls during that COF. The Range Master may make such calls anytime when present at a stage and when not the actual competitor during the course of fire."
+            },
+            {
+              "number": "7.3.3",
+              "title": null,
+              "text": "Matches of all Levels shall publicly publish or announce to competitors, the identity of the Match Director, Range Master, Stats Officer or other match officials as appropriate to the level of match."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "Stage Procedures, Ready Conditions, and Range Commands",
+      "sections": [
+        {
+          "chapter": "8",
+          "number": "8.1",
+          "title": "Firearm Ready Conditions",
+          "rules": [
+            {
+              "number": "8.1",
+              "title": null,
+              "text": "The ready condition for firearms will normally be as stated below. However, in the event that a competitor fails to load the chamber whether inadvertently or intentionally, the Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer must not take any action, as the competitor is always responsible for the handling of the firearm."
+            },
+            {
+              "number": "8.1.1",
+              "title": null,
+              "text": "Revolvers: Single Action – hammer fully down on an empty chamber, or if a safety notch is fitted, hammer down over a loaded chamber (transfer bar designs excepted). Double Action – hammer fully down and all chambers may be loaded. Non-traditional revolvers (e.g. those which operate in a “self-loading” mode) are not allowed. Rimfire Revolvers – may start with the hammer cocked."
+            },
+            {
+              "number": "8.1.2",
+              "title": null,
+              "text": "Self-loading firearms: Single action – chamber loaded, hammer cocked, and the safety engaged. PCC – Ready Condition: carbine will be prepared with a loaded chamber, loaded magazine inserted, hammer cocked. Rimfire Firearms – rifles and pistols will be prepared with a loaded chamber, loaded magazine inserted, hammer cocked. “Double action” – chamber loaded, hammer fully down or de-cocked. “Selective action” – chamber loaded with hammer fully down, or chamber loaded, and hammer cocked with external safety engaged (see Divisions in Appendix D). “Striker fired/Safe Action” – chamber loaded, handgun cocked, external safety engaged if present."
+            },
+            {
+              "number": "8.1.3",
+              "title": null,
+              "text": "With respect to Rule 8.1.2, the term “safety” means the primary visible safety lever on the firearm (e.g. the thumb safety on a 1911 type handgun). In the event of doubt, the Range Master is the final authority on this matter. This safety must be on while the firearm is loaded in the holster, see 10.3.9."
+            },
+            {
+              "number": "8.1.4",
+              "title": null,
+              "text": "When applicable, the grip safety may be disabled provided that the primary safety (the primary visible safety lever, e.g. the thumb safety on a 1911 type handgun) is operable. Production and Carry Optics division handguns are explicitly excluded from this rule (See Appendices D4 and D7, item 22.1)."
+            },
+            {
+              "number": "8.1.5",
+              "title": null,
+              "text": "Leaving the Line: No contestant may leave the firing line position until the firearm has been unloaded, inspected and cleared by the Range Officer. The firearm will then be holstered or placed in a protective case, sheath or bag. Long guns must be carried from the line with a chamber flag in place in a case or bag, or uncased with muzzle up or down."
+            },
+            {
+              "number": "8.1.6",
+              "title": null,
+              "text": "When casing or uncasing any firearm at the firing position, the muzzle of the firearm must always be pointed downrange."
+            },
+            {
+              "number": "8.1.7",
+              "title": null,
+              "text": "The on-deck competitor, if shooting a Rimfire Rifle or PCC, may unbag or remove their firearm from the 3-gun cart or case into a side berm or staging area provided the bay being used has sufficient side-berm space to permit this practice. Once the firearm is removed from the case or cart the muzzle must remain pointed reasonably vertical (up or down), at all times, with a chamber flag inserted, until the Make Ready command is issued."
+            },
+            {
+              "number": "8.1.8",
+              "title": null,
+              "text": "Competitors may compete in PCC or a rimfire division while wearing a single unloaded and holstered handgun. Should the holstered handgun be dropped during the course of fire, the competitor will be disqualified per 10.3.3."
+            }
+          ]
+        },
+        {
+          "chapter": "8",
+          "number": "8.2",
+          "title": "Start Position",
+          "rules": [
+            {
+              "number": "8.2.1",
+              "title": null,
+              "text": "The start position is standing within the box. When the competitor is ready, they will assume the required start position to indicate their readiness to the Range Officer. The competitor must remain still and in the appropriate position until the start signal."
+            },
+            {
+              "number": "8.2.2",
+              "title": null,
+              "text": "In centerfire handgun competition, hands are to be held in the “surrender” position with wrists and hands above the shoulders and fully visible from behind and handgun loaded and holstered per 8.1."
+            },
+            {
+              "number": "8.2.3",
+              "title": null,
+              "text": "In the Rimfire Pistol, Rimfire Rifle, and Pistol Caliber Carbine matches, there will be an aiming point (marker, cone, flag, or sign at a maximum of 9” wide) centered downrange directly in front of each shooting box 10’ away and 18- 24” high. For Showdown and Outer Limits an aiming point will be placed in front of each shooting box. The competitor, while waiting for the start signal, must be pointing/aiming their gun at the aiming point with their finger off the trigger and the finger outside of the trigger guard. Each firearm may start with the hammer cocked and, if applicable, with the safety off."
+            },
+            {
+              "number": "8.2.4",
+              "title": null,
+              "text": "A competitor not in the proper start position prior to the start signal will be required to assume the correct start position by the Range Officer. This includes competitors shooting the improper number of strings from the shooting boxes on Showdown. Competitors are required to shoot three strings from one box and two strings from the other, shot in any combination. The Range Officer should remind the competitor to change boxes. Failure to move between boxes after three strings have been shot from one shooting box will result in the competitor being required to move and reshoot any strings shot from the incorrect box. Strings fired from the incorrect box will not be counted—only the time on the reshoot will count. It is acceptable to shoot in the 2-2-1 shooting order if the competitor so chooses; however, 3/2 or 2/3 are acceptable sequences as well."
+            }
+          ]
+        },
+        {
+          "chapter": "8",
+          "number": "8.3",
+          "title": "Range Commands",
+          "rules": [
+            {
+              "number": "8.3",
+              "title": null,
+              "text": "The Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer will direct the competitor using the following commands:"
+            },
+            {
+              "number": "8.3.1",
+              "title": null,
+              "text": "“Make ready” Under the direct supervision of the Range Officer, the competitor must face down range and prepare their firearm. The competitor must then assume the required start position. At this point, the Range Officer will proceed. This command signifies the start of the course of fire."
+            },
+            {
+              "number": "8.3.1.1",
+              "title": null,
+              "text": "The “make ready” command signifies the start of the competitor’s attempt at the stage or course of fire. Once the “make ready” command has been given, the competitor must not move away from the start location without the prior approval, and under the direct supervision, of the Range Officer. Box to box movement on Outer Limits is permitted."
+            },
+            {
+              "number": "8.3.1.2",
+              "title": null,
+              "text": "Sight Pictures: The competitor will have a maximum of one minute after the Make Ready command to prepare for the run. Sight pictures may be taken during the Make Ready process and while preparing for the next string. Note: Should the competitor experience an accidental discharge while taking a sight picture a disqualification under rule 10.4.1 shall be issued."
+            },
+            {
+              "number": "8.3.2",
+              "title": null,
+              "text": "“Are you ready?” The lack of any negative response from the competitor indicates that they fully understand the requirements of the course of fire and are ready to proceed. If the competitor is not ready at the “Are you ready?” command, he must state “Not ready”. For each subsequent string after the first, the Range Officer shall proceed from this command, once the competitor has assumed the start position."
+            },
+            {
+              "number": "8.3.3",
+              "title": null,
+              "text": "“Stand by” This command should be followed by the start signal within 1 to 4 seconds. It is recommended that the start signal be consistent for each string started for a given competitor—a cadence is desirable in Steel Challenge. The interval may change between competitors, however."
+            },
+            {
+              "number": "8.3.4",
+              "title": null,
+              "text": "“Start signal” At the audible start signal the competitor is to begin their attempt at the course of fire. If a competitor fails to react to the audible start signal, for any reason, the Range Officer will confirm that the competitor is ready to attempt the course of fire, and will resume the range commands from “Are You Ready?”"
+            },
+            {
+              "number": "8.3.5",
+              "title": null,
+              "text": "(OPTIONAL) “Prepare for your next string” After the completion of a string, if the competitor has not completed the required number of strings they may be instructed to prepare for the next string. The competitor should reload, if necessary, and assume the appropriate start position."
+            },
+            {
+              "number": "8.3.6",
+              "title": null,
+              "text": "“Stop” Any Range Officer assigned to a stage or the Match Director or Range Master may issue this command at any time. The competitor must immediately cease firing, stop moving, and wait for further instructions."
+            },
+            {
+              "number": "8.3.7",
+              "title": null,
+              "text": "“If you are finished, unload and show clear” (or “Unload and show clear” if Stop is used.) After the completion of the final string, the Range Officer will issue this command. If the competitor has finished shooting, he must lower his firearm, completely unload it and present it for inspection by the Range Officer with the muzzle pointed down range."
+            },
+            {
+              "number": "8.3.7.1",
+              "title": null,
+              "text": "Semi-automatic firearms must be presented with magazine removed; slide or bolt locked or held open, and chamber empty."
+            },
+            {
+              "number": "8.3.7.2",
+              "title": null,
+              "text": "Revolvers must be presented with the cylinder swung out and empty."
+            },
+            {
+              "number": "8.3.8",
+              "title": null,
+              "text": "“If clear, hammer down, holster” (handguns) or “If clear, hammer down, flag” (PCC) or “If clear, cylinder closed, holster” (revolvers). After issuance of this command, the competitor is prohibited from firing. While continuing to point the firearm safely downrange, the competitor must perform a final safety check of the firearm as follows:"
+            },
+            {
+              "number": "8.3.8.1",
+              "title": null,
+              "text": "Centerfire self-loading handgun – release the slide and pull the trigger (without touching the hammer or de-cocker, if any)."
+            },
+            {
+              "number": "8.3.8.2",
+              "title": null,
+              "text": "Rimfire Pistol – show clear and holster or case. (Trigger need not be pulled.) RO may say \"If clear, bag.\""
+            },
+            {
+              "number": "8.3.8.3",
+              "title": null,
+              "text": "Rimfire Rifle – show clear, flag, and case/muzzle up. (Trigger need not be pulled.) Note: The bolt must be closed on a chamber flag. RO may say \"If clear, flag.\""
+            },
+            {
+              "number": "8.3.8.4",
+              "title": null,
+              "text": "Pistol Caliber Carbine – show clear, close the bolt, pull the trigger, insert flag, case. The bolt must be closed on a chamber flag."
+            },
+            {
+              "number": "8.3.8.5",
+              "title": null,
+              "text": "Revolver – close the empty cylinder (without touching the hammer, if any)."
+            },
+            {
+              "number": "8.3.8.6",
+              "title": null,
+              "text": "If the gun proves to be clear, the competitor must holster or case/bag their firearm."
+            },
+            {
+              "number": "8.3.8.7",
+              "title": null,
+              "text": "For Rimfire Rifle and Pistol Caliber Carbine the preferred method of transport is with a case or scabbard that covers the trigger guard and trigger, and the bolt closed on a flag; however, “3-gun Carts” may be used. When transporting rifles the use of chamber flags in each rifle is required, whether or not they are cased. The muzzle of the rifle must point in a safe direction while in the cart."
+            },
+            {
+              "number": "8.3.8.8",
+              "title": null,
+              "text": "If the gun does not prove to be clear, the Range Officer will resume from the command “Stop” (rule 8.3.6), followed by “Unload and show clear” (rule 8.3.7). Once the gun has proven to be clear (rule 8.3.8, inclusive), the competitor will be disqualified under 10.4.1."
+            },
+            {
+              "number": "8.3.9",
+              "title": null,
+              "text": "If the cartridge fails to extract/eject, which is common with Rimfire Pistols and Rifles, once the time has been recorded and with approval of the Range Officer, the last cartridge may be fired directly into the berm without penalty. After the cartridge has been fired the Range Officer will resume the commands from rule 8.3.8, “If clear, hammer down,” as appropriate for the firearm."
+            },
+            {
+              "number": "8.3.10",
+              "title": null,
+              "text": "“Range is clear” This declaration signifies the end of the stage. Once the declaration is made, officials and competitors may move forward to paint the plates."
+            }
+          ]
+        },
+        {
+          "chapter": "8",
+          "number": "8.4",
+          "title": "Firearm Shooting Sequence",
+          "rules": [
+            {
+              "number": "8.4",
+              "title": null,
+              "text": "Steel Challenge is unique in that competitors compete in multiple matches simultaneously."
+            },
+            {
+              "number": "8.4.1",
+              "title": null,
+              "text": "Competitors are permitted to shoot multiple firearms as they compete during the event."
+            },
+            {
+              "number": "8.4.2",
+              "title": null,
+              "text": "Any specific shooting sequence for competitors shooting multiple firearms will be determined by the match director and each competitor will be made aware of these requirements in advance of starting the match."
+            },
+            {
+              "number": "8.4.3",
+              "title": null,
+              "text": "At Level II or higher matches competitors are prohibited from shooting back- to-back. At least one other competitor must shoot the course of fire between the first and any subsequent attempts by the original competitor."
+            }
+          ]
+        },
+        {
+          "chapter": "8",
+          "number": "8.5",
+          "title": "Movement 8.5.1 Except when the competitor is actually aiming or shooting at targets, all movement (see Appendix A3) must be accomplished with the fingers visibly outside the trigger guard. 8.6 Assistance or Interference",
+          "rules": [
+            {
+              "number": "8.5",
+              "title": null,
+              "text": "In the event that inadvertent contact from the Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer or another external influence has interfered with the competitor during a course of fire, the Range Officer may offer the competitor a reshoot of the affected string. The competitor must accept or decline the offer prior to seeing the time or the score from the initial attempt. However, in the event that the competitor commits a safety infraction during any such interference, the provisions of may still apply."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "Scoring",
+      "sections": [
+        {
+          "chapter": "9",
+          "number": "9.1",
+          "title": "General Principles",
+          "rules": [
+            {
+              "number": "9.1",
+              "title": null,
+              "text": "Steel Challenge scoring is simple: your time is your score; lowest time wins."
+            },
+            {
+              "number": "9.1.1",
+              "title": null,
+              "text": "Each stage consists of five targets, commonly referred to as plates. Four are standard plates, and the fifth is designated as the stop plate. Each of the standard plates must be hit at least once before hitting the stop plate, to avoid incurring penalties. Competitors may fire as many rounds as they deem necessary for each string of fire. The worst string on each stage will be thrown out, and the total of the remaining times will be the competitor’s score for that stage. See Appendix E for stage descriptions, set-up diagrams and specified procedures for each stage."
+            },
+            {
+              "number": "9.1.2",
+              "title": null,
+              "text": "The total of a competitor’s stage times will be his score for the match. Total time for all stages will determine the order of finish for final standings— lowest time wins. The best four out of five strings will be counted as the total score for each stage, except for Outer Limits, which will be the best three out of four strings."
+            }
+          ]
+        },
+        {
+          "chapter": "9",
+          "number": "9.2",
+          "title": "Maximum Time",
+          "rules": [
+            {
+              "number": "9.2",
+              "title": null,
+              "text": "The maximum time allowed for an individual string is 30 seconds. Any hits made after the maximum time allowance will not be counted. The competitor will be stopped and asked to prepare for their next string if they reach the 30 second limit."
+            },
+            {
+              "number": "9.2.1",
+              "title": null,
+              "text": "The maximum score for any string is 30 seconds, no matter how many misses or penalties may have been accrued during the string."
+            },
+            {
+              "number": "9.2.2",
+              "title": null,
+              "text": "Sound-Actuated Timing: Sound-actuated timing uses conventional shot timers that “hear” each shot. The competitor’s elapsed time stops with the last shot fired. Timers will not be backed up for multiple hits on the stop plate or hits after the stop plate. The time stops with the LAST SHOT FIRED."
+            }
+          ]
+        },
+        {
+          "chapter": "9",
+          "number": "9.3",
+          "title": "Misses (Standard Plates)",
+          "rules": [
+            {
+              "number": "9.3",
+              "title": null,
+              "text": "Any standard plate which has not been hit before the stop plate will count as a Miss. Each Miss on a standard plate will result in a 3 second penalty, added to the competitor’s time for that string."
+            },
+            {
+              "number": "9.3.1",
+              "title": null,
+              "text": "When a Range Officer scores a miss, he must inform the competitor at the end of each string. It is the competitor’s responsibility to appeal the decision at the end of that string. The Range Officer will go downrange to inspect the target."
+            },
+            {
+              "number": "9.3.2",
+              "title": null,
+              "text": "If the bullet has left a clear mark on the edge or face of the plate, it will be scored as a hit. If there is no discernible mark, it will be scored as a miss. (See 9.4)"
+            },
+            {
+              "number": "9.3.3",
+              "title": null,
+              "text": "If the competitor still feels the call is in error, he may appeal to the Range Master. The Range Master’s call will be final, and no further appeals will be allowed with respect to the scoring decision. Once the next string of fire has begun, there will be no further opportunity to appeal the Range Officer’s call."
+            }
+          ]
+        },
+        {
+          "chapter": "9",
+          "number": "9.4",
+          "title": "Misses (Stop Plate)",
+          "rules": [
+            {
+              "number": "9.4",
+              "title": null,
+              "text": "If the stop plate is not hit, the score for that string is 30 seconds. It is the competitor’s responsibility to stop the time by hitting the stop plate with a clear hit on the edge or face of the plate."
+            }
+          ]
+        },
+        {
+          "chapter": "9",
+          "number": "9.5",
+          "title": "Scoring Methods",
+          "rules": [
+            {
+              "number": "9.5",
+              "title": null,
+              "text": "Steel Challenge events will be timed with sound-actuated shot timers. Hits on plates are scored visually."
+            }
+          ]
+        },
+        {
+          "chapter": "9",
+          "number": "9.6",
+          "title": "Tie Scores (Stage)",
+          "rules": [
+            {
+              "number": "9.6",
+              "title": null,
+              "text": "Optional but highly recommended. Should a tie for first place on any stage occur, the fastest single string of that particular stage will be used to break the tie. If still needed, the second-fastest and third-fastest, etc. strings will be used to break the tie."
+            },
+            {
+              "number": "9.6.1",
+              "title": null,
+              "text": "Tie Scores (Match): Should a tie for overall placement occur, the competitor with the most stage wins (among the tied competitors) will be used as the tiebreaker. If there is a still a tie (2 tied competitors both win 4 stages), the fastest Outer Limits stage score will determine the winner, should Outer Limits not be available, prior to the match, a stage will randomly be selected by the Match Director."
+            }
+          ]
+        },
+        {
+          "chapter": "9",
+          "number": "9.7",
+          "title": "Scoring Responsibility",
+          "rules": [
+            {
+              "number": "9.7",
+              "title": null,
+              "text": "It is the competitor’s responsibility to provide the correct scorecard for each stage, match and entry division, and to verify their scores as written on the scorecard when finished shooting each stage. When electronic scoring is used (e.g., PractiScore) it is still the competitor’s responsibility to review their times prior to their score being saved on the scoring device. When the score is available the competitor must approve the score in the software by personally clicking the “approve” or similar button as the electronic equivalent of signing a score sheet. Users leaving a stage after shooting who do not personally tap the approve or equivalent button forfeit their right to protest a stage score and defer the approval of their score to the scorekeeper on that stage. NOTE: At this time PractiScore is the only USPSA/SCSA approved electronic scoring software for Steel Challenge matches."
+            },
+            {
+              "number": "9.7.1",
+              "title": null,
+              "text": "Any questions regarding the scores entered on the scorecard or into the scoring software should be directed to the Range Officers on the stage before signing the scorecard or approving the electronic score. If questions remain, the Range Master should be summoned."
+            },
+            {
+              "number": "9.7.2",
+              "title": null,
+              "text": "When the scorecard has been signed by the competitor and the Range Officer or when the times have been recorded and saved on the scoring tablet it is definitive and cannot be changed, other than to correct math errors or by mutual consent of the Range Officers, Range Master, and competitor."
+            },
+            {
+              "number": "9.7.3",
+              "title": null,
+              "text": "Coaching: For Level I (club matches) a competitor may request the scoring Range Officer, or other squad member other than the Range Officer running the timer, call misses during the course of fire. The competitor should notify the Range Officer prior to commencing the course of fire. Reshoots will not be given if a Range Officer or other squad member mistakenly calls a hit a miss or a miss a hit. Calling hits and/or misses is not permitted at Level II or higher events. At any level match, the range officer may assist or remind the competitor of stage requirements, magazine changes, etc. without penalty. Helping with chamber flags is encouraged in order to speed stage turnaround. No coaching by competitors is permitted outside of the stated allowances herein."
+            }
+          ]
+        },
+        {
+          "chapter": "9",
+          "number": "9.8",
+          "title": "Final Scores",
+          "rules": [
+            {
+              "number": "9.8",
+              "title": null,
+              "text": "Scores will not be considered final until the complete scores have been posted for inspection by the competitors for one hour. This one-hour review period may be waived by a majority vote of the competitors present."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "title": "Penalties",
+      "sections": [
+        {
+          "chapter": "10",
+          "number": "10.1",
+          "title": "Procedural Penalties",
+          "rules": [
+            {
+              "number": "10.1.1",
+              "title": "Creeping",
+              "text": "Creeping – A competitor who is creeping (e.g., moving hands towards the firearm or raising the firearm from low ready start position) AT the start signal shall receive a 3 second procedural penalty."
+            },
+            {
+              "number": "10.1.1.1",
+              "title": "False Start",
+              "text": "False Start – In the event that a competitor starts moving hands towards or raising the firearm BEFORE the start signal the Range Officer will, as soon as possible, stop and restart the competitor once the course of fire has been restored."
+            },
+            {
+              "number": "10.1.2",
+              "title": "Foot Faults",
+              "text": "Foot Faults – A competitor who fires a shot while touching the ground outside the appropriate shooting box is considered to be faulting that box. Shots fired while faulting a box will result in a 3 second penalty for each shot that a fault occurs."
+            },
+            {
+              "number": "10.1.2.1",
+              "title": null,
+              "text": "Placing the foot on top of the raised surface of the shooting box itself is not a foot fault. A foot fault only occurs when the foot touches the ground outside the box."
+            },
+            {
+              "number": "10.1.3",
+              "title": "Designated Targets",
+              "text": "Designated Targets – Outer Limits requires that designated targets be shot from specific shooting boxes. Failure to hit each target from the correct shooting box will result in a 3 second penalty for each occurrence."
+            },
+            {
+              "number": "10.1.3.1",
+              "title": null,
+              "text": "If the competitor fires and leaves Box A, then realizes they missed and/or hit the plates out of sequence and returns to Box A and continues to shoot, there will be no penalty."
+            },
+            {
+              "number": "10.1.3.2",
+              "title": null,
+              "text": "Any plates hit from the wrong shooting box will be scored as misses unless the competitor subsequently takes corrective action prior to hitting the stop plate by shooting the plates from the correct box. Once the stop plate is hit time stops and all appropriate penalties apply."
+            },
+            {
+              "number": "10.1.4",
+              "title": "Procedural Errors",
+              "text": "Procedural Errors – A competitor whose actions are in violation of specified stage procedures is considered to have committed a procedural error. Procedural errors will result in a 3 second penalty for each occurrence. There is no double jeopardy, i.e., hitting plates from the wrong box in Outer Limits is a 3 second miss penalty, and not an additional procedural penalty. Procedural penalties will be announced to the competitor upon completion of the string in which they were earned."
+            },
+            {
+              "number": "10.1.4.1",
+              "title": null,
+              "text": "Improper movement or failure to move on stages where movement is required during the string will be considered a procedural and a 4 second penalty applied, per string. On Outer Limits, should the Range Master accept the competitor’s request for penalty in lieu of moving, he shall assess a 4 second penalty per string. Failure to move will also result in a 4 second penalty per string. Only one 4 second procedural penalty per string will be applied. Penalties for shooting the wrong targets from the center box do not apply in this instance, providing the RM has approved the special penalty request."
+            },
+            {
+              "number": "10.1.4.2",
+              "title": null,
+              "text": "Coaching: Assistance at a Level II or higher match will result in a coaching penalty, per string. A 3 second procedural penalty will be assessed to both the coach and the competitor being coached. The competitor will receive the penalty on the string it occurred. The coach will have the penalty added to the fastest string on the stage where the coaching occurred."
+            }
+          ]
+        },
+        {
+          "chapter": "10",
+          "number": "10.2",
+          "title": "Disqualifications, General Principles",
+          "rules": [
+            {
+              "number": "10.2",
+              "title": null,
+              "text": "Competitors who have been disqualified may not shoot during the remainder of the event. This includes events that span multiple days. However, completed match scores will still count. For example, if a competitor shoots a complete score in Revolver then disqualifies while shooting Single Stack that competitor’s Revolver score still stands. In the case where the competitor is competing in two matches simultaneously such as centerfire pistol and Rimfire Pistol matches and the competitor is disqualified in either match he is automatically disqualified in all matches in which he is currently competing. In the case where a competitor is competing in multiple matches at the same time all entries should be marked as DQ on the scoring tablet or score sheet."
+            },
+            {
+              "number": "10.2.1",
+              "title": null,
+              "text": "A competitor or staff member who commits a safety infraction or any other prohibited activity during a SCSA match will be disqualified from that match. When the safety infraction or prohibited activity is caused by a medical condition the competitor or staff member will be prohibited from attempting any remaining courses of fire and duties in that match regardless of the schedule or physical layout of the match. The Director of NROI shall be notified immediately."
+            }
+          ]
+        },
+        {
+          "chapter": "10",
+          "number": "10.3",
+          "title": "Safety violations – The following will be grounds for an automatic disqualification:",
+          "rules": [
+            {
+              "number": "10.3.1",
+              "title": null,
+              "text": "Unsafe gun handling—specifically, handling a firearm unsupervised, or outside the boundaries of a staging or Safety Area. This includes deliberately removing a flag from a flagged firearm without direct RO supervision and command."
+            },
+            {
+              "number": "10.3.2",
+              "title": null,
+              "text": "Pointing a firearm up range (breaking the 180-degree line)."
+            },
+            {
+              "number": "10.3.3",
+              "title": null,
+              "text": "Dropping a firearm, whether loaded or unloaded, at any time during a course of fire. Note that a competitor who, for any reason during a course of fire, safely and intentionally places the firearm on the ground or other stable object will not be disqualified provided:"
+            },
+            {
+              "number": "10.3.3.1",
+              "title": null,
+              "text": "The competitor maintains constant physical contact with the firearm, until it is placed firmly and securely on the ground or another stable object, and"
+            },
+            {
+              "number": "10.3.3.2",
+              "title": null,
+              "text": "The competitor remains within 3 feet of the firearm at all times, and"
+            },
+            {
+              "number": "10.3.3.3",
+              "title": null,
+              "text": "The provisions of Rule 10.3.2 do not occur, and"
+            },
+            {
+              "number": "10.3.3.4",
+              "title": null,
+              "text": "The firearm is in the ready condition as specified in Section 8.1, or"
+            },
+            {
+              "number": "10.3.3.5",
+              "title": null,
+              "text": "A self-loading firearm has an empty chamber, the magazine removed, and the slide/bolt locked open, or"
+            },
+            {
+              "number": "10.3.3.6",
+              "title": null,
+              "text": "A revolver has the cylinder open and empty."
+            },
+            {
+              "number": "10.3.4",
+              "title": null,
+              "text": "Leaving the firing line with a loaded firearm, or possession of a loaded firearm anywhere other than on the firing line."
+            },
+            {
+              "number": "10.3.5",
+              "title": null,
+              "text": "Retrieving a dropped firearm. Dropped firearms must always be retrieved by a Range Officer who will, after checking and/or clearing the firearm, return it to the competitor for clearing and holstering or casing. Dropping an unloaded firearm or causing it to fall outside of a course of fire is not an infraction; however, a competitor who retrieves a dropped firearm while unsupervised will receive a match disqualification."
+            },
+            {
+              "number": "10.3.6",
+              "title": null,
+              "text": "Sweeping or pointing the muzzle of a firearm at any part of any person’s body during the course of fire. If the firearm is in a case and not in the competitor’s hands, sweeping does not apply. Reaching forward of the muzzle of a cased firearm to open or close the case is not a sweeping infraction, provided the competitor’s hands are completely clear of the firearm itself."
+            },
+            {
+              "number": "10.3.6.1",
+              "title": null,
+              "text": "Exception – A match disqualification is not applicable for sweeping of the lower extremities (below the belt) while drawing or re-holstering a handgun, provided that the competitor’s fingers are clearly outside of the trigger guard. This exception is only for holstered handguns."
+            },
+            {
+              "number": "10.3.6.2",
+              "title": null,
+              "text": "Sweeping any person with the muzzle of a long gun during or outside the course of fire, whether loaded or not, even if a chamber flag is inserted. Exception - If carried muzzle-down outside the course of fire, the competitor's lower extremities are exempt from this provided the long gun is unloaded and flagged."
+            },
+            {
+              "number": "10.3.7",
+              "title": null,
+              "text": "Failure to keep the finger outside the trigger guard during movement in accordance with Section 8.5."
+            },
+            {
+              "number": "10.3.8",
+              "title": null,
+              "text": "Finger in the trigger guard during reload, unloading, loading or during remedial action or when adjusting a part on the firearm (e.g., stock, sight)."
+            },
+            {
+              "number": "10.3.9",
+              "title": null,
+              "text": "Holstering a loaded handgun without the external safety applied or on a revolver, with the hammer cocked. Holstering a double action or selective action pistol with the hammer cocked and the safety not applied."
+            },
+            {
+              "number": "10.3.10",
+              "title": null,
+              "text": "Handling live or dummy ammunition (including practice or training rounds, snap caps and empty cases), loaded magazines or loaded speed loading devices in a Safety Area. The word “handling” does not preclude competitors from entering a Safety Area with ammunition in magazines or speed loading devices on their belt, in their pockets or in their range bag, provided the competitor does not physically remove the ammunition, loaded magazines or loaded speed loading devices from their retaining or storage device while within the Safety Area."
+            },
+            {
+              "number": "10.3.11",
+              "title": null,
+              "text": "Having a loaded firearm other than when specifically ordered to by a Range Officer."
+            },
+            {
+              "number": "10.3.12",
+              "title": null,
+              "text": "Changing of a competitor’s equipment without prior permission of the Range Master."
+            },
+            {
+              "number": "10.3.13",
+              "title": null,
+              "text": "Unsafe long gun handling: Failing to point a long gun in a safe direction during casing/uncasing or placing/replacing on a conveyance/vehicle or violating other actions outlined in 5.1.4 or 2.5.2. The berm/back stop is not required while removing/returning a properly flagged long gun from/to a vehicle providing all other safety rules are followed."
+            },
+            {
+              "number": "10.3.14",
+              "title": null,
+              "text": "Using metal piercing, steel-core, incendiary, and/or tracer ammunition, as well as ammunition loaded with steel-jacketed projectiles (See rule 5.5.4), and/or using any ammunition which has been deemed unsafe by a Range Official (See rule 5.6.3)."
+            },
+            {
+              "number": "10.3.14.1",
+              "title": null,
+              "text": "Ammunition declared unsafe by a Range Official due to multiple squibs, shall not subject the competitor to disqualification, unless the competitor continues to use said ammunition after a Range Official has declared it unsafe."
+            }
+          ]
+        },
+        {
+          "chapter": "10",
+          "number": "10.4",
+          "title": "Accidental discharge",
+          "rules": [
+            {
+              "number": "10.4.1",
+              "title": null,
+              "text": "Any shot fired while loading/unloading/reloading or lowering the hammer. This includes any shot fired after the “If clear, hammer down, holster” (Rule 8.3.8) command has been issued, except where a shot is deliberately fired to clear the gun under RO supervision."
+            },
+            {
+              "number": "10.4.2",
+              "title": null,
+              "text": "Any shot fired during remedial action in the case of a malfunction or when adjusting a part on the firearm (e.g., stock, sight)."
+            },
+            {
+              "number": "10.4.3",
+              "title": null,
+              "text": "Any shot fired outside of a timed string, without RO permission."
+            },
+            {
+              "number": "10.4.4",
+              "title": null,
+              "text": "Any shot fired into the holster or into the ground within 10 feet of the competitor."
+            },
+            {
+              "number": "10.4.5",
+              "title": null,
+              "text": "Any shot fired which travels over a backstop or berm in any direction."
+            }
+          ]
+        },
+        {
+          "chapter": "10",
+          "number": "10.5",
+          "title": "Impairment",
+          "rules": [
+            {
+              "number": "10.5.1",
+              "title": null,
+              "text": "USPSA considers any substance, or circumstance, legal or otherwise which might impair or enhance performance, irrespective of route of administration, to be an extremely serious offense."
+            },
+            {
+              "number": "10.5.2",
+              "title": null,
+              "text": "Any substance or circumstance that affects a competitor's ability to safely handle a firearm and participate in the sport must not be tolerated. Examples include but are not limited to prohibited substances (legal or otherwise), extreme lack of sleep, illness, various OTC medications taken for illness, some medical conditions, etc. Any person, who in the opinion of the Range Master, is visibly unable to safely handle a firearm, will be disqualified from the match and may be required to leave the range. This is not subject to appeal. Note: Violations of any host range rules that may have been broken at the same time are the responsibility of the host range and not of USPSA."
+            }
+          ]
+        },
+        {
+          "chapter": "10",
+          "number": "10.6",
+          "title": "Unsportsmanlike behavior",
+          "rules": [
+            {
+              "number": "10.6.1",
+              "title": null,
+              "text": "Competitors will be disqualified from an event for conduct which a Range Officer deems to be unsportsmanlike. Examples of unsportsmanlike conduct include, but are not limited to, cheating, dishonesty, failing to comply with the reasonable directions of a Match Official, or any behavior likely to bring the sport into disrepute. The Range Master must be notified as soon as possible."
+            },
+            {
+              "number": "10.6.2",
+              "title": null,
+              "text": "Other persons may be expelled from the range for conduct which a Range Officer deems to be unacceptable. Examples of unacceptable conduct include, but are not limited to, failing to comply with the reasonable directions of a Match Official, interference with the operation of a course of fire and/or a competitor’s attempt thereof, and any other behavior likely to bring the sport into disrepute."
+            },
+            {
+              "number": "10.6.3",
+              "title": null,
+              "text": "A competitor who is deemed by a Range Officer to have intentionally removed or caused the loss of eye or hearing protection in order to gain a competitive advantage will be disqualified from the event."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "title": "Arbitration",
+      "sections": [
+        {
+          "chapter": "11",
+          "number": "11.1",
+          "title": "Right of Arbitration",
+          "rules": [
+            {
+              "number": "11.1",
+              "title": null,
+              "text": "A competitor who wishes an official review of a competitive matter may file a request for arbitration."
+            }
+          ]
+        },
+        {
+          "chapter": "11",
+          "number": "11.2",
+          "title": "Time Limit",
+          "rules": [
+            {
+              "number": "11.2",
+              "title": null,
+              "text": "The protest must be prepared in writing and submitted to the Range Master within one hour of the violation and before the close of competition on the day of the occurrence."
+            }
+          ]
+        },
+        {
+          "chapter": "11",
+          "number": "11.3",
+          "title": "Fees and Disbursement",
+          "rules": [
+            {
+              "number": "11.3",
+              "title": null,
+              "text": "A request for arbitration must be accompanied by a $100 cash fee. If the protest is decided in favor of the competitor, the fee will be returned to the competitor, and the paperwork submitted to the USPSA/ National Range Officers Institute. NROI main office. If the protest is denied (the original competitive decision is upheld), the fee will be retained by the match and arbitration paperwork will be forwarded to the USPSA/NROI main office."
+            }
+          ]
+        },
+        {
+          "chapter": "11",
+          "number": "11.4",
+          "title": "Preparing the Appeal",
+          "rules": [
+            {
+              "number": "11.4",
+              "title": null,
+              "text": "The competitor is responsible for the preparation and delivery of the written appeal, together with the appropriate fee. Both must be submitted to the Range Master within the specified period of time. Digital evidence must be provided to the Range Master immediately upon request for arbitration. Evidence may be provided by any viable means of transfer (cloud-based file sharing, text, email, etc.). The file(s) provided to the RM will be the only digital evidence accepted at arbitration."
+            }
+          ]
+        },
+        {
+          "chapter": "11",
+          "number": "11.5",
+          "title": "Issues of Fact",
+          "rules": [
+            {
+              "number": "11.5",
+              "title": null,
+              "text": "The Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer ’s ruling on whether an observed action occurred shall be considered factual (ex: foot faults, accidental discharges, breaking the 180, hit/miss on a target)."
+            }
+          ]
+        },
+        {
+          "chapter": "11",
+          "number": "11.6",
+          "title": "The Arbitration Board",
+          "rules": [
+            {
+              "number": "11.6",
+              "title": null,
+              "text": "Upon receipt of a valid request for arbitration, the A contest within an event. Match Director will convene an Arbitration Board, consisting of three experienced competitors who are not serving as match staff during the event, unless the arbitration occurs during a staff pre-match."
+            }
+          ]
+        },
+        {
+          "chapter": "11",
+          "number": "11.7",
+          "title": "Decision Time Limit",
+          "rules": [
+            {
+              "number": "11.7",
+              "title": null,
+              "text": "The Arbitration Board must reach a decision within 24 hours of the request for arbitration or before the results have been declared final by the A contest within an event. Match Director."
+            }
+          ]
+        },
+        {
+          "chapter": "11",
+          "number": "11.8",
+          "title": "Decision is Final",
+          "rules": [
+            {
+              "number": "11.8",
+              "title": null,
+              "text": "The decision of the Board is final and may not be appealed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "title": "Miscellaneous Matters",
+      "sections": [
+        {
+          "chapter": "12",
+          "number": "12.1",
+          "title": "Appendices",
+          "rules": [
+            {
+              "number": "12.1",
+              "title": null,
+              "text": "All Appendices included herein are an integral part of these rules."
+            }
+          ]
+        },
+        {
+          "chapter": "12",
+          "number": "12.2",
+          "title": "Language",
+          "rules": [
+            {
+              "number": "12.2",
+              "title": null,
+              "text": "English is the official language of the SCSA Rules. Optional but highly recommended. Should there be discrepancies between the English language version of these rules and versions presented in other languages, the English language version will prevail."
+            }
+          ]
+        },
+        {
+          "chapter": "12",
+          "number": "12.3",
+          "title": "Disclaimers",
+          "rules": [
+            {
+              "number": "12.3",
+              "title": null,
+              "text": "Competitors and all other persons in attendance at a SCSA match are wholly, solely and personally responsible to ensure that all and any equipment which they bring to the match is fully in compliance with all laws applicable to the geographical or political area where the match is being held. Neither USPSA nor any USPSA Officers, nor any organization affiliated to USPSA nor any officers of any organization affiliated to USPSA accepts any responsibility whatsoever in this regard, nor in respect of any loss, damage, accident, injury or death suffered by any person or entity as a result of the lawful or unlawful use of any such equipment."
+            }
+          ]
+        },
+        {
+          "chapter": "12",
+          "number": "12.4",
+          "title": "Gender",
+          "rules": [
+            {
+              "number": "12.4",
+              "title": null,
+              "text": "References made herein to the male gender (i.e. “he”, his”, “him”) are deemed to include the female gender (i.e. “she”, “her”)."
+            }
+          ]
+        },
+        {
+          "chapter": "12",
+          "number": "12.5",
+          "title": "Measurements",
+          "rules": [
+            {
+              "number": "12.5",
+              "title": null,
+              "text": "Throughout these rules, with minor exceptions, measurements are expressed in inches, feet or yards. Measurements expressed in mm or cm in brackets are only provided as a guide."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "appendices": [
+    {
+      "number": "A1",
+      "title": "Match Levels",
+      "text": "Level III (Regional/ Level IV (World Championship) This means the same as “will,” “shall,” etc. Compliance is mandatory. Must use official Steel Challenge Stages Level I (Local) Level II (State) National) R (A minimum of 2 M M M official stages must be used) Certified Range Master N/A R R* M Range Master approved by National Range Officers Institute. NROI N/A M M M Competitors must be SCSA members R M M M -Mandatory -Recommended * Note: If Range Master is not certified, NROI approval required. Special Notes: Level II matches may elect to run only 6 of the 8 Steel Challenge stages, and may omit ONLY Outer Limits and Speed Option, due to distance limitations. Level III matches must run all 8 Steel Challenge stages. Level II and higher require prior approval – NO match may use the SCSA name without being conducted at/by a SCSA affiliated club/ range. Matches represented to be a “SCSA Championship” (State, etc.) must be Level II or above. $L1b $L1c $L1d\nThis means the same as “will,” “shall,” etc. Compliance is mandatory.\nThis means the same as “will,” “shall,” etc. Compliance is mandatory.\nNational Range Officers Institute.\nNational Range Officers Institute."
+    },
+    {
+      "number": "A2",
+      "title": "Steel Challenge Recognition",
+      "text": "Level I (Local) Level II Level III (Regional/ Level IV (World Championship) Division Recognition 3 5 (recommended) (State) National) Class Recognition 3 5 (recommended) Category Recognition 3 5 (recommended) A contest within an event. Match Directors at Level I matches may elect to recognize a division/class/category with less than 3 entries. Match Directors have the latitude to set the award schedules based on the number of competitors within a division/class once minimums are met. For example, the Match Director may elect to use the 5/7/9 approach where 1st place is recognized if there are 5 entries, 2nd place if there are 7, and 3rd place if there are 9. Alternatively, a single multiple such as 5 may be used. All category awards along with Steel Master and Rifle Master awards are limited to a single award for High Overall. A2.1 Category Awards All competitors compete for overall placement in the match. In addition to overall placement, competitors may also compete for category-specific awards based on personal characteristics. Competitors may enter more than one category. For example, an individual may qualify for (and enter) both the Junior and Lady categories. Category Eligibility Applicable Documentation Lady A competitor individually registered as “Lady” is a person who was registered female at the time of birth and who has two X chromosomes (XX). $L1b $L1c $L1d $L1e $L1f $L20 $L21 $L22 $L23 $L24 $L25 $L26 $L27 $L28 $L29 $L2a $L2b $L2c $L2d $L2e $L2f $L30 $L31 $L32\nA contest within an event.\nA contest within an event.\nA firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm.\nA firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm.\nThe diameter of a bullet measured in millimeters (or thousandths of an inch).\nThe diameter of a bullet measured in millimeters (or thousandths of an inch)."
+    },
+    {
+      "number": "A3",
+      "title": "Glossary",
+      "text": ""
+    },
+    {
+      "number": "A4",
+      "title": "Classification",
+      "text": "All competitors that are active USPSA/SCSA members may be classified in one or more divisions provided the competitor has shot a minimum of 4 of the 8 official steel challenge stages. As a competitor shoots additional official steel challenge stages, the times shot on those stages will count towards classification. With this in mind it’s possible that a competitor may be classified on a range of 4 to 8 stages. Calculation Process: On a periodic basis, currently once a week on Wednesday, each competitor’s classification is calculated. Each stage and division has a Peak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times. Peak Stage Time (PST). PST’s were created by taking an average of the 2014 and 2015 World Speed Shooting Championship (WSSC) stage winning times for each stage and division. Those numbers were then further reviewed and where appropriate, modified, to create the PST’s used for calculation. The WSSC PST’s will be reviewed annually, and if appropriate, adjusted. Class Percentage Required GM\nPeak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times.\nPeak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times."
+    },
+    {
+      "number": "B",
+      "title": "Stage Diagrams",
+      "text": "B.1 – 5 to Go, SC-101 https://storage.uspsa.org/rulebook/assets/image-51ea710b.png Rulebook diagram B.2 – Showdown, SC-102 https://storage.uspsa.org/rulebook/assets/image-aa45a50b.png Rulebook diagram B.3 – Smoke & Hope, SC-103 https://storage.uspsa.org/rulebook/assets/image-bb7b2c48.png Rulebook diagram B.4 – Outer Limits, SC-104 https://storage.uspsa.org/rulebook/assets/image-36f6c9b5.png Rulebook diagram B.5 – Accelerator, SC-105 https://storage.uspsa.org/rulebook/assets/image-798c3380.png Rulebook diagram B.6 – The Pendulum, SC-106 https://storage.uspsa.org/rulebook/assets/image-f678f14c.png Rulebook diagram B.7 – Speed Option, SC-107 https://storage.uspsa.org/rulebook/assets/b-7-speed-option-sc-107-743a28ab.png B.7 – Speed Option, SC-107 B.8 – Roundabout, SC-108 https://storage.uspsa.org/rulebook/assets/image-4fdc31ef.png Rulebook diagram"
+    },
+    {
+      "number": "C",
+      "title": "Edge Hits, Example Photographs",
+      "text": "https://storage.uspsa.org/rulebook/assets/image-cf7b5b7a.png Rulebook diagram https://storage.uspsa.org/rulebook/assets/image-8f9436b8.png Rulebook diagram https://storage.uspsa.org/rulebook/assets/image-713b5856.png Rulebook diagram https://storage.uspsa.org/rulebook/assets/image-fda4f81d.png Rulebook diagram"
+    },
+    {
+      "number": "D1",
+      "title": "Open Division",
+      "text": "NA for Steel Challenge\nNA for Steel Challenge\nNA for Steel Challenge\n.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nNA for Steel Challenge\nNo\nNo\n6.742” (171.25mm)\nNo\nNA for magazines, Handgun: 3 3/8” (length of an overlay)\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nThe rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level."
+    },
+    {
+      "number": "D2",
+      "title": "Limited Division",
+      "text": "NA for Steel Challenge\nNA for Steel Challenge\nNA for Steel Challenge\n9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nNA for Steel Challenge\nNo\nNo\n5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns.\nNo\nHandgun and Mags: 3 3/8” (length of an overlay)\nYes\nNo\nNo\nYes. Inoperable units used as weights: Yes. Use of lasers prohibited.\nNo\nNo\nYes\nNo\nN/A\nNo"
+    },
+    {
+      "number": "D3",
+      "title": "Rimfire Pistol Division",
+      "text": ".22 Long Rifle ONLY\nNo\nNo\nNo\nRFPI – No RFPO - Yes\nRFPI – Yes RFPO – Yes; Suppressors are prohibited\nYes\nNo\nNo\nN/A\nHandguns may not be fitted with forearms, foregrips, stocks, or stock-like devices, such as, but not limited to: buffer tubes, arm braces, folding stocks, etc. Firearms designated, manufactured, and sold as pistols are restricted by this rule.\nLow ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.\nHandgun to be transported in closed case or The point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block. holstered at all times until the Make Ready command is given.\nThe point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block.\nThe point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block.\nYes, must be functional. Use of lasers prohibited. Optics"
+    },
+    {
+      "number": "D4",
+      "title": "Production Division",
+      "text": "NA for Steel Challenge\nNA for Steel Challenge\nNA for Steel Challenge\n.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nNA for Steel Challenge\nNo\nYes, handgun with empty magazine inserted must fit wholly within a box with internal dimensions of 8 15/16” x 6” x 1 5/8” (tolerance +1/16”, -0”) (8.938”x6”x1.625”) (227.01mmx152.40mmx41.28mm)\nSee # 7\nYes, maximum 15 rounds loaded in any magazine after the start signal\nHandgun and Mags: 2 1/8” (width of an overlay)\nYes\nNo\nNo, notch and post only\nYes, must be functional. Use of lasers prohibited.\nNo\nNo\nYes\nYes. 59 ounces with empty magazine inserted\nYes - see Special Conditions\n• Suitable for everyday use. “Race gun” type holster prohibited. • May not be manufactured or cut lower than, and must cover the slide up to, 1/2” below the ejection port (belt slide “Yaqui” type holster exempt). • Revolver holsters open no lower than halfway down the cylinder. • The drop offset type holster is allowed in production Division as long as the heel of the butt of the gun is above the belt.\nPlease note that, during a match, a shooter may be required to demonstrate that their gun is in compliance with Division rules by identifying a specific rules clause or published interpretation which authorizes any disputed modification. If the shooter cannot identify an authorizing rules-clause or published interpretation, the RM shall rule that the modification is PROHIBITED for Production use and shall move the shooter to Open Division.\nInternal modifications which do not conflict with other clauses of this appendix are ALLOWED. Special Notes/Clarifications: • See for specifics with regard to slides and barrels • ALL Factory safety mechanisms, whether internal or external, must remain functional • See for specifics on external safeties Any internal modifications which result in a visible change to the external appearance of the gun when it is in battery REMAIN PROHIBITED unless specifically allowed by the plain language herein.\nCosmetically enhancing the finish of a slide or frame is ALLOWED in Production Division. Stippling on the frame to provide texture or additional grip surface is specifically allowed.\nA slide may be modified specifically for the purpose of installing sights or cocking serrations. Textured finishes, grip tape, milling or stippling on the slide to provide texture is also allowed. Cuts designed to specifically or significantly lighten the slide, such as holes, are allowed. Slide racking devices are prohibited.\nSLIDES: You may replace the slide with an Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket slide. BARRELS: You may replace the barrel with an OFM or aftermarket barrel.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\n• Grip modifications such as, but not limited to, undercutting/smoothing the trigger guard, adding or removing finger grooves, or adding stippling, grip tape, or checkering are allowed. Replacement grip panels are allowed provided they do not extend below the butt of the gun to form a make-shift magwell. • Revolver grips may be replaced with Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket grips of any shape, profile and surface texture. • Special Notes/Clarifications: See , below, for specifics with regard to modifications on revolver grips.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nINTERNAL parts: A broad range of INTERNAL parts may be modified or replaced – either with Original firearm manufacturer. OFM or after- market parts. Special Notes/Clarifications: • Strikers, sears, springs, connectors/disconnectors, and any other part which is NOT visible when the gun is in battery is considered an INTERNAL part and may be modified or replaced unless otherwise prohibited in these provisions (see section 22 for specific prohibitions). • Guide rods are considered an “internal part” and may be modified and/or replaced with OFM or after- market guide rods even though part of the guide rod is externally visible when the gun is in battery. Note that the weight limits in H3-18 remain in force and relevant. Internal magazine disconnects are • legal as they are internal parts that do not show while in battery.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nSights, firing pins, firing pin retainers, pins, extractors, magazine releases, slide stops, thumb safeties, triggers, hammers, bushings, and ejectors MAY be replaced with Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket parts. Exchange of OFM parts between different models of Production approved guns is allowed.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nOriginal firearm manufacturer. OFM and Items not manufactured by, or available directly from, the OFM aftermarket magazines and base-pads may be used. However, any and all magazines used in competition must fit into the USPSA box while empty and inserted in the handgun as described in item 7 of this appendix. Grip tape and/or skate board tape are specifically allowed on magazines and base-pads.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nPlease note that the absence of an item in the list of prohibited modifications MAY NOT be construed to mean a modification is allowed. A modification is only allowed in Production Division if there is a rules clause or interpretation that specifically declares that it is allowed in the Division. Removing or disabling firing-pin blocks or any other factory safety mechanism in Production division is specifically prohibited.\nExternal and externally operated safety mechanisms must remain operable. Special Notes/Clarifications: • For purposes of this clause, a “trigger safety” is externally visible, and must remain operable. • For purposes of this clause, the prohibition on “disabling” means that you may NOT modify an external safety mechanism in any way that affects its function as a safety per the Original firearm manufacturer. OFM design. • For purposes of this clause, a magazine disconnect is NOT considered a safety mechanism, and may be removed. • Please note that other clauses in the body of the competition rules require that a “trigger mechanism must, at all times, function safely” ( ), that handguns must be “serviceable and safe” ( ) and that the • Range Master is the final authority on the definition of “safety” as it pertains to the mechanism of the gun ( ). It is the competitor’s responsibility to be able to demonstrate at any time that all factory safety mechanisms are functional, regardless of whether they are internal or external.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nNon Original firearm manufacturer. OFM grip modifications (addition or removal of material) that provide function, such as a beavertail or thumbrest are prohibited. Revolver grips may be replaced with grips of any shape, profile, or texture. Adding or removing material to change the profile of Revolver grips is ALLOWED.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nExternal plugs which alter the grip profile or extend past ( ”) the bottom of the grip are PROHIBITED.\nNo Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket external magwells. Internal magwell dimensions may be increased. External flaring is prohibited. Action/Striker Fired guns are allowed, hammers must start hammer down\" position when the hammer lowering the hammer, (manually if present. Manually decocking to the in the competitor being moved to must be fully decocked at the start the term fully decocked is the position has been used. Altering a factory at less than a half-cocked position is not are prohibited. Except for Item 7, otherwise noted. to the USPSA Approved Production Form stating that a minimum of manufactured and available to the inspected the handgun for compliance. in the rules or SPECIFICALLY it is considered a PROHIBITED\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM"
+    },
+    {
+      "number": "D5",
+      "title": "Single Stack Division",
+      "text": "NA for Steel Challenge\nNA for Steel Challenge\nNA for Steel Challenge\n.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nNA for Steel Challenge\nNo\nYes, handgun with empty magazine inserted must fit wholly within a box with internal dimensions of 8 15/16” x 6” x 1 5/8” (tolerance +1/16”, -0”) (8.938” x 6” x 1.625”) (227.01mm x 152.40mm x 41.28mm)\nSee # 7 above\n10 rounds maximum\nHandgun and Mags: 2 1/8” (width of an overlay)\nYes\nNo\nNo, notch and post only\nYes, must be functional. Use of lasers prohibited.\nNo\nNo\nNo\nYes, 45 ounces with empty magazine\nSee Special Conditions below\n• Suitable for everyday use. “Race gun” type holster prohibited. • This means the same as “will,” “shall,” etc. Compliance is mandatory. Must carry pistol so that the heel of the butt is even with or above the top of the belt • May not be manufactured or cut lower than, and must cover the slide up to, 1/2” below the ejection port (belt slide “Yaqui” type holster exempt).\nThis means the same as “will,” “shall,” etc. Compliance is mandatory.\nThis means the same as “will,” “shall,” etc. Compliance is mandatory.\nMilling of the slide to insert sights, add or remove serrations, such as cocking or flat topping, tri-topping the slide, lowering ejection ports, cuts that are minor and cosmetic in nature are permitted. Duplicating features that are on a factory, mass produced slide available to the gen- eral public is permitted. Cuts that are designed to specifically or significantly lighten the slide, such as holes, or slots, are ruled as competitive advantage and prohibited.\n• External modifications or features such as weights or devices to control or reduce recoil (such as, but not limited to, thumb rests or components which could be used as such). Slide racking devices are prohibited. • Cone and flanged barrels are not allowed. All barrels must have a bushing installed, regardless of barrel diameter. This does not apply to pistols having a barrel length of inches or less. Slide lightening, cuts, ports, or any • milling deemed to provide a competitive advantage.\n• External extractors, firing pin blocks, and other factory safety features. • Duplicating features that are on a factory, massed produced slide available to the general public. • Factory installed light rail attachments if the dust cover is no longer than inches measured from the rear of the slide stop pin to the front of the dust cover. to the general public and have as designed by John M. Browning. Pistols originals are acceptable. Frames must which use traditional single stack 1911 including those adapted to feed in a"
+    },
+    {
+      "number": "D6",
+      "title": "Revolver Division",
+      "text": "NA for Steel Challenge\nNA for Steel Challenge\nNA for Steel Challenge\n.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nNo\nNo\nNo\nThe rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nNA for Steel Challenge\nHandgun and Mags: 3 3/8” (length of an overlay)\nYes\nNo\nISR: NO OSR: YES\nYes, must be functional. Use of lasers prohibited.\nISR: NO OSR: YES\nISR: NO OSR: YES\nThe rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nNo\nNo (see Special Conditions below)\nNo\nThe rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable Revolver\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nSpecial conditions: “Self-loading” revolvers with retractable slides are prohibited in this Division."
+    },
+    {
+      "number": "D7",
+      "title": "Carry Optics Division",
+      "text": "NA for Steel Challenge\nNA for Steel Challenge\nNA for Steel Challenge\n9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nThe rule or requirement does not apply to the particular discipline, Division, or match level. Not Applicable\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nThe rule or requirement does not apply to the particular discipline, Division, or match level.\nNo\nNo\nYes, 141.25 mm (5.561”)\nNo\nHandgun and Mags: 2 1/8” (width of an overlay)\nYes\nNo\nOptical/electronic sights REQUIRED; must be attached directly to slide between rear of slide and ejection port, and may not be mounted to the frame in any way\nYes, must be functional. Use of lasers prohibited.\nNo\nNo\nYes\nYes. 59 ounces with optic and empty magazine inserted\nYes, see Special Conditions\n• Suitable for everyday use. “Race gun” type holster prohibited. • May not be manufactured or cut lower than, and must cover the slide up to, 1/2” below the ejection port (belt slide “Yaqui” type holster exempt). • The drop offset type holster is allowed in Carry Optics Division as long as the heel of the butt of the gun is above the belt.\nPlease note that, during a match, a shooter may be required to demonstrate that their gun is in compliance with Division rules by identifying a specific rules clause or published interpretation, which authorizes any disputed modification. If the shooter cannot identify an authorizing rules-clause or published interpretation, the RM shall rule that the modification is PROHIBITED for Carry Optics use and shall move the shooter to Open Division.\nINTERNAL modifications which do NOT conflict with other clauses of this appendix are ALLOWED. Special Notes/Clarifications: • See for specifics with regard to slides and barrels. • ALL factory safety mechanisms, whether internal or external, must remain functional. • See for specifics on external safeties. • • Any “internal” modifications which result in a visible change to the external appearance of the gun when it is in battery REMAIN PROHIBITED unless specifically allowed by the plain language herein.\nCosmetically enhancing the finish of a slide or frame is ALLOWED in Carry Optics Division. Stippling on the frame to provide texture or additional grip surface is specifically allowed.\nA slide may be modified specifically for the purpose of installing optical sights or cocking serrations. Textured finishes, grip tape, milling or stippling on the slide to provide texture is also allowed. Cuts designed to specifically or significantly lighten the slide, such as holes, are allowed.\nSLIDES: You may replace the slide with an Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket slide. BARRELS: You may replace the barrel with an OFM or aftermarket barrel.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nReplacement grip panels are allowed provided they do not extend below the butt of the gun to form a make-shift magwell. Grip modifications such as, but not limited to, undercutting/smoothing the trigger guard, adding or removing finger grooves, or adding stippling, grip tape, or checkering are specifically allowed. Grip tape or grip sleeves cannot disengage a grip safety. Grips may not be modified to create a thumb rest or beavertail.\nINTERNAL parts: A broad range of INTERNAL parts may be modified or replaced – either with Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket parts. Special Notes/Clarifications: • Strikers, sears, springs, connectors/disconnectors, and any other part which is NOT visible when the gun is in battery is considered an INTERNAL part and may be modified or replaced unless otherwise prohibited in these provisions (see section 22 for specific prohibitions). • Guide rods are considered an “internal part” and may be modified and/or replaced with OFM or after- market guide rods even though part of the guide rod is externally visible when the gun is in battery. Note that the weight limits in H6-18 remain in force and relevant. Internal magazine disconnects are • legal as they are internal parts that do not show while in battery.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nSights, firing pins, firing pin retainers, pins, extractors, magazine releases, slide stops, thumb safeties, triggers, hammers, bushings, and ejectors MAY be replaced with Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket parts.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nOriginal firearm manufacturer. OFM and Items not manufactured by, or available directly from, the OFM aftermarket magazines and base-pads may be used. Grip tape and/or skateboard tape are specifically allowed on magazines and base- pads.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nPlease note that the absence of an item in the list of prohibited modifications MAY NOT be construed to mean a modification is allowed. A modification is only allowed in Carry Optics Division if there is a rules clause or interpretation, which specifically declares that it is allowed in the Division. Removing or disabling firing-pin blocks or any other factory safety mechanism in Carry Optics division is specifically prohibited. Slide racking devices, even if attached to the optic, are prohibited.\nExternal and externally operated safety mechanisms must remain operable. Special Notes/Clarifications: • For purposes of this clause, a “trigger safety” is externally visible, and must remain operable. • For purposes of this clause, the prohibition on “disabling” means that you may NOT modify an external safety mechanism in any way that affects its function as a safety per the Original firearm manufacturer. OFM design. • For purposes of this clause, a magazine disconnect is NOT considered a safety mechanism, and may be removed. • Please note that other clauses in the body of the competition rules require that a “trigger mechanism must, at all times, function safely”, that handguns must be “serviceable and safe” and that the Range Master is the final authority on the definition of “safety” as it pertains to the mechanism of the gun • It is the competitor’s responsibility to be able to demonstrate at any time that all factory safety mechanisms are functional, regardless of whether they are internal or external.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nExternal plugs which alter the grip profile or extend past ( ”) the bottom of the grip are PROHIBITED\nNo Original firearm manufacturer. OFM or Items not manufactured by, or available directly from, the OFM aftermarket external magwells. Internal magwell dimensions may be increased. External flaring is prohibited.\nOriginal firearm manufacturer.\nOriginal firearm manufacturer.\nItems not manufactured by, or available directly from, the OFM\nItems not manufactured by, or available directly from, the OFM\nSpecial conditions: Only Each pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily. Double Action , Double Action/ Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again. Single Action , and Safe Action/Striker Fired handguns are allowed, and must be on the approved list. Guns with external hammers must start hammer down. A hammer is considered to be in the \"hammer down\" position when the hammer is placed there by pulling the trigger while manually lowering the hammer (manually decocking) or by activating the decocking lever if present. Manually decocking to the half-cocked position is not allowed and will result in the competitor being moved to Open division. Unless specifically authorized above, modifications are prohibited. Handguns with external hammers must be fully decocked at the start signal. If a decocking lever is installed and used, the term fully decocked is the position where the hammer rests once the decocking lever has been used. Altering a factory installed decocker to bring the hammer to rest at less than a half-cocked position is not allowed. Manually decocked hammers must be fully down. A handgun may be approved specifically for Carry Optics division provided that the model of the pistol used is on the USPSA Approved Production Handgun List AND meets Carry Optics criteria. Any manufacturer of a pistol that is not on the approved Production list, but meets Carry Optics criteria, must submit a National Range Officers Institute. NROI Manufacturer’s Declaration Form to DNROI stating that a minimum of 500 complete handguns have been manufactured and are available to the general public. UNLESS a modification is SPECIFICALLY authorized in the rules or SPECIFICALLY authorized in an official, published NROI interpretation, it is considered a PROHIBITED MODIFICATION.\nEach pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily.\nEach pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily.\nPulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again.\nPulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again.\nNational Range Officers Institute.\nNational Range Officers Institute."
+    },
+    {
+      "number": "D8",
+      "title": "Pistol Caliber Carbine Division",
+      "text": "None (see Special Conditions)\n9mm, .38 special,.357 Sig, .40 S&W, 10mm, .45 ACP For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nNone\n1600 FPS\nNo\nYes\nPCCI – No PCCO – Yes\nPCCI – Yes PCCO – Yes\nYes\nPCCI – No PCCO – No\nYes, during course of fire only. Not for transport.\nLow ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.\nRifle to be transported in a closed case, scabbard, or “3-gun” cart. Chamber flags must be used regardless of method of transport.\nNo side-by-side magazine couplers allowed. End-to-end coupling/extension is allowed.\nPermitted, but semi-auto function only\nNot Allowed The diameter of a bullet measured in millimeters (or thousandths of an inch). Caliber Carbine Optics that the competitor is in full regulations concerning ownership and as long as the conversion is shot in PCC no front tube loading rifles are allowed. fire, and binary fire will result in a for any subsequent occurrences,\nThe diameter of a bullet measured in millimeters (or thousandths of an inch).\nThe diameter of a bullet measured in millimeters (or thousandths of an inch)."
+    },
+    {
+      "number": "D9",
+      "title": "Rimfire Rifle Division",
+      "text": ".22 Long Rifle ONLY\nNo\nNo\nNo\nRFRI – No RFRO – Yes\nRFRI – Yes RFRO – Yes; Suppressors are prohibited\nNo\nNo\nYes, during course of fire only. Not for transport.\nLow ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.\nRifle to be transported in a closed case, scabbard, or “3-gun” cart. Chamber flag must be used regardless of method of transport. Optics"
+    },
+    {
+      "number": "D10",
+      "title": "Limited Optics Division",
+      "text": "NA for Steel Challenge\nNA for Steel Challenge\nNA for Steel Challenge\n9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.\nNA for Steel Challenge\nNo\nNo\n5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns.\nNo\nHandgun and Mags: 3 3/8” (length of an overlay)\nYes\nNo\nOptical/electronic sights REQUIRED; must be attached directly to slide between rear of slide and ejection port, and may not be mounted to the frame in any way\nYes. Inoperable units used as weights: Yes. Use of lasers prohibited.\nNo\nNo\nYes\nNo\nN/A\nNo"
+    },
+    {
+      "number": "D11",
+      "title": "Rimfire Revolver Division (Provisional)",
+      "text": ".22 Long Rifle ONLY\nNo\nNo\nNo\nRRI – No RRO - Yes\nNo\nNo\nNo\nNo\nN/A\nHandguns may not be fitted with forearms, foregrips, stocks, or stock-like devices, such as, but not limited to: buffer tubes, arm braces, folding stocks, etc. Firearms designated, manufactured, and sold as revolvers are restricted by this rule.\nLow ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.\nHandgun to be transported in closed case or The point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block. holstered at all times until the Make Ready command is given.\nThe point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block.\nThe point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block.\nRecommended at level I, mandatory at level II – IV. Optics"
+    },
+    {
+      "number": "E1",
+      "title": "Magazine Measurement",
+      "text": "https://storage.uspsa.org/rulebook/assets/image-4c29b449.png Rulebook diagram Magazine Measurement Procedure Measurements on magazines are as follows: 5.561” (141.25 mm) 6.742” (171.25 mm) The primary magazine measuring device shall be the EGW mag gauge. A magazine needs to conform to the length limit as well as the gauge to comply with our rules. The gauge width extends to infinity. No curved, collapsible, extendable, or similar types of magazines will be allowed. If a base pad does not conform to the configuration of the gauge, a ruler may be used to measure the overall length as pictured above. The magazine shall be placed into the gauge without significant force or depression. It must lie so that the back of the magazine is flush against the gauge. The follower may be depressed, or slight pressure may be applied, to ensure proper fit. Some non-telescoping base pads fit loosely on the bottom of the magazine, hence the magazine may need to be “clicked in” on the mag gauge, using slight pressure. If the magazine fit or procedure is questioned, the Range Master’s call will be final."
+    }
+  ]
+}
