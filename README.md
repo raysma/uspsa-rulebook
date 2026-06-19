@@ -1,8 +1,12 @@
 # uspsa-rulebook
 
-A local, queryable cache of the official USPSA competition rules published at
-[rules.uspsa.org](https://rules.uspsa.org) — the USPSA, Multigun, and Steel
-Challenge (SCSA) rulebooks, extracted into plain JSON for search and querying.
+A local, queryable copy of the **entire content surface** of the official USPSA
+competition rules site, [rules.uspsa.org](https://rules.uspsa.org) — the USPSA,
+Multigun, and Steel Challenge (SCSA) rulebooks, extracted into plain JSON for
+search and querying.
+
+Covers every rule, appendix, glossary term, and changelog entry (1,438 entries),
+plus a manifest of all 1,608 routes the site exposes.
 
 See [`INVESTIGATION.md`](INVESTIGATION.md) for how the source site is built and
 how the extraction works.
@@ -10,12 +14,13 @@ how the extraction works.
 ## What's here
 
 ```
-scripts/extract.mjs   Pull all three rulebooks from rules.uspsa.org into data/
-scripts/search.mjs    Search the cached rules (no dependencies)
-data/uspsa.json       USPSA rules — hierarchical (chapters → sections → rules) + appendices
-data/multigun.json    Multigun rules — same shape
-data/scsa.json        Steel Challenge rules — same shape
-data/rules-flat.json  All rules + appendices flattened into one searchable array
+scripts/extract.mjs   Pull the entire surface from rules.uspsa.org into data/
+scripts/search.mjs    Search the cache (no dependencies)
+data/uspsa.json       USPSA — chapters → sections → rules, + appendices, glossary, changelog
+data/multigun.json    Multigun — same shape
+data/scsa.json        Steel Challenge — same shape
+data/rules-flat.json  Every rule/appendix/glossary/changelog entry in one searchable array
+data/manifest.json    Inventory of all 1,608 site routes
 ```
 
 ## Data shape
@@ -35,7 +40,9 @@ data/rules-flat.json  All rules + appendices flattened into one searchable array
           "rules": [ { "number": "5.6.1", "title": null, "text": "One or more official match chronographs…" } ] }
       ] }
   ],
-  "appendices": [ { "number": "C2", "title": "Chronograph", "text": "Match Chronograph and Equipment Set-Up…" } ]
+  "appendices": [ { "number": "C2", "title": "Chronograph", "text": "Match Chronograph and Equipment Set-Up…" } ],
+  "glossary":   [ { "term": "Freestyle", "definition": "…an expression used interchangeably with…" } ],
+  "changelog":  [ { "ref": "1.1.5.2", "date": "1/26/2026", "changes": ["Old: …", "New: …"] } ]
 }
 ```
 
@@ -66,13 +73,11 @@ node scripts/search.mjs 10.5.1            # look up an exact rule number
 
 ## Coverage & limitations
 
-- **1,337 numbered rules** across the three books, plus **56 appendices**, all
-  with full text.
-- **Glossary (Appendix A3)** is rendered client-side on the source site, so its
-  term/definition list is not in the server payload and is not captured here.
-  Inline glossary definitions still appear within rule text where referenced.
+- **1,337 numbered rules**, **56 appendices**, **40 glossary terms**, and
+  **5 changelog entries** across the three books — all with full text.
 - **Appendix tables/diagrams** (target dimensions, division equipment, etc.) are
   captured as readable text; tabular layout and images are not preserved.
-- Rule/appendix **numbering and wording mirror the source** at `fetchedAt`. The
-  USPSA rulebook is "evergreen" (updated in place), so re-run `extract.mjs` to
-  refresh.
+- The per-rule pages (`/<book>/rule/<n>`) are listed in `manifest.json` but not
+  separately stored — they duplicate the content already captured from sections.
+- Numbering and wording **mirror the source** at `fetchedAt`. The USPSA rulebook
+  is "evergreen" (updated in place), so re-run `extract.mjs` to refresh.

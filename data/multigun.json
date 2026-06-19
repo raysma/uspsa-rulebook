@@ -1,11 +1,13 @@
 {
   "book": "multigun",
   "source": "https://rules.uspsa.org/multigun",
-  "fetchedAt": "2026-06-17T23:37:58.741Z",
+  "fetchedAt": "2026-06-19T21:31:29.737Z",
   "chapterCount": 12,
   "sectionCount": 73,
   "ruleCount": 586,
   "appendixCount": 17,
+  "glossaryCount": 16,
+  "changelogCount": 1,
   "chapters": [
     {
       "number": "1",
@@ -3606,6 +3608,86 @@
       "number": "F1",
       "title": "Vendor’s Area",
       "text": "Vendors (i.e. individuals, corporations and other entities displaying or selling merchandise at an USPSA match) are solely responsible for the safe handling and security of their products and ensuring they are displayed in a condition that must not endanger any person. It is recommended that assembled firearms be deactivated prior to being displayed. The Range Master (in consultation with the Match Director) must clearly delineate the vendor area and he may issue “Acceptable Practice Guidelines” to all vendors, who are responsible for their implementation in respect of their own merchandise. Competitors may handle unloaded vendor’s firearms while remaining wholly within the vendor areas, provided reasonable care is taken to ensure that the muzzle is not pointed at any person while being handled. Competitors must not handle their competition firearms in the vendor’s area (see Rule ). Competitors seeking gunsmithing services for their competition firearms must first place them in a bag or case in a designated safety area before passing them to a vendor in the vendor area."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "OFM",
+      "definition": "Original firearm manufacturer."
+    },
+    {
+      "term": "Supporting structure",
+      "definition": "A brace, stand, rope, cable or other element used to support a barrier, line, or obstacle. These do not exist and are not part of the shooting area except as specifically stated in the Written Stage Briefing."
+    },
+    {
+      "term": "Course of fire",
+      "definition": "(Also “course” and “COF”) An expression used interchangeably with “Stage”."
+    },
+    {
+      "term": "Shot",
+      "definition": "A bullet which passes completely through the barrel of a firearm."
+    },
+    {
+      "term": "Range Official",
+      "definition": "A person who is officially serving at a match in the capacity of a Range Officer."
+    },
+    {
+      "term": "Target(s)",
+      "definition": "A term that can include both scoring target(s) and no-shoot(s)"
+    },
+    {
+      "term": "Caliber",
+      "definition": "The diameter of a bullet measured in millimeters (or thousandths of an inch)."
+    },
+    {
+      "term": "Detonation",
+      "definition": "Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when a slide is being manually retracted, when a round is dropped)."
+    },
+    {
+      "term": "Single action",
+      "definition": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
+    },
+    {
+      "term": "Double action",
+      "definition": "Each pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily."
+    },
+    {
+      "term": "No-shoot(s)",
+      "definition": "Target(s) that incur penalties when hit."
+    },
+    {
+      "term": "Strong hand",
+      "definition": "The hand a competitor uses to draw their handgun from their holster."
+    },
+    {
+      "term": "Strong side",
+      "definition": "(For long guns) Firearm is mounted to the shoulder on the strong hand side of the body and trigger must be pulled with the strong hand. A shooter must utilize the same side of the body as their strong side for the duration of the match."
+    },
+    {
+      "term": "Weak hand",
+      "definition": "The hand opposite the strong hand"
+    },
+    {
+      "term": "Range surface",
+      "definition": "The surface within a shooting bay as defined by the Course of Fire that the competitors and staff must move across. This can be the bay floor or other elements of the stage (e.g. raised platform)."
+    },
+    {
+      "term": "Shooting position",
+      "definition": "The physical presentation of a person’s body (e.g. standing, sitting, kneeling, prone)."
+    }
+  ],
+  "changelog": [
+    {
+      "ref": "2.3.1.1",
+      "date": "1/26/2026",
+      "changes": [
+        "Old: In lieu of modifying course design or physical construction, a Range Master may explicitly forbid certain competitor actions in order to maintain safety during a",
+        "(Also “course” and “COF”) An expression used interchangeably with “Stage”. course of fire",
+        "New: In lieu of modifying course design or physical construction, a Range Master may explicitly forbid certain competitor actions in order to maintain safety during a course of fire. Such declaration may only be made after competitor action or expressed intent has been determined to be unsafe or create an unsafe condition and may not be made prior to any such action or expressed intent.",
+        "Approved by BOD 1/26/2026",
+        "Old: USPSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to USPSA matches without the express written consent of the President of USPSA. All local rules allowed under these provisions will be documented at USPSA HQ.",
+        "New: USPSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to USPSA matches without the express written consent of the $L1b USPSA $L1c . All local rules allowed under these provisions will be documented at USPSA HQ. $L1d $L1e $L1f $L20 $L21 $L22 $L23 $L24 $L25 $L26 $L27 $L28 $L29 $L2a $L2b $L2c $L2d $L2e $L2f $L30 $L31 $L32 $L33 $L34 $L35 $L36 $L37 $L38 $L39 $L3a $L3b $L3c $L3d"
+      ]
     }
   ]
 }
