@@ -78,7 +78,11 @@ function extractFlatRules(rsc) {
     const number = m[1];
     if (seen.has(number)) continue; // de-dupe if a number appears twice
     seen.add(number);
-    rules.push({ number, title: JSON.parse(m[2]), text: JSON.parse(m[3]) });
+    let text = JSON.parse(m[3]);
+    // A text of "$1c" etc. is a flight reference (lazy-streamed content, used
+    // for recently-changed rules) — null it so the prose fallback fills it.
+    if (typeof text === "string" && /^\$/.test(text)) text = null;
+    rules.push({ number, title: JSON.parse(m[2]), text });
   }
   return rules;
 }
@@ -100,7 +104,7 @@ function proseText(slice) {
     try { s = JSON.parse('"' + m[1] + '"'); } catch { continue; }
     const t = s.trim();
     const isKey = /^[a-zA-Z0-9][a-zA-Z0-9_-]*$/.test(t) && /[0-9]/.test(t) && !/\s/.test(t);
-    if (/[A-Za-z]/.test(t) && t.length > 1 && !isKey) parts.push(t);
+    if (/[A-Za-z]/.test(t) && t.length > 1 && !isKey && !t.startsWith("$")) parts.push(t);
   }
   return parts.join(" ").replace(/\s+/g, " ").trim();
 }
@@ -150,6 +154,7 @@ function badges(text) {
 }
 
 function extractProseRules(rsc) {
+  rsc = stripPopovers(rsc); // drop popover definitions (and their nested blocks)
   const bs = badges(rsc);
   const rules = [];
   for (let p = rsc.indexOf("rule-prose"); p !== -1; p = rsc.indexOf("rule-prose", p + 1)) {
@@ -174,6 +179,7 @@ const cmpNum = (a, b) => {
 // Appendices render as free-form prose (tables/lists/diagrams) without the
 // flat shape or numeric badges — capture the full readable text as one blob.
 function extractAppendixText(rsc) {
+  rsc = stripPopovers(rsc); // drop popover definitions (and their nested blocks)
   const chunks = [];
   for (let p = rsc.indexOf("rule-prose"); p !== -1; p = rsc.indexOf("rule-prose", p + 1)) {
     const t = proseText(childrenAfter(rsc, p));
@@ -197,24 +203,80 @@ function extractGlossary(rsc) {
   return [...map].map(([term, definition]) => ({ term, definition }));
 }
 
-// Changelog: one rule-prose block; each <p> is a fragment. Group fragments into
-// entries keyed by the rule-anchor link (href "…#<ref>") that heads each change.
+// Display text of a node's children, keeping numeric-only tokens (e.g. a rule
+// number like "1.1.5.2") that proseText drops. Used for changelog refs.
+function tokenText(slice) {
+  const cleaned = slice
+    .replace(/"className":"(?:\\.|[^"\\])*"/g, "")
+    .replace(/"(?:href|data-slot|id|style|term)":"(?:\\.|[^"\\])*"/g, "")
+    .replace(/\["\$","[^"]*",(?:"(?:\\.|[^"\\])*"|null),/g, "")
+    .replace(/"[a-zA-Z_][a-zA-Z0-9_-]*":/g, "");
+  const parts = [];
+  for (const m of cleaned.matchAll(/"((?:\\.|[^"\\])*)"/g)) {
+    let s;
+    try { s = JSON.parse('"' + m[1] + '"'); } catch { continue; }
+    const t = s.trim();
+    const isKey = /^[a-zA-Z0-9][a-zA-Z0-9_-]*$/.test(t) && /[0-9]/.test(t) && !/\s/.test(t);
+    if (t.length > 1 && !isKey && !t.startsWith("$")) parts.push(t);
+  }
+  return parts.join(" ").replace(/\s+/g, " ").trim();
+}
+
+// Remove glossary popover definitions ("content":[…] / {…}) wholesale, including
+// the definition <p> paragraphs nested inside them, so they don't leak into
+// changelog/rule/appendix text. String-valued "content" (e.g. <meta content>)
+// is left alone.
+function stripPopovers(slice) {
+  let out = slice;
+  let from = 0;
+  for (;;) {
+    const i = out.indexOf('"content":', from);
+    if (i === -1) break;
+    let j = i + '"content":'.length;
+    while (j < out.length && /\s/.test(out[j])) j++;
+    if (out[j] === "[" || out[j] === "{") {
+      const block = balancedFrom(out, j);
+      if (!block) { from = j; continue; }
+      out = out.slice(0, i) + out.slice(j + block.length);
+      from = i; // re-scan from here (handles adjacent popovers)
+    } else {
+      from = j; // string value — not a popover, skip
+    }
+  }
+  return out;
+}
+
+// Changelog: the whole page is a flat list of <p> paragraphs in document order.
+// A paragraph containing "Approved by BOD …" is an entry header (rule link +
+// date); the paragraphs after it (Old:/New: text) belong to that entry, until
+// the next header. Walking every top-level <p> avoids truncating to one block.
 function extractChangelog(rsc) {
-  const at = rsc.indexOf('"rule-prose');
-  if (at === -1) return [];
-  const block = childrenAfter(rsc, at);
-  const starts = [...block.matchAll(/\["\$","p","b\d+",/g)].map((m) => m.index);
+  // Pre-strip popovers so their nested definition <p>s aren't walked as entries.
+  rsc = stripPopovers(rsc);
+  const starts = [...rsc.matchAll(/\["\$","p","b\d+",/g)].map((m) => m.index);
   const entries = [];
   let cur = null;
   for (let j = 0; j < starts.length; j++) {
-    const slice = block.slice(starts[j], starts[j + 1] ?? block.length);
+    // Bound each paragraph to its own balanced [...] extent — flight byte-order
+    // is not visual order, so slicing to the next match can bleed to EOF.
+    const slice = balancedFrom(rsc, starts[j]);
     const text = proseText(slice);
-    if (!text) continue;
-    const anchor = (slice.match(/"href":"([^"]*#[^"]+)"/) || [])[1];
-    if (anchor) {
+    // An entry header is a paragraph whose first child is a <strong> (the rule
+    // ref) followed by " · " and an <em> approval label; Old/New paragraphs
+    // start with an <em> instead. Keying on the <strong> catches every entry,
+    // including ones whose label isn't "Approved by BOD" (e.g. admin changes).
+    // Check this BEFORE skipping empty text, so a header with an unrenderable
+    // (lazy-ref) label is never dropped.
+    const isHeader = /"children":\[\["\$","strong"/.test(slice);
+    if (!isHeader && !text) continue;
+    if (isHeader) {
       if (cur) entries.push(cur);
+      // ref = the header's first <strong> text: a linked rule number ("3.3",
+      // "1.1.5.2") or plain text ("App. C2, #3").
+      const strongAt = slice.indexOf('"strong"');
+      const ref = strongAt !== -1 ? tokenText(childrenAfter(slice, strongAt)) : "";
       cur = {
-        ref: anchor.split("#")[1],
+        ref: ref || null,
         date: (text.match(/\b\d{1,2}\/\d{1,2}\/\d{2,4}\b/) || [])[0] || null,
         changes: [],
       };
@@ -223,6 +285,16 @@ function extractChangelog(rsc) {
     }
   }
   if (cur) entries.push(cur);
+
+  // Normalize each entry's body into old/new where labelled.
+  for (const e of entries) {
+    const body = e.changes.join(" ").replace(/\s+/g, " ").trim();
+    const old = body.match(/Old:\s*(.*?)(?:\s*New:|$)/);
+    const neu = body.match(/New:\s*(.*)$/);
+    e.old = old ? old[1].trim() : null;
+    e.new = neu ? neu[1].trim() : null;
+    e.text = body;
+  }
   return entries;
 }
 
@@ -375,7 +447,7 @@ async function main() {
         sectionTitle: c.date,
         number: c.ref,
         title: c.date ? `Change to ${c.ref} (${c.date})` : `Change to ${c.ref}`,
-        text: c.changes.join("\n"),
+        text: c.text,
       });
 
     // Per-book route inventory (the full crawled surface).

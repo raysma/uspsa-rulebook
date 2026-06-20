@@ -136,7 +136,7 @@ Climbing or standing on an object that is not specifically designed and intended
 
 ### 10.4
 
-A competitor who causes an accidental See Shot discharge must be stopped by a Range Officer as soon as possible. An accidental discharge is defined as follows:
+A competitor who causes an accidental discharge must be stopped by a Range Officer as soon as possible. An accidental discharge is defined as follows:
 
 ### 10.4.1
 

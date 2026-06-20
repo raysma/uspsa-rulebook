@@ -8,9 +8,7 @@ No
 .40 cal. / 10mm ( ”) / .357 SIG
 No
 Yes, handgun with empty magazine inserted must fit wholly within a box with internal dimensions of 8 15/16” x 6” x 1 5/8” (tolerance +1/16”, -0”) (8.938” x 6” x 1.625”) (227.01mm x 152.40mm x 41.28mm)
-Only 1911 production type pistols. This means the same as “will,” “shall,” etc. Compliance is mandatory. Must be available to the general public and have their basis in the original 1911 service pistol as designed by John M. Browning. Pistols made from components that duplicate the factory originals are acceptable. Frames must be metal. Modular frames in the 1911 style, which use traditional single stack 1911 magazines, are allowed. No wide body magazines, including those adapted to feed in a single column, may be used.
-This means the same as “will,” “shall,” etc. Compliance is mandatory.
-This means the same as “will,” “shall,” etc. Compliance is mandatory.
+Only 1911 production type pistols. Must be available to the general public and have their basis in the original 1911 service pistol as designed by John M. Browning. Pistols made from components that duplicate the factory originals are acceptable. Frames must be metal. Modular frames in the 1911 style, which use traditional single stack 1911 magazines, are allowed. No wide body magazines, including those adapted to feed in a single column, may be used.
 See # 7 above
 Yes, maximum rounds loaded in any magazine after the start signal. • Major Power Factor - 8 rounds • Minor Power Factor - 10 rounds
 Handgun and Mags – 2 1/8” (width of an overlay).

@@ -10,9 +10,7 @@ NA for Steel Challenge
 No
 No
 No
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
 NA for Steel Challenge
 Handgun and Mags: 3 3/8” (length of an overlay)
 Yes
@@ -21,16 +19,10 @@ ISR: NO OSR: YES
 Yes, must be functional. Use of lasers prohibited.
 ISR: NO OSR: YES
 ISR: NO OSR: YES
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
 No
 No (see Special Conditions below)
 No
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable Revolver
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
+Not applicable Revolver
 Special conditions: “Self-loading” revolvers with retractable slides are prohibited in this Division.

@@ -56,7 +56,7 @@ Scenarios and Stage Props – The use of scenarios and reasonable stage props is
 
 ### 1.2
 
-USPSA matches for Rifle, Shotgun, or Multigun may contain the following types of courses of fire. (Note: These rules may not be used to run a handgun only or Pistol Caliber Carbine, see Appendix D for Division requirements. PCC only match. Such matches are governed by a different rule book.):
+USPSA matches for Rifle, Shotgun, or Multigun may contain the following types of courses of fire. (Note: These rules may not be used to run a handgun only or PCC only match. Such matches are governed by a different rule book.):
 
 ### 1.2.1 — General Courses of Fire
 

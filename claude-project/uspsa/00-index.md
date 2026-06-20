@@ -1,13 +1,13 @@
 # USPSA Competition Rules — Index
 
 **Edition:** Per the 2026 USPSA Competition Rules
-**Source:** https://rules.uspsa.org/uspsa (retrieved 2026-06-19)
+**Source:** https://rules.uspsa.org/uspsa (retrieved 2026-06-20)
 
 This knowledge base is the USPSA Competition Rules, split for retrieval. Each rule,
 appendix, and glossary entry is headed by its exact identifier — cite by that
 identifier (e.g. `10.5.11`, "Appendix D7 — Carry Optics Division", or a glossary term).
 
-**Contents:** 12 chapters, 538 rules, 21 appendices, 19 glossary terms, 2 change-log entries.
+**Contents:** 12 chapters, 538 rules, 21 appendices, 19 glossary terms, 30 change-log entries.
 
 ## Chapters
 

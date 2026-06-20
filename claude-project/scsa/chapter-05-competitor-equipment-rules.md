@@ -6,7 +6,7 @@
 
 ### 5.1
 
-In general, holsters shall be mounted at the waist, must cover the trigger, and must safely hold/retain the gun. All Centerfire handguns must be appropriate for holster use. Female competitors are permitted to wear a belt, holster and Holsters, magazines, speed loading devices and/or their respective pouches. allied equipment at hip level.
+In general, holsters shall be mounted at the waist, must cover the trigger, and must safely hold/retain the gun. All Centerfire handguns must be appropriate for holster use. Female competitors are permitted to wear a belt, holster and allied equipment at hip level.
 
 ### 5.1.1
 
@@ -22,7 +22,7 @@ Due to the unique nature of the Steel Challenge, drawing from concealment or fro
 
 ### 5.1.4
 
-$26
+range officer with muzzle pointing at the backstop. Failure to point the muzzle at a side berm or back stop during casing/uncasing or removing/replacing on a cart will result in a DQ per
 
 ### 5.1.5
 
@@ -58,7 +58,7 @@ If the equipment guidelines cannot be met with the replacement gun or holster, t
 
 ### 5.3
 
-Each competitor is expected to come to the firing line ready to shoot, with an appropriate amount of ammunition in an appropriate number of magazines or speed- loaders or other loading devices. A contest within an event. Match delays caused by, for example, excessive time spent loading magazines while on the firing line may be referred to the Range Master for guidance. A competitor may have an assistant to help them in he replenishment or the insertion of additional ammunition into a firearm. The reload is not complete until the magazine/speed loader is fully inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm). reloading , if needed. Optional but highly recommended. Should they not be prepared, and it would cause a severe delay while they prepare, the Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer may move them down in the shooting order until they are prepared.
+Each competitor is expected to come to the firing line ready to shoot, with an appropriate amount of ammunition in an appropriate number of magazines or speed- loaders or other loading devices. Match delays caused by, for example, excessive time spent loading magazines while on the firing line may be referred to the Range Master for guidance. A competitor may have an assistant to help them in reloading , if needed. Should they not be prepared, and it would cause a severe delay while they prepare, the Range Officer may move them down in the shooting order until they are prepared.
 
 ### 5.3.1
 
@@ -112,7 +112,7 @@ There are no minimum power factor or velocity minimums in Steel Challenge. The P
 
 ### 5.6
 
-Optional but highly recommended. Should a competitor’s equipment malfunction, the string of fire will be scored, the range shall be cleared per , and the competitor will be allowed to retire for repair or replacement of the equipment. The Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer will proceed with the next competitor. The same procedure will apply in the case of squib loads or if a Range Officer has declared a firearm unsafe.
+Should a competitor’s equipment malfunction, the string of fire will be scored, the range shall be cleared per , and the competitor will be allowed to retire for repair or replacement of the equipment. The Range Officer will proceed with the next competitor. The same procedure will apply in the case of squib loads or if a Range Officer has declared a firearm unsafe.
 
 ### 5.6.1
 

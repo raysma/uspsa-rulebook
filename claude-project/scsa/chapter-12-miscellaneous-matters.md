@@ -12,7 +12,7 @@ All Appendices included herein are an integral part of these rules.
 
 ### 12.2
 
-English is the official language of the SCSA Rules. Optional but highly recommended. Should there be discrepancies between the English language version of these rules and versions presented in other languages, the English language version will prevail.
+English is the official language of the SCSA Rules. Should there be discrepancies between the English language version of these rules and versions presented in other languages, the English language version will prevail.
 
 ## 12.3  Disclaimers
 

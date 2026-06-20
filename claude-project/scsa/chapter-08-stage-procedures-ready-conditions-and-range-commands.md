@@ -6,7 +6,7 @@
 
 ### 8.1
 
-The ready condition for firearms will normally be as stated below. However, in the event that a competitor fails to load the chamber whether inadvertently or intentionally, the Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer must not take any action, as the competitor is always responsible for the handling of the firearm.
+The ready condition for firearms will normally be as stated below. However, in the event that a competitor fails to load the chamber whether inadvertently or intentionally, the Range Officer must not take any action, as the competitor is always responsible for the handling of the firearm.
 
 ### 8.1.1
 
@@ -62,7 +62,7 @@ A competitor not in the proper start position prior to the start signal will be 
 
 ### 8.3
 
-The Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer will direct the competitor using the following commands:
+The Range Officer will direct the competitor using the following commands:
 
 ### 8.3.1
 
@@ -174,4 +174,4 @@ At Level II or higher matches competitors are prohibited from shooting back- to-
 
 ### 8.5
 
-In the event that inadvertent contact from the Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet. Range Officer or another external influence has interfered with the competitor during a course of fire, the Range Officer may offer the competitor a reshoot of the affected string. The competitor must accept or decline the offer prior to seeing the time or the score from the initial attempt. However, in the event that the competitor commits a safety infraction during any such interference, the provisions of may still apply.
+In the event that inadvertent contact from the Range Officer or another external influence has interfered with the competitor during a course of fire, the Range Officer may offer the competitor a reshoot of the affected string. The competitor must accept or decline the offer prior to seeing the time or the score from the initial attempt. However, in the event that the competitor commits a safety infraction during any such interference, the provisions of may still apply.

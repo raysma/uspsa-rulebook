@@ -36,7 +36,7 @@ A person who is officially serving at a match in the capacity of a Range Officer
 
 ### Range surface
 
-$L3e
+
 
 ### Shooting position
 

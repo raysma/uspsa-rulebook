@@ -64,7 +64,7 @@ Steel Challenge events will be timed with sound-actuated shot timers. Hits on pl
 
 ### 9.6
 
-Optional but highly recommended. Should a tie for first place on any stage occur, the fastest single string of that particular stage will be used to break the tie. If still needed, the second-fastest and third-fastest, etc. strings will be used to break the tie.
+Should a tie for first place on any stage occur, the fastest single string of that particular stage will be used to break the tie. If still needed, the second-fastest and third-fastest, etc. strings will be used to break the tie.
 
 ### 9.6.1
 

@@ -6,7 +6,7 @@
 
 ### 4.1
 
-At all match levels care should be taken to paint the edges, including the bottom of the plates as well as the plate surface. At Level I matches plates used for non-official stages may be painted a color other than white. Optional but highly recommended. Should plates not be painted prior to each competitor’s first run the competitor forfeits their right to appeal any missed hit calls. At Level II or higher matches all plates are to be painted white (other colors okay for snowy weather) and must be repainted prior to each competitor’s first run on the stage.
+At all match levels care should be taken to paint the edges, including the bottom of the plates as well as the plate surface. At Level I matches plates used for non-official stages may be painted a color other than white. Should plates not be painted prior to each competitor’s first run the competitor forfeits their right to appeal any missed hit calls. At Level II or higher matches all plates are to be painted white (other colors okay for snowy weather) and must be repainted prior to each competitor’s first run on the stage.
 
 ### 4.1.1
 

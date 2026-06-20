@@ -3,15 +3,10 @@
 > Per the 2026 USPSA Competition Rules. Cite as "Appendix D9 — Limited Optics Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not Applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not Applicable
 No
 9x19 mm (0.354” x 0.748”)
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not Applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-$L34
+Not Applicable
 No
 5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns.
 No
@@ -24,7 +19,5 @@ No
 No
 Yes
 No
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
 No

@@ -6,7 +6,7 @@
 
 ### 3.1
 
-The competitor is always responsible to safely fulfill the requirements of a (Also “course” and “COF”) An expression used interchangeably with “Stage”. course of fire but can only reasonably be expected to do so after verbally or physically receiving the Written Stage Briefing, which must adequately explain the requirements to the competitors. Course information can be broadly divided into the following types:
+The competitor is always responsible to safely fulfill the requirements of a course of fire but can only reasonably be expected to do so after verbally or physically receiving the Written Stage Briefing, which must adequately explain the requirements to the competitors. Course information can be broadly divided into the following types:
 
 ### 3.1.1
 

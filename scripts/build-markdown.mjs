@@ -85,9 +85,14 @@ function changelogMd(book, changelog, edition) {
     "",
   ];
   for (const c of changelog) {
-    lines.push(`### Change to ${c.ref}${c.date ? ` — approved ${c.date}` : ""}`);
+    lines.push(`### ${c.ref || "Change"}${c.date ? ` — approved ${c.date}` : ""}`);
     lines.push("");
-    for (const change of c.changes) lines.push(`- ${change.trim()}`);
+    if (c.old || c.new) {
+      if (c.old) lines.push(`- **Old:** ${c.old}`);
+      if (c.new) lines.push(`- **New:** ${c.new}`);
+    } else if (c.text) {
+      lines.push(c.text);
+    }
     lines.push("");
   }
   return lines.join("\n").trimEnd() + "\n";

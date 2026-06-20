@@ -20,7 +20,7 @@ Procedural penalties cannot be nullified by further competitor action. For examp
 
 ### 10.2.1
 
-$1b
+If a competitor fires shots while touching the ground or any object completely outside the fault lines, they will be assessed one procedural penalty per occurrence . If any part of an object is inside the fault lines, then that entire object may be used for support without penalty. Support structures outside the shooting area such as, but not limited to wall feet, legs, braces, etc., may never be used for support, and any object completely outside the fault lines may not be used for support, even if it touches an object that is inside the fault lines. Course designers may designate certain parts of structures, such as raised platforms, as part of the shooting area, while excluding their support structure or steps, but must mark those areas with legal fault lines. Raised planks or timbers may be designated as shooting areas as long as they satisfy the requirements listed in . No penalty is assessed if a competitor does not fire any shots while faulting, providing doing so does not violate or
 
 ### 10.2.1.1
 
@@ -144,7 +144,7 @@ Climbing or standing on an object that is not specifically designed and intended
 
 ### 10.4
 
-A competitor who causes an accidental See Shot discharge must be stopped by a Range Officer as soon as possible. An accidental discharge is defined as follows:
+A competitor who causes an accidental discharge must be stopped by a Range Officer as soon as possible. An accidental discharge is defined as follows:
 
 ### 10.4.1
 

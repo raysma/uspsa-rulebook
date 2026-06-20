@@ -18,6 +18,4 @@ Low ready pointing muzzle at aiming flag, safety may be off, finger outside of t
 Rifle to be transported in a closed case, scabbard, or “3-gun” cart. Chamber flags must be used regardless of method of transport.
 No side-by-side magazine couplers allowed. End-to-end coupling/extension is allowed.
 Permitted, but semi-auto function only
-Not Allowed The diameter of a bullet measured in millimeters (or thousandths of an inch). Caliber Carbine Optics that the competitor is in full regulations concerning ownership and as long as the conversion is shot in PCC no front tube loading rifles are allowed. fire, and binary fire will result in a for any subsequent occurrences,
-The diameter of a bullet measured in millimeters (or thousandths of an inch).
-The diameter of a bullet measured in millimeters (or thousandths of an inch).
+Not Allowed Caliber Carbine Optics that the competitor is in full regulations concerning ownership and as long as the conversion is shot in PCC no front tube loading rifles are allowed. fire, and binary fire will result in a for any subsequent occurrences,

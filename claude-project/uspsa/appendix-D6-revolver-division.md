@@ -9,9 +9,7 @@ No
 No
 No
 “Self-loading” revolvers with retractable slides are prohibited in this Division.
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
 No, maximum of 6 rounds fired before reload if Major PF declared, 8 if minor PF declared.
 Handgun and Speed Loaders/Associated Equipment – 3 3/8" (length of an overlay)
 Yes
@@ -20,15 +18,9 @@ No
 Yes, must be functional. Use of lasers prohibited.
 No
 No
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
 No
 No (see Special Conditions below)
 No
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
+Not applicable

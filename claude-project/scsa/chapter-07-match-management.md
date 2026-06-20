@@ -6,7 +6,7 @@
 
 ### 7.1
 
-The duties and terms of reference of A contest within an event. Match Officials are defined as follows:
+The duties and terms of reference of Match Officials are defined as follows:
 
 ### 7.1.1 — Range Officer (“RO”)
 

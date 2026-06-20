@@ -6,7 +6,7 @@
 
 ### 3.1
 
-The competitor is always responsible to safely fulfill the requirements of a (Also “course” and “COF”) An expression used interchangeably with “Stage”. course of fire but can only reasonably be expected to do so after verbally or physically receiving the written stage briefing, which must adequately explain the requirements to the competitors.
+The competitor is always responsible to safely fulfill the requirements of a course of fire but can only reasonably be expected to do so after verbally or physically receiving the written stage briefing, which must adequately explain the requirements to the competitors.
 
 ### 3.1.1
 
@@ -20,7 +20,7 @@ Non-Published Course of Fire – Same as Rule 3.1.1 except that the details for 
 
 ### 3.2.1
 
-$1b
+A written stage briefing approved by the Range Master must be posted at each course of fire prior to commencement of the match. This briefing will take precedence over any course of fire information published or otherwise communicated to competitors in advance of the match, and it must provide the following minimum information: — Scoring Method — Any time limits for Limited Time Comstock stages or Time Plus stages: — Targets (type & number) — Minimum number of rounds — Ammunition type or types that are acceptable or required (shotgun) — Start position (This should be demonstrated by a Range Officer) — When time starts/stops: audible or visual signal — Procedure — Identification of specific targets to be shot with specific firearms (e.g., T1- T4 are to be engaged with Handgun, T5-T8 with Rifle, T9-10 with either). — and ready condition for all firearms used on the stage — Designation of locations and conditions where firearms may be abandoned — Need for a Shooter Delegate to observe the RO clearing firearms during the course of fire (See Rule
 
 ### 3.2.2
 

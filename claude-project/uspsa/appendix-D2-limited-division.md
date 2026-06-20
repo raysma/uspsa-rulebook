@@ -19,7 +19,5 @@ No
 No
 Yes
 No
-The rule or requirement does not apply to the particular discipline, Division, or match level. Not applicable
-The rule or requirement does not apply to the particular discipline, Division, or match level.
-The rule or requirement does not apply to the particular discipline, Division, or match level.
+Not applicable
 No

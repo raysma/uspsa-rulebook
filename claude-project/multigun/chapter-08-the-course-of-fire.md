@@ -6,7 +6,7 @@
 
 ### 8.1
 
-The ready condition for firearms will normally be as stated below. Note that a (Also “course” and “COF”) An expression used interchangeably with “Stage”. course of fire may require that a firearm be “staged” (prepared and placed prior to the start signal in a specific position and condition for use later during the course of fire). In such cases the written course description must define the position, condition and location of the staged firearm(s). However, in the event that a competitor fails to load the chamber when permitted by the written stage briefing, whether inadvertently or intentionally, the Range Officer must not take any action, as the competitor is always responsible for the handling of the firearm.
+The ready condition for firearms will normally be as stated below. Note that a course of fire may require that a firearm be “staged” (prepared and placed prior to the start signal in a specific position and condition for use later during the course of fire). In such cases the written course description must define the position, condition and location of the staged firearm(s). However, in the event that a competitor fails to load the chamber when permitted by the written stage briefing, whether inadvertently or intentionally, the Range Officer must not take any action, as the competitor is always responsible for the handling of the firearm.
 
 ### 8.1.1
 
@@ -212,7 +212,7 @@ A competitor may, during abandonment of one firearm, handle another firearm to b
 
 ### 8.4.2.3
 
-$26
+In order to reduce stage clearance time a Range Officer may be assigned to clear “abandoned” firearms, at the Range Master’s discretion, provided the stage design allows for this to be done in a way that allows the gun to be cleared in a safe direction and without interfering with the competitor’s attempt at the course of fire . In such cases the competitor’s delegate will accompany the official responsible for clearing abandoned firearms. Competitors must be advised of this procedure during the stage briefing. The RO and delegate shall verify that the abandoned firearm is in a legal abandoned state (e.g., properly positioned and safety-on or firearm empty). Upon verifying the condition, the RO will clear the firearm with the delegate confirming it is clear. The firearm may then be transported to the staging area or other specified location behind the firing line. Handguns must be bagged if they are to be moved to the staging area or a safe area. The Range Officer is responsible for the safe handling of the firearm during this process, including (but not limited to) muzzle direction.
 
 ## 8.5  Movement
 

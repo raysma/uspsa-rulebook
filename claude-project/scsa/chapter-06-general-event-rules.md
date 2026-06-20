@@ -32,7 +32,7 @@ A Match Director enforcing Rule 6.1.4 must submit a detailed report to USPSA/SCS
 
 ### 6.2
 
-One or more matches are contested within an event. For example, the World Speed Shooting Championship is an event and within that event there are 4 matches: Centerfire Pistol, Rimfire Pistol, Rimfire Rifle, and Pistol The diameter of a bullet measured in millimeters (or thousandths of an inch). Caliber Carbine. Competitors compete in one or more matches within an event.
+One or more matches are contested within an event. For example, the World Speed Shooting Championship is an event and within that event there are 4 matches: Centerfire Pistol, Rimfire Pistol, Rimfire Rifle, and Pistol Caliber Carbine. Competitors compete in one or more matches within an event.
 
 ## 6.3  Competition Divisions
 
