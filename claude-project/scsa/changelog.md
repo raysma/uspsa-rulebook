@@ -10,12 +10,12 @@
 ### 3.3 — approved 1/26/2026
 
 - **Old:** SCSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to SCSA matches without the express written consent of the President of USPSA. All local rules allowed under these provisions will be documented at USPSA HQ.
-- **New:** SCSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to SCSA matches without the express written consent of the President of USPSA Director at Large. All local rules allowed under these provisions will be documented at USPSA HQ.
+- **New:** SCSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to SCSA matches without the express written consent of the USPSA Director at Large. All local rules allowed under these provisions will be documented at USPSA HQ.
 
 ### 5.2.2
 
 - **Old:** No change in equipment (gun, holster or holster position) is permitted without the approval of the Range Master. If a competitor makes such a change without prior approval, they will be disqualified from the match. See Rule 10.3.12.
-- **New:** No change in equipment (gun, holster or holster position) is permitted without the approval of the Range Master. If a competitor makes such a change without prior approval, they will may be disqualified from the match. See Rule 10.3.12.
+- **New:** No change in equipment (gun, holster or holster position) is permitted without the approval of the Range Master. If a competitor makes such a change without prior approval, they may be disqualified from the match. See Rule 10.3.12.
 
 ### 6.5.4 — approved 1/26/2026
 

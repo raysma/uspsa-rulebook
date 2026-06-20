@@ -90,15 +90,27 @@ function extractFlatRules(rsc) {
 // --- Fallback: rules whose body is rendered only as `rule-prose` markup ---
 // (section-level prose, appendices, multi-paragraph rules with text:null).
 
+// Remove struck-through (<s>) runs entirely — in the changelog these mark text
+// removed in the new version, and we don't want it merging into the New text.
+function dropStruck(slice) {
+  let out = slice, i;
+  while ((i = out.indexOf('["$","s",')) !== -1) {
+    const block = balancedFrom(out, i);
+    if (!block) break;
+    out = out.slice(0, i) + out.slice(i + block.length);
+  }
+  return out;
+}
+
 // Readable text from an RSC slice, faithful to the rendered page. Inline runs
-// (text, links, <mark>/<s> diff spans, glossary triggers) are concatenated with
-// NO inserted separator so the source strings' own spacing is preserved (this
-// keeps cross-reference numbers like "1.1.5" that carry no letters, and avoids
-// artifacts like "shooting position ," from space-joining). A space is injected
-// only at block-level boundaries (<p>, <li>, <div>, …). React keys and flight
-// references ("$L1b") are dropped.
+// (text, links, <mark> added-diff spans, glossary triggers) are concatenated
+// with NO inserted separator so the source strings' own spacing is preserved
+// (this keeps cross-reference numbers like "1.1.5" that carry no letters, and
+// avoids artifacts like "shooting position ," from space-joining). Struck-out
+// (<s>) removed-text is dropped. A space is injected only at block-level
+// boundaries (<p>, <li>, <div>, …). React keys and flight refs ("$L1b") drop.
 function proseText(slice) {
-  const cleaned = slice
+  const cleaned = dropStruck(slice)
     .replace(/(\["\$","(?:p|div|li|br|tr|ul|ol|h[1-6]|table|tbody|thead)")/g, '" ",$1')
     .replace(/"className":"(?:\\.|[^"\\])*"/g, "")
     .replace(/"(?:href|data-slot|id|style|term)":"(?:\\.|[^"\\])*"/g, "")

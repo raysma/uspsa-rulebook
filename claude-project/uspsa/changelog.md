@@ -10,7 +10,7 @@
 ### 1.1.5.5 — approved 1/26/2026
 
 - **Old:** For Level I matches only, the Written Stage Briefing may specify that competitors must stay within the fault lines for the entire course of fire. Movement outside the fault lines will incur a per shot procedural penalty for any targets engaged after such movement. Drop steps are allowed, as are inadvertent steps outside the fault lines, as long as the competitor steps back into the fault lines in the same location.
-- **New:** For Level I matches only, t The Written Stage Briefing may specify that competitors must stay within the fault lines for the entire course of fire. Movement outside the fault lines will incur a per shot procedural penalty for any targets engaged after such movement. Drop steps are allowed, as are inadvertent steps outside the fault lines, as long as the competitor steps back into the fault lines in the same location.
+- **New:** The Written Stage Briefing may specify that competitors must stay within the fault lines for the entire course of fire. Movement outside the fault lines will incur a per shot procedural penalty for any targets engaged after such movement. Drop steps are allowed, as are inadvertent steps outside the fault lines, as long as the competitor steps back into the fault lines in the same location.
 
 ### 1.1.5.6 — approved 1/26/2026
 
@@ -20,12 +20,12 @@
 ### 1.2.2.1 — approved 1/26/2026
 
 - **Old:** Standard Exercises – Courses of fire consisting of two or more separately timed component strings. Scores, with any penalties deducted, are accumulated on completion of the course of fire to produce the final stage results. Standard Exercises must only be scored using Virginia Count or Fixed Time. The course of fire for each component string may require a specific shooting position, procedure and/or one or more mandatory reloads. Standard Exercises must not require more than 24 rounds to complete. Component strings must not require more than 6 rounds (12 rounds if a mandatory reload is specified). Strings must be shot in numerical order unless otherwise stated in the Written Stage Briefing. Standard Exercises may specify shooting with the strong hand or weak hand unsupported for handgun divisions and strong or weak side for PCC. The specified hand/side must be used exclusively from the point stipulated for the remainder of the string.
-- **New:** Standard Exercises – Courses of fire consisting of two or more separately timed component strings. Scores, with any penalties deducted, are accumulated on completion of the course of fire to produce the final stage results. Standard Exercises must only be scored using Virginia Count or Fixed Time. The course of fire for each component string may require a specific shooting position, procedure and/or one or more mandatory reloads. Standard Exercises must not require more than 24 rounds to complete. Component strings must not require more than 6 rounds (12 rounds if a mandatory reload is specified). Strings must be shot in numerical order unless otherwise stated in the Written Stage Briefing. Standard Exercises may specify shooting with the strong hand or weak hand unsupported for handgun divisions and strong or weak side for PCC. The specified hand/side must be used exclusively from the point stipulated for the remainder of the string.
+- **New:** Standard Exercises – Courses of fire consisting of two or more separately timed component strings. Scores, with any penalties deducted, are accumulated on completion of the course of fire to produce the final stage results. Standard Exercises must only be scored using Virginia Count or Fixed Time. The course of fire for each component string may require a specific shooting position, procedure and/or one or more mandatory reloads. Standard Exercises must not require more than 24 rounds to complete. Component strings must not require more than 6 rounds (12 rounds if a mandatory reload is specified). Strings must be shot in numerical order unless otherwise stated in the Written Stage Briefing.
 
 ### 1.2.2.3 — approved 1/26/2026
 
 - **Old:** Speed Shoot – Courses of fire consisting of one continuous string of fire not exceeding 16 rounds shot on one or more arrays of multiple targets from a single location. The Written Stage Briefing may specify engaging arrays of targets without violating rule (1.1.5), as long as the competitor is allowed to engage said arrays in any order, and individual target engagement is not specified. No more than eight rounds may be required without a mandatory reload and no more than one mandatory reload may be required in the course of fire. Weak/Strong hand may be stipulated after the reload is complete. Stage may be scored either Comstock, Fixed Time, or Virginia Count. See Rule 9.2.3.2.
-- **New:** Speed Shoot – Courses of fire consisting of one continuous string of fire not exceeding 16 rounds shot on one or more arrays of multiple targets from a single location. The Written Stage Briefing may specify engaging arrays of targets without violating rule (1.1.5), as long as the competitor is allowed to engage said arrays in any order, and individual target engagement is not specified. No more than eight rounds may be required without a mandatory reload and no more than one mandatory reload may be required in the course of fire. Weak/Strong hand may be stipulated after the reload is complete. Stage may be scored either Comstock, Fixed Time, or Virginia Count. See Rule 9.2.3.2.
+- **New:** Speed Shoot – Courses of fire consisting of one continuous string of fire not exceeding 16 rounds shot on one or more arrays of multiple targets from a single location. The Written Stage Briefing may specify engaging arrays of targets without violating rule (1.1.5), as long as the competitor is allowed to engage said arrays in any order, and individual target engagement is not specified. No more than eight rounds may be required without a mandatory reload and no more than one mandatory reload may be required in the course of fire. Stage may be scored either Comstock, Fixed Time, or Virginia Count. See Rule 9.2.3.2.
 
 ### 2.3.1.1 — approved 1/26/2026
 
@@ -45,7 +45,7 @@
 ### 3.3 — approved 1/26/2026
 
 - **Old:** USPSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to USPSA matches without the express written consent of the President of USPSA. All local rules allowed under these provisions will be documented at USPSA HQ.
-- **New:** USPSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to USPSA matches without the express written consent of the President of USPSA Director at Large. All local rules allowed under these provisions will be documented at USPSA HQ.
+- **New:** USPSA matches are governed by the rules applicable to the discipline. Host organizations may not enforce local rules except to comply with legislation or legal precedent in the applicable jurisdiction. Any voluntarily adopted rules that are not in compliance with these rules must not be applied to USPSA matches without the express written consent of the USPSA Director at Large. All local rules allowed under these provisions will be documented at USPSA HQ.
 
 ### 4.1.3 — approved 1/26/2026
 
@@ -60,7 +60,7 @@
 ### 5.2.4 — approved 1/26/2026
 
 - **Old:** During the course of fire, after the start signal, unless stipulated otherwise in the Written Stage Briefing, spare ammunition, magazines and/or speed loading devices shall be carried in retention devices attached to the competitor's belt and specifically designed for that purpose. A competitor may also carry additional magazines or speed loading devices in apparel pocket(s) and retrieve and use them.
-- **New:** During the course of fire, after the start signal, unless stipulated otherwise in the Written Stage Briefing, spare ammunition, magazines and/or speed loading devices shall be carried in retention devices attached to the competitor's belt and specifically designed for that purpose. A competitor may also carry additional magazines or speed loading devices in apparel pocket(s) and retrieve and use them.
+- **New:** During the course of fire, unless stipulated otherwise in the Written Stage Briefing, spare ammunition, magazines and/or speed loading devices shall be carried in retention devices attached to the competitor's belt and specifically designed for that purpose. A competitor may also carry additional magazines or speed loading devices in apparel pocket(s) and retrieve and use them.
 
 ### 5.2.4.1 — approved 1/26/2026
 
@@ -85,22 +85,22 @@
 ### 8.7.1 — approved 1/26/2026
 
 - **Old:** A competitor is permitted to take a sight picture prior to the start signal from the make ready position.
-- **New:** A competitor is permitted to take a sight pictures prior to the start signal from the make ready position.
+- **New:** A competitor is permitted to take sight pictures prior to the start signal from the make ready position.
 
 ### 9.9.1 — approved 1/26/2026
 
 - **Old:** Non-disappearing and Visible Targets: Activated scoring targets which present a legal portion of the A-zone, either prior to activation or when they stop (gravity operated), or which continuously appear and disappear (motorized), will always incur failure to shoot at and miss penalties (exception for fixed time, see Rule 9.2.4.4). At least 25% of the lower A-zone or all of the upper A-zone must be visible to be legal. If the target is legally visible before being activated, it may be shot before being activated and activation is not required (9.9.3 does not apply).
-- **New:** Non-disappearing and Visible Targets: Activated scoring targets which present a legal portion of the A-zone (see App. B1), either prior to activation or when they stop (gravity operated), or which continuously appear and disappear (motorized), will always incur failure to shoot at and miss penalties (exception for fixed time, see Rule 9.2.4.4). At least 25% of the lower A-zone or all of the upper A-zone must be visible to be legal. If the target is legally visible before being activated, it may be shot before being activated and activation is not required (9.9.3 does not apply).
+- **New:** Non-disappearing and Visible Targets: Activated scoring targets which present a legal portion of the A-zone (see App. B1), either prior to activation or when they stop (gravity operated), or which continuously appear and disappear (motorized), will always incur failure to shoot at and miss penalties (exception for fixed time, see Rule 9.2.4.4).. If the target is legally visible before being activated, it may be shot before being activated and activation is not required (9.9.3 does not apply).
 
 ### 9.11.1 — approved 1/26/2026
 
 - **Old:** The scoring program approved by USPSA is PractiScore. No other scoring program must be used for any USPSA sanctioned match without the prior written approval of the President of USPSA. Handheld electronic tablets/devices may be used for the collection and dissemination of scoring data.
-- **New:** The scoring program approved by USPSA is PractiScore. No other scoring program must be used for any USPSA sanctioned match without the prior written approval of the President of USPSA Director at Large. Handheld electronic tablets/devices may be used for the collection and dissemination of scoring data.
+- **New:** The scoring program approved by USPSA is PractiScore. No other scoring program must be used for any USPSA sanctioned match without the prior written approval of the USPSA Director at Large. Handheld electronic tablets/devices may be used for the collection and dissemination of scoring data.
 
 ### 9.11.2 — approved 1/26/2026
 
 - **Old:** When electronic scoring is used, once stage scoring is completed, every competitor shall be provided the opportunity to read and approve the scoring device to review their stage time and score entries. At Level II or higher matches, range officers shall also create a hard copy record that includes the hit and penalty totals, time, hit factor, time of day, competitor initials and range officer initials for each stage. The hard copy record requirement may only be waived with permission from the USPSA President. If there is a discrepancy between the hard copy record and PractiScore, and the hit factors are identical, then the PractiScore entry will be definitive.
-- **New:** When electronic scoring is used, once stage scoring is completed, every competitor shall be provided the opportunity to read and approve the scoring device to review their stage time and score entries. At Level II or higher matches, range officers shall also create a hard copy record that includes the hit and penalty totals, time, hit factor, time of day, competitor initials and range officer initials for each stage. The hard copy record requirement may only be waived with permission from the USPSA President. Or provide digital records (see 9.11.2.1) if indicated on Form C. If there is a discrepancy between the hard copy record and PractiScore, and the hit factors are identical, then the PractiScore entry will be definitive.
+- **New:** When electronic scoring is used, once stage scoring is completed, every competitor shall be provided the opportunity to read and approve the scoring device to review their stage time and score entries. At Level II or higher matches, range officers shall also create a hard copy record that includes the hit and penalty totals, time, hit factor, time of day, competitor initials and range officer initials for each stage. Or provide digital records (see 9.11.2.1) if indicated on Form C. If there is a discrepancy between the hard copy record and PractiScore, and the hit factors are identical, then the PractiScore entry will be definitive.
 
 ### 10.2.10.1 — approved 1/26/2026
 
@@ -110,7 +110,7 @@
 ### 10.5.5.2 — approved 1/26/2026
 
 - **Old:** Sweeping any person with the muzzle of a PCC during or outside the course of fire, whether loaded or not, even if a chamber flag is inserted. Exception - If carried muzzle-down outside the course of fire, the PCC competitor's lower extremities are exempt from this provided the PCC is unloaded and flagged.
-- **New:** Sweeping any person with the muzzle of a PCC during or outside the course of fire, whether loaded or not, even if a chamber flag is inserted. Exception - If carried muzzle-down outside the course of fire, inadvertent sweeping of the PCC competitor's lower extremities with the PCC is exempt provided the PCC is unloaded and flagged. However, deliberately pointing at or placing the muzzle of a PCC on a lower extremity is a disqualification for sweeping.
+- **New:** Sweeping any person with the muzzle of a PCC during or outside the course of fire, whether loaded or not, even if a chamber flag is inserted. Exception - If carried muzzle-down outside the course of fire, inadvertent sweeping of the competitor's lower extremities with the PCC is exempt provided the PCC is unloaded and flagged. However, deliberately pointing at or placing the muzzle of a PCC on a lower extremity is a disqualification for sweeping.
 
 ### App A2, #3 — approved 1/26/2026
 
@@ -120,7 +120,7 @@
 ### App. A3, Facing
 
 - **Old:** Not facing uprange. Any position facing side berms or
-- **New:** Not facing uprange. Any position facing side berms or
+- **New:** Any position facing side berms or
 
 ### downrange — approved 1/26/2026
 

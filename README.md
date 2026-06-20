@@ -78,10 +78,11 @@ node scripts/search.mjs 10.5.1            # look up an exact rule number
 - **Appendix tables/diagrams** (target dimensions, division equipment, etc.) are
   captured as readable text; tabular layout and images are not preserved.
 - **Changelog Old/New text** is reconstructed from the source's inline,
-  character-level diff. Cross-references, spacing and footnotes are cleaned up,
-  but a few entries retain minor diff artifacts (e.g. a capitalization change
-  rendered as `t The`). The canonical current wording always lives in the
-  chapter files; the changelog is for "what changed".
+  character-level diff: struck-through (removed) text is dropped and highlighted
+  (added) text is kept, so `New` reflects the resulting wording (it matches the
+  canonical rule text for most entries). Cross-references, spacing and footnotes
+  are cleaned up. The canonical current wording always lives in the chapter
+  files; the changelog is for "what changed".
 - The per-rule pages (`/<book>/rule/<n>`) are listed in `manifest.json` but not
   separately stored — they duplicate the content already captured from sections.
 - Numbering and wording **mirror the source** at `fetchedAt`. The USPSA rulebook
