@@ -1,0 +1,8 @@
+# Steel Challenge (SCSA) Rules — Appendix A4: Classification
+
+> Per the 2026 Steel Challenge (SCSA) Rules. Cite as "Appendix A4 — Classification".
+> Note: tables and diagrams from the source are captured as text only.
+
+All competitors that are active USPSA/SCSA members may be classified in one or more divisions provided the competitor has shot a minimum of 4 of the 8 official steel challenge stages. As a competitor shoots additional official steel challenge stages, the times shot on those stages will count towards classification. With this in mind it’s possible that a competitor may be classified on a range of 4 to 8 stages. Calculation Process: On a periodic basis, currently once a week on Wednesday, each competitor’s classification is calculated. Each stage and division has a Peak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times. Peak Stage Time (PST). PST’s were created by taking an average of the 2014 and 2015 World Speed Shooting Championship (WSSC) stage winning times for each stage and division. Those numbers were then further reviewed and where appropriate, modified, to create the PST’s used for calculation. The WSSC PST’s will be reviewed annually, and if appropriate, adjusted. Class Percentage Required GM
+Peak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times.
+Peak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times.
