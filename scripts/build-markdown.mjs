@@ -128,6 +128,42 @@ function indexMd(book, data, edition, files) {
   return lines.join("\n").trimEnd() + "\n";
 }
 
+function readmeMd(book, data, edition) {
+  const year = data.fetchedAt.slice(0, 4);
+  return `# ${BOOK_NAME[book]} — Knowledge Base
+
+This folder is the complete **${BOOK_NAME[book]}** (${year} edition), split into
+Markdown for use as Project knowledge. Treat it as the authoritative source.
+
+## How to cite
+- **Rules:** cite by the exact number in the rule's \`###\` heading, down to the
+  sub-rule (e.g. \`10.5.11\`). Never approximate a number — if unsure, quote the
+  text and say you couldn't pin the exact cite.
+- **Appendices:** cite as the file/heading title (e.g. "Appendix D7 — Carry
+  Optics Division"). Appendix D divisions **modify** the general rules — check
+  the relevant division file before answering an equipment question.
+- **Glossary:** cite the term from \`glossary.md\`.
+- **Changes:** \`changelog.md\` lists board-approved changes with each rule's
+  \`Old:\`/\`New:\` text and approval date.
+
+## Where to find things
+- \`00-index.md\` — full table of contents (chapters + appendices).
+- \`chapter-NN-*.md\` — the rules, one file per chapter. **This is the canonical
+  current wording** — quote from here.
+- \`appendix-*.md\` — one file per appendix (Appendix D = divisions).
+- \`glossary.md\`, \`changelog.md\`.
+
+## Notes
+- **Scope:** this is the handgun/${book.toUpperCase()} book only. It does **not**
+  cover Rifle/Shotgun/Multigun, which are a separate book.
+- **Appendix tables/diagrams** (target dimensions, division equipment grids) are
+  captured as text only — layout and images are not preserved, so spec tables
+  may read awkwardly.
+- **Changelog \`New\`** reflects the resulting wording; the canonical current
+  text always lives in the chapter files.
+`;
+}
+
 async function buildBook(book) {
   const data = JSON.parse(await import("node:fs").then((m) => m.readFileSync(join(DATA_DIR, `${book}.json`), "utf8")));
   const edition = `Per the ${data.fetchedAt.slice(0, 4)} ${BOOK_NAME[book]}`;
@@ -151,10 +187,11 @@ async function buildBook(book) {
   if (data.glossary.length) await write("glossary.md", glossaryMd(book, data.glossary, edition));
   if (data.changelog.length) await write("changelog.md", changelogMd(book, data.changelog, edition));
 
-  // index last, so it can list the files
+  // index + readme last, so the index can list the content files
   await writeFile(join(dir, "00-index.md"), indexMd(book, data, edition, files.sort()));
+  await writeFile(join(dir, "README.md"), readmeMd(book, data, edition));
 
-  process.stderr.write(`[${book}] ${files.length + 1} markdown files -> claude-project/${book}/\n`);
+  process.stderr.write(`[${book}] ${files.length + 2} markdown files -> claude-project/${book}/\n`);
 }
 
 await mkdir(OUT_DIR, { recursive: true });
