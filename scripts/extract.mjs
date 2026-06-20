@@ -90,23 +90,33 @@ function extractFlatRules(rsc) {
 // --- Fallback: rules whose body is rendered only as `rule-prose` markup ---
 // (section-level prose, appendices, multi-paragraph rules with text:null).
 
-// Readable text from an RSC slice: strip attributes, element headers and
-// object keys, then JSON-parse remaining quoted strings; drop React keys.
+// Readable text from an RSC slice, faithful to the rendered page. Inline runs
+// (text, links, <mark>/<s> diff spans, glossary triggers) are concatenated with
+// NO inserted separator so the source strings' own spacing is preserved (this
+// keeps cross-reference numbers like "1.1.5" that carry no letters, and avoids
+// artifacts like "shooting position ," from space-joining). A space is injected
+// only at block-level boundaries (<p>, <li>, <div>, …). React keys and flight
+// references ("$L1b") are dropped.
 function proseText(slice) {
   const cleaned = slice
+    .replace(/(\["\$","(?:p|div|li|br|tr|ul|ol|h[1-6]|table|tbody|thead)")/g, '" ",$1')
     .replace(/"className":"(?:\\.|[^"\\])*"/g, "")
     .replace(/"(?:href|data-slot|id|style|term)":"(?:\\.|[^"\\])*"/g, "")
     .replace(/\["\$","[^"]*",(?:"(?:\\.|[^"\\])*"|null),/g, "")
     .replace(/"[a-zA-Z_][a-zA-Z0-9_-]*":/g, "");
-  const parts = [];
+  let out = "";
   for (const m of cleaned.matchAll(/"((?:\\.|[^"\\])*)"/g)) {
     let s;
     try { s = JSON.parse('"' + m[1] + '"'); } catch { continue; }
-    const t = s.trim();
-    const isKey = /^[a-zA-Z0-9][a-zA-Z0-9_-]*$/.test(t) && /[0-9]/.test(t) && !/\s/.test(t);
-    if (/[A-Za-z]/.test(t) && t.length > 1 && !isKey && !t.startsWith("$")) parts.push(t);
+    const isKey = /^[a-zA-Z0-9][a-zA-Z0-9_-]*$/.test(s) && /[0-9]/.test(s) && !/\s/.test(s);
+    if (isKey || s.startsWith("$")) continue;
+    out += s;
   }
-  return parts.join(" ").replace(/\s+/g, " ").trim();
+  return out
+    .replace(/\s+/g, " ")
+    .replace(/\s+([,.;:)])/g, "$1") // no space before closing punctuation
+    .replace(/\(\s+/g, "(") // no space after opening paren
+    .trim();
 }
 
 // Balanced [...] or "..." following the first `"children":` after `from`.
@@ -203,25 +213,6 @@ function extractGlossary(rsc) {
   return [...map].map(([term, definition]) => ({ term, definition }));
 }
 
-// Display text of a node's children, keeping numeric-only tokens (e.g. a rule
-// number like "1.1.5.2") that proseText drops. Used for changelog refs.
-function tokenText(slice) {
-  const cleaned = slice
-    .replace(/"className":"(?:\\.|[^"\\])*"/g, "")
-    .replace(/"(?:href|data-slot|id|style|term)":"(?:\\.|[^"\\])*"/g, "")
-    .replace(/\["\$","[^"]*",(?:"(?:\\.|[^"\\])*"|null),/g, "")
-    .replace(/"[a-zA-Z_][a-zA-Z0-9_-]*":/g, "");
-  const parts = [];
-  for (const m of cleaned.matchAll(/"((?:\\.|[^"\\])*)"/g)) {
-    let s;
-    try { s = JSON.parse('"' + m[1] + '"'); } catch { continue; }
-    const t = s.trim();
-    const isKey = /^[a-zA-Z0-9][a-zA-Z0-9_-]*$/.test(t) && /[0-9]/.test(t) && !/\s/.test(t);
-    if (t.length > 1 && !isKey && !t.startsWith("$")) parts.push(t);
-  }
-  return parts.join(" ").replace(/\s+/g, " ").trim();
-}
-
 // Remove glossary popover definitions ("content":[…] / {…}) wholesale, including
 // the definition <p> paragraphs nested inside them, so they don't leak into
 // changelog/rule/appendix text. String-valued "content" (e.g. <meta content>)
@@ -274,7 +265,7 @@ function extractChangelog(rsc) {
       // ref = the header's first <strong> text: a linked rule number ("3.3",
       // "1.1.5.2") or plain text ("App. C2, #3").
       const strongAt = slice.indexOf('"strong"');
-      const ref = strongAt !== -1 ? tokenText(childrenAfter(slice, strongAt)) : "";
+      const ref = strongAt !== -1 ? proseText(childrenAfter(slice, strongAt)) : "";
       cur = {
         ref: ref || null,
         date: (text.match(/\b\d{1,2}\/\d{1,2}\/\d{2,4}\b/) || [])[0] || null,
@@ -286,14 +277,17 @@ function extractChangelog(rsc) {
   }
   if (cur) entries.push(cur);
 
+  // Trailing footnote/page markers ("… USPSA HQ. 4") leak into the diff text.
+  const dropFootnote = (s) => (s == null ? s : s.replace(/\s+\d{1,2}\s*$/, "").trim());
+
   // Normalize each entry's body into old/new where labelled.
   for (const e of entries) {
     const body = e.changes.join(" ").replace(/\s+/g, " ").trim();
     const old = body.match(/Old:\s*(.*?)(?:\s*New:|$)/);
     const neu = body.match(/New:\s*(.*)$/);
-    e.old = old ? old[1].trim() : null;
-    e.new = neu ? neu[1].trim() : null;
-    e.text = body;
+    e.old = dropFootnote(old ? old[1].trim() : null);
+    e.new = dropFootnote(neu ? neu[1].trim() : null);
+    e.text = dropFootnote(body);
   }
   return entries;
 }

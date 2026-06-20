@@ -174,4 +174,4 @@ At Level II or higher matches competitors are prohibited from shooting back- to-
 
 ### 8.5
 
-In the event that inadvertent contact from the Range Officer or another external influence has interfered with the competitor during a course of fire, the Range Officer may offer the competitor a reshoot of the affected string. The competitor must accept or decline the offer prior to seeing the time or the score from the initial attempt. However, in the event that the competitor commits a safety infraction during any such interference, the provisions of may still apply.
+In the event that inadvertent contact from the Range Officer or another external influence has interfered with the competitor during a course of fire, the Range Officer may offer the competitor a reshoot of the affected string. The competitor must accept or decline the offer prior to seeing the time or the score from the initial attempt. However, in the event that the competitor commits a safety infraction during any such interference, the provisions of 10.2 may still apply.

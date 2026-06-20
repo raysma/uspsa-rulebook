@@ -12,7 +12,7 @@ No
 No
 Handgun and Mags – 3 3/8” (length of an overlay).
 Yes
-Yes, see
+Yes, see 5.2.11
 Yes
 Yes
 Yes

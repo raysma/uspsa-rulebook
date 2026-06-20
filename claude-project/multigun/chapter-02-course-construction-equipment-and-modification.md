@@ -64,7 +64,7 @@ All berms are “off limits” to all persons at all times, except when access t
 
 ### 2.2
 
-During the construction of a course of fire , a variety of physical barriers may be used to restrict competitor movement and to provide additional competitive challenges as follows:
+During the construction of a course of fire, a variety of physical barriers may be used to restrict competitor movement and to provide additional competitive challenges as follows:
 
 ### 2.2.1
 
@@ -166,7 +166,7 @@ Match Officials may, for any reason, modify the physical construction or stage p
 
 ### 2.3.1.1
 
-In lieu of modifying course design or physical construction, a Range Master may explicitly forbid certain competitor actions in order to maintain safety during a course of fire . Such declaration may only be made after competitor action or expressed intent has been determined to be unsafe or create an unsafe condition and may not be made prior to any such action or expressed intent. Declaration of a Forbidden Action may be made to prohibit competitor movement which is likely to result in an unsafe condition. The declaration of a Forbidden Action cannot be used as a means of compelling or limiting competitor movement within a course of fire (e.g., to prevent a shooter from “cutting the corner” on an L- shaped shooting area). Except as provided in Rule , a course designer wishing to compel, or limit competitor movement must do so using target placement, vision barriers, physical barriers, or off-limits lines. Subject to the above, an area of the range floor may be declared off-limits. The area must be clearly delineated with Off-Limits Lines (Rule ). Crossing an Off-Limits Line will result in a zero for the stage. Any Forbidden Action or Off-Limits Area must be specified in the Written Stage Briefing (See Rules and
+In lieu of modifying course design or physical construction, a Range Master may explicitly forbid certain competitor actions in order to maintain safety during a course of fire. Such declaration may only be made after competitor action or expressed intent has been determined to be unsafe or create an unsafe condition and may not be made prior to any such action or expressed intent. Declaration of a Forbidden Action may be made to prohibit competitor movement which is likely to result in an unsafe condition. The declaration of a Forbidden Action cannot be used as a means of compelling or limiting competitor movement within a course of fire (e.g., to prevent a shooter from “cutting the corner” on an L- shaped shooting area). Except as provided in Rule 1.1.5.1, a course designer wishing to compel, or limit competitor movement must do so using target placement, vision barriers, physical barriers, or off-limits lines. Subject to the above, an area of the range floor may be declared off-limits. The area must be clearly delineated with Off-Limits Lines (Rule 2.2.1.5). Crossing an Off-Limits Line will result in a zero for the stage. Any Forbidden Action or Off-Limits Area must be specified in the Written Stage Briefing (See Rules 2.3.3 and 3.2.3).
 
 ### 2.3.2
 

@@ -60,8 +60,8 @@ A brace, stand, rope, cable or other element used to support a barrier, line, or
 
 ### Target(s)
 
-A term that can include both scoring target(s) and no-shoot(s)
+A term that can include both scoring target(s) and no-shoot(s).
 
 ### Weak hand
 
-The hand opposite the strong hand
+The hand opposite the strong hand.

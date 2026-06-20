@@ -13,7 +13,7 @@ Not applicable
 No, maximum of 6 rounds fired before reload if Major PF declared, 8 if minor PF declared.
 Handgun and Speed Loaders/Associated Equipment – 3 3/8" (length of an overlay)
 Yes
-Yes, see
+Yes, see 5.2.11
 No
 Yes, must be functional. Use of lasers prohibited.
 No

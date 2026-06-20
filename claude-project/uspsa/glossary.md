@@ -56,11 +56,11 @@ The location, shooting position and stance of the competitor as prescribed by th
 
 ### Strong hand
 
-The hand a competitor uses to draw their handgun from their holster. For PCC , strong hand is the same as strong side . For PCC, both hands may be on the gun. NOTE: this applies to classifier requirements in all instances.
+The hand a competitor uses to draw their handgun from their holster. For PCC, strong hand is the same as strong side. For PCC, both hands may be on the gun. NOTE: this applies to classifier requirements in all instances.
 
 ### Strong side
 
-PCC : Carbine is mounted to the shoulder on the strong hand side of the body and trigger must be pulled with the strong hand. A shooter must utilize the same side of the body as their strong side for the duration of the match.
+PCC: Carbine is mounted to the shoulder on the strong hand side of the body and trigger must be pulled with the strong hand. A shooter must utilize the same side of the body as their strong side for the duration of the match.
 
 ### Supporting structure
 
@@ -68,12 +68,12 @@ A brace, stand, rope, cable or other element used to support a barrier, line, or
 
 ### Target(s)
 
-A term that can include both scoring target(s) and no-shoot(s)
+A term that can include both scoring target(s) and no-shoot(s).
 
 ### Weak hand
 
-The hand opposite the strong hand . For PCC , weak hand is the same as weak side . For PCC, both hands may be on the gun. NOTE: This applies to classifier requirements in all instances.
+The hand opposite the strong hand. For PCC, weak hand is the same as weak side. For PCC, both hands may be on the gun. NOTE: This applies to classifier requirements in all instances.
 
 ### Weak side
 
-PCC : Opposite of Strong Side . The carbine is mounted to the shoulder on the weak side of the body and trigger must be pulled with the weak hand . A shooter must utilize the same side of their body as the weak side for the duration of the match.
+PCC: Opposite of Strong Side. The carbine is mounted to the shoulder on the weak side of the body and trigger must be pulled with the weak hand. A shooter must utilize the same side of their body as the weak side for the duration of the match.

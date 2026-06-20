@@ -6,7 +6,7 @@
 
 ### 1.1
 
-The range is cold! All firearms will be kept UNLOADED except on the firing line under the direct supervision of a Match Official . If it is possible that some competitors arriving at a range where a SCSA event is being held may be in possession of a loaded firearm on their person (e.g., law enforcement officers, persons duly authorized to carry a loaded firearm, etc.), match organizers should provide an Unloading Loading Station to enable such competitors to safely unload their firearms prior to entering the range, and to safely load their firearms again on departure from the range. The Unloading/Loading Station should be conveniently located outside the entrance to the range (or outside the portion of the range allocated to the SCSA event), it should be clearly marked, and it must include a suitable impact zone.
+The range is cold! All firearms will be kept UNLOADED except on the firing line under the direct supervision of a Match Official. If it is possible that some competitors arriving at a range where a SCSA event is being held may be in possession of a loaded firearm on their person (e.g., law enforcement officers, persons duly authorized to carry a loaded firearm, etc.), match organizers should provide an Unloading/Loading Station to enable such competitors to safely unload their firearms prior to entering the range, and to safely load their firearms again on departure from the range. The Unloading/Loading Station should be conveniently located outside the entrance to the range (or outside the portion of the range allocated to the SCSA event), it should be clearly marked, and it must include a suitable impact zone.
 
 ## 1.2  Safety Equipment
 

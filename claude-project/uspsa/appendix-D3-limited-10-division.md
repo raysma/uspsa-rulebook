@@ -5,14 +5,14 @@
 
 No
 9x19 mm (0.354” x 0.748”)
-.40 cal. / 10mm ( ”) / .357 SIG
+.40 cal. / 10mm (0.40”) /.357 SIG
 No
 No
 5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns
 Yes, maximum 10 rounds loaded in any magazine after the start signal
 Handgun and Mags – 3 3/8” (length of an overlay).
 Yes
-Yes, see
+Yes, see 5.2.11
 Yes
 Yes. Inoperable units used as weights: Yes. Use of lasers prohibited.
 No

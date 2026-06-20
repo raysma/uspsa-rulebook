@@ -312,4 +312,4 @@ A competitor who suspects a “squib” but was not stopped by the range officer
 
 ### 5.8
 
-Use of Certified Ammunition is subject to the conditions and constraints in Appendix C3 Failure to comply with the conditions and constraints voids the competitor’s inclusion in the Certified Ammunition Program for that match. *NOTE: Applies to Hit Factor Scoring only.
+Use of Certified Ammunition is subject to the conditions and constraints in Appendix C3. Failure to comply with the conditions and constraints voids the competitor’s inclusion in the Certified Ammunition Program for that match. *NOTE: Applies to Hit Factor Scoring only.

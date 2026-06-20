@@ -320,4 +320,4 @@ If the Range Officer discovers that the suspected safety problem does not exist,
 
 ### 5.8
 
-Use of Certified Ammunition is subject to the conditions and constraints in Appendix C3 . Failure to comply with the conditions and constraints voids the competitor’s inclusion in the Certified Ammunition Program for that match.
+Use of Certified Ammunition is subject to the conditions and constraints in Appendix C3. Failure to comply with the conditions and constraints voids the competitor’s inclusion in the Certified Ammunition Program for that match.

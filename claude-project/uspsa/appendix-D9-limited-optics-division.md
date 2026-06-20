@@ -12,7 +12,7 @@ No
 No
 Handgun and Mags – 3 3/8” (length of an overlay).
 Yes
-Yes, see
+Yes, see 5.2.11
 Optical/electronic sights REQUIRED; must be attached directly to slide between rear of slide and ejection port, and may not be mounted to the frame in any way
 Yes. Inoperable units used as weights: Yes. Use of lasers prohibited.
 No

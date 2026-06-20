@@ -74,9 +74,14 @@ node scripts/search.mjs 10.5.1            # look up an exact rule number
 ## Coverage & limitations
 
 - **1,337 numbered rules**, **56 appendices**, **40 glossary terms**, and
-  **5 changelog entries** across the three books — all with full text.
+  **64 changelog entries** across the three books — all with full text.
 - **Appendix tables/diagrams** (target dimensions, division equipment, etc.) are
   captured as readable text; tabular layout and images are not preserved.
+- **Changelog Old/New text** is reconstructed from the source's inline,
+  character-level diff. Cross-references, spacing and footnotes are cleaned up,
+  but a few entries retain minor diff artifacts (e.g. a capitalization change
+  rendered as `t The`). The canonical current wording always lives in the
+  chapter files; the changelog is for "what changed".
 - The per-rule pages (`/<book>/rule/<n>`) are listed in `manifest.json` but not
   separately stored — they duplicate the content already captured from sections.
 - Numbering and wording **mirror the source** at `fetchedAt`. The USPSA rulebook

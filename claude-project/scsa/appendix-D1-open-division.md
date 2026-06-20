@@ -6,7 +6,7 @@
 NA for Steel Challenge
 NA for Steel Challenge
 NA for Steel Challenge
-.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.
+.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed.
 NA for Steel Challenge
 No
 No

@@ -4,7 +4,7 @@
 > Note: tables and diagrams from the source are captured as text only.
 
 None (see Special Conditions)
-9mm, .38 special,.357 Sig, .40 S&W, 10mm, .45 ACP For competitions only in countries where common military calibers are prohibited, .380 ACP is allowed.
+9mm,.38 special,.357 Sig,.40 S&W, 10mm,.45 ACP For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed.
 None
 1600 FPS
 No
