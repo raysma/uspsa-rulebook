@@ -1,13 +1,13 @@
 # USPSA Multigun Rules — Index
 
 **Edition:** Per the 2026 USPSA Multigun Rules
-**Source:** https://rules.uspsa.org/multigun (retrieved 2026-06-20)
+**Source:** https://rules.uspsa.org/multigun (retrieved 2026-06-27)
 
 This knowledge base is the USPSA Multigun Rules, split for retrieval. Each rule,
 appendix, and glossary entry is headed by its exact identifier — cite by that
 identifier (e.g. `10.5.11`, "Appendix D7 — Carry Optics Division", or a glossary term).
 
-**Contents:** 12 chapters, 586 rules, 17 appendices, 16 glossary terms, 13 change-log entries.
+**Contents:** 12 chapters, 586 rules, 17 appendices, 94 glossary terms, 13 change-log entries.
 
 ## Chapters
 

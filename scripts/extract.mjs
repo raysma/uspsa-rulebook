@@ -113,7 +113,7 @@ function proseText(slice) {
   const cleaned = dropStruck(slice)
     .replace(/(\["\$","(?:p|div|li|br|tr|ul|ol|h[1-6]|table|tbody|thead)")/g, '" ",$1')
     .replace(/"className":"(?:\\.|[^"\\])*"/g, "")
-    .replace(/"(?:href|data-slot|id|style|term)":"(?:\\.|[^"\\])*"/g, "")
+    .replace(/"(?:href|data-slot|id|style|term|anchor)":"(?:\\.|[^"\\])*"/g, "")
     .replace(/\["\$","[^"]*",(?:"(?:\\.|[^"\\])*"|null),/g, "")
     .replace(/"[a-zA-Z_][a-zA-Z0-9_-]*":/g, "");
   let out = "";
@@ -210,17 +210,52 @@ function extractAppendixText(rsc) {
   return chunks.join("\n");
 }
 
-// Glossary: {"term":"X","content":[...prose...]} (deduped by term).
+// The RSC flight stream is newline-delimited rows "<hexid>:<value>". Some
+// content (e.g. glossary definitions) is lazy-streamed into its own row and
+// referenced elsewhere as "$L<hexid>". Build a map of row id -> raw value.
+function buildRows(rsc) {
+  const rows = new Map();
+  const marks = [];
+  const re = /(^|\n)([0-9a-f]{1,6}):/g;
+  let m;
+  while ((m = re.exec(rsc))) {
+    marks.push({ start: m.index + m[1].length + m[2].length + 1, idStart: m.index + m[1].length, id: m[2] });
+  }
+  for (let k = 0; k < marks.length; k++) {
+    const end = k + 1 < marks.length ? marks[k + 1].idStart : rsc.length;
+    rows.set(marks[k].id, rsc.slice(marks[k].start, end).replace(/\n$/, ""));
+  }
+  return rows;
+}
+
+// Inline quoted "$L<id>" content references with their resolved row value.
+// Module rows (I[…]) are left as references — they carry no text.
+function resolveRefs(str, rows, depth = 0) {
+  if (depth > 8) return str;
+  return str.replace(/"\$L([0-9a-f]{1,6})"/g, (whole, id) => {
+    const row = rows.get(id);
+    if (row == null || /^I\[/.test(row)) return whole; // missing or module ref
+    return resolveRefs(row, rows, depth + 1);
+  });
+}
+
+// Glossary: the page lists every term as a `<div id="term-…">` entry — the term
+// name is the div's React key and the definition is its `<dd>` rule-prose, which
+// may be lazy-streamed ($L refs). (The inline {"term","content"} popovers are
+// only a referenced subset, so keying on those misses most of the glossary.)
 function extractGlossary(rsc) {
+  const rows = buildRows(rsc);
   const map = new Map();
-  const re = /"term":"((?:\\.|[^"\\])*)","content":/g;
+  const re = /\["\$","div","((?:\\.|[^"\\])*)",\{"id":"term-[^"]*"/g;
   let m;
   while ((m = re.exec(rsc))) {
     const term = JSON.parse('"' + m[1] + '"');
-    let i = re.lastIndex;
-    while (i < rsc.length && rsc[i] !== "[" && rsc[i] !== "{") i++;
-    const definition = proseText(balancedFrom(rsc, i));
-    if (!map.has(term) || definition.length > map.get(term).length) map.set(term, definition);
+    const entry = stripPopovers(resolveRefs(balancedFrom(rsc, m.index), rows));
+    const pAt = entry.indexOf("rule-prose");
+    const definition = pAt !== -1 ? proseText(childrenAfter(entry, pAt)) : "";
+    if (!map.has(term) || definition.length > (map.get(term) || "").length) {
+      map.set(term, definition);
+    }
   }
   return [...map].map(([term, definition]) => ({ term, definition }));
 }

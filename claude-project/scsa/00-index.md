@@ -1,13 +1,13 @@
 # Steel Challenge (SCSA) Rules — Index
 
 **Edition:** Per the 2026 Steel Challenge (SCSA) Rules
-**Source:** https://rules.uspsa.org/scsa (retrieved 2026-06-20)
+**Source:** https://rules.uspsa.org/scsa (retrieved 2026-06-27)
 
 This knowledge base is the Steel Challenge (SCSA) Rules, split for retrieval. Each rule,
 appendix, and glossary entry is headed by its exact identifier — cite by that
 identifier (e.g. `10.5.11`, "Appendix D7 — Carry Optics Division", or a glossary term).
 
-**Contents:** 12 chapters, 213 rules, 18 appendices, 5 glossary terms, 21 change-log entries.
+**Contents:** 12 chapters, 213 rules, 18 appendices, 45 glossary terms, 21 change-log entries.
 
 ## Chapters
 

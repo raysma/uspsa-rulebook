@@ -1,12 +1,12 @@
 {
   "book": "multigun",
   "source": "https://rules.uspsa.org/multigun",
-  "fetchedAt": "2026-06-20T05:38:25.861Z",
+  "fetchedAt": "2026-06-27T16:04:01.570Z",
   "chapterCount": 12,
   "sectionCount": 73,
   "ruleCount": 586,
   "appendixCount": 17,
-  "glossaryCount": 16,
+  "glossaryCount": 94,
   "changelogCount": 13,
   "chapters": [
     {
@@ -3612,48 +3612,356 @@
   ],
   "glossary": [
     {
-      "term": "OFM",
-      "definition": "Original firearm manufacturer."
+      "term": "Aftermarket",
+      "definition": "Items not manufactured by, or available directly from, the Original Firearm Manufacturer. (See OFM)"
     },
     {
-      "term": "Supporting structure",
-      "definition": "A brace, stand, rope, cable or other element used to support a barrier, line, or obstacle. These do not exist and are not part of the shooting area except as specifically stated in the Written Stage Briefing."
+      "term": "Allied equipment",
+      "definition": "Holsters, magazines, speed loading devices and/or their respective pouches."
     },
     {
-      "term": "Course of fire",
-      "definition": "(Also “course” and “COF”) An expression used interchangeably with “Stage”."
+      "term": "Appearing target",
+      "definition": "A target which is not visible until activated or revealed."
     },
     {
-      "term": "Shot",
-      "definition": "A bullet which passes completely through the barrel of a firearm."
+      "term": "Array",
+      "definition": "A grouping of more than one target."
     },
     {
-      "term": "Range Official",
-      "definition": "A person who is officially serving at a match in the capacity of a Range Officer."
+      "term": "Backstop",
+      "definition": "A raised structure of sand, soil or other materials used to contain bullets."
     },
     {
-      "term": "Target(s)",
-      "definition": "A term that can include both scoring target(s) and no-shoot(s)."
+      "term": "Barrier supports",
+      "definition": "See Supporting structure."
+    },
+    {
+      "term": "Behind",
+      "definition": "Uprange of and within the lateral confines of the specified object. e.g. \"standing behind the table\" means uprange of the table and inside the lines defined by the edges of the table."
+    },
+    {
+      "term": "Berm",
+      "definition": "A raised structure of sand, soil or other materials used to contain bullets and/or to separate one shooting bay and/or COF from another."
+    },
+    {
+      "term": "Bi-Pods or similar",
+      "definition": "(Rifles only) Similar refers to monopods, tripods or other items used as such, however, they must be attached to the rifle during the COF. Modified Division – Only bipods (a two-legged support) which remains attached to the rifle during the COF."
     },
     {
       "term": "Caliber",
       "definition": "The diameter of a bullet measured in millimeters (or thousandths of an inch)."
     },
     {
+      "term": "Cartridge case",
+      "definition": "The main body of a round, which contains all component parts."
+    },
+    {
+      "term": "Closed course of fire",
+      "definition": "A course of fire is considered closed or off limits when there are no official match staff present to supervise competitor actions during stage inspection."
+    },
+    {
+      "term": "Compensator",
+      "definition": "A device or machining integrated into the slide or barrel to counter muzzle rise (usually by externally diverting escaping gasses)."
+    },
+    {
+      "term": "Course of fire",
+      "definition": "(Also “course” and “COF”) An expression used interchangeably with “Stage”."
+    },
+    {
+      "term": "Cross draw",
+      "definition": "When a competitor draws with their strong hand while wearing their holster on the opposite side of the body."
+    },
+    {
       "term": "Detonation",
       "definition": "Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when a slide is being manually retracted, when a round is dropped)."
     },
     {
-      "term": "Single action",
-      "definition": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
+      "term": "Disappearing target",
+      "definition": "A target which when activated and after completing its movement is no longer available for engagement."
+    },
+    {
+      "term": "Discharge",
+      "definition": "See Shot."
     },
     {
       "term": "Double action",
       "definition": "Each pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily."
     },
     {
+      "term": "Draw",
+      "definition": "The point at which a handgun is removed or disengaged from the holster so as to allow access to any portion of the interior of the trigger guard."
+    },
+    {
+      "term": "Dropped gun",
+      "definition": "A condition in which a competitor loses control of their firearm. Loss of control does not require the firearm to land on the ground or other range surface or prop. It occurs anytime the firearm is no longer in control of either hand, even if it is trapped against part of the body or caught in midair."
+    },
+    {
+      "term": "Engaging",
+      "definition": "(As in “engaging a target”) A competitor is actively aiming at and firing at least one shot at a target that is within view, not through walls or other barriers/obstacles except soft cover."
+    },
+    {
+      "term": "Facing downrange",
+      "definition": "Any position facing side berms or backstop within 90 degrees of the median intercept of the backstop."
+    },
+    {
+      "term": "Facing uprange",
+      "definition": "Face and Feet pointing directly (180 degrees) away from the backstop with shoulders and hips square to the backstop. A natural \"toes out\" stance is acceptable and meets the standard of feet pointing directly away from the backstop as long as both feet do not point in the same direction and the rest of the position requirements are satisfied."
+    },
+    {
+      "term": "False start",
+      "definition": "Beginning an attempt at a COF prior to the “Start signal”."
+    },
+    {
+      "term": "Fault line",
+      "definition": "A physical ground reference line in a course of fire which defines the limit(s) of the shooting area."
+    },
+    {
+      "term": "Forbidden action",
+      "definition": "A competitor action which has been expressly prohibited by the Range Master and so reflected in the Written Stage Briefing."
+    },
+    {
+      "term": "Grain",
+      "definition": "A common unit of measurement used in respect of the weight of a bullet (1 grain = 0.0648 grams)."
+    },
+    {
+      "term": "Gun case/bag",
+      "definition": "A carrying device that does not allow access to or manipulation of the trigger while fully encasing the firearm."
+    },
+    {
+      "term": "Handling",
+      "definition": "(As in “handling a firearm”) The act of manipulating, holding, or gripping a firearm while the trigger is functionally accessible."
+    },
+    {
+      "term": "Holstered",
+      "definition": "The point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block."
+    },
+    {
+      "term": "Kneeling",
+      "definition": "A body position wherein at least one knee is in contact with the ground or stage surface."
+    },
+    {
+      "term": "Loaded firearm",
+      "definition": "A firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm."
+    },
+    {
+      "term": "Loading",
+      "definition": "The insertion of ammunition into a firearm. Loading is completed when ammunition is inserted, and firearm is in battery (slide forward or cylinder closed) and ready to fire and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+    },
+    {
+      "term": "Location",
+      "definition": "A physical space within the boundaries of a course of fire. For the purposes of this rule, a competitor will not be considered to have changed location until both feet have moved to a new physical position."
+    },
+    {
+      "term": "Match Official",
+      "definition": "A person who has an official duty or function at a match, but who is not necessarily qualified as, or acting in the capacity of, a Range Official."
+    },
+    {
+      "term": "Movement",
+      "definition": "Taking more than one step in any direction or changing body position (e.g. from standing to kneeling, from seated to standing etc.)."
+    },
+    {
+      "term": "Must",
+      "definition": "This means the same as “will,” “shall,” etc. Compliance is mandatory."
+    },
+    {
       "term": "No-shoot(s)",
       "definition": "Target(s) that incur penalties when hit."
+    },
+    {
+      "term": "Not applicable",
+      "definition": "The rule or requirement does not apply to the particular discipline, Division or match level."
+    },
+    {
+      "term": "NROI",
+      "definition": "National Range Officers Institute."
+    },
+    {
+      "term": "Obstacle",
+      "definition": "Something within a course of fire, either constructed or naturally occurring, which much be negotiated by the competitor while completing the course of fire."
+    },
+    {
+      "term": "Occurrence",
+      "definition": "For purposes of assessing penalties, e.g., foot faults, an occurrence is defined as shooting at an array of targets from a single location or view in a course of fire. If the competitor moves to another view or location and continues to fault, that constitutes a second occurrence."
+    },
+    {
+      "term": "Off limits lines",
+      "definition": "A physical reference line in a course of fire which defines an area of the range floor which is off limits to a competitor during the course of fire."
+    },
+    {
+      "term": "OFM",
+      "definition": "Original firearm manufacturer."
+    },
+    {
+      "term": "PCC",
+      "definition": "Pistol Caliber Carbine, see Appendix D for Division requirements."
+    },
+    {
+      "term": "Primer",
+      "definition": "The part of a round which causes a detonation or a shot to be fired."
+    },
+    {
+      "term": "Prone",
+      "definition": "The competitor is laying on the ground or other designated surface with the front of the chest closest to the ground."
+    },
+    {
+      "term": "Prototype",
+      "definition": "A firearm configuration which is not in mass production and/or is not available to the general public."
+    },
+    {
+      "term": "Radial tears",
+      "definition": "Tears in a cardboard target radiating outwards from the diameter of a bullet hole."
+    },
+    {
+      "term": "Range Official",
+      "definition": "A person who is officially serving at a match in the capacity of a Range Officer."
+    },
+    {
+      "term": "Range surface",
+      "definition": "The surface within a shooting bay as defined by the Course of Fire that the competitors and staff must move across. This can be the bay floor or other elements of the stage (e.g. raised platform)."
+    },
+    {
+      "term": "REF",
+      "definition": "Range Equipment Failure."
+    },
+    {
+      "term": "Reloading",
+      "definition": "The replenishment or the insertion of additional ammunition into a firearm. The reload is not complete until the magazine/speed loader is fully inserted, and the firearm is in battery, (slide forward or cylinder closed and ready to fire) and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+    },
+    {
+      "term": "Securely fixed (belt)",
+      "definition": "The belt doesn't move when either the gun or a magazine is drawn from it without using both hands."
+    },
+    {
+      "term": "Selective action",
+      "definition": "The competitor can select either Single Action or Double Action."
+    },
+    {
+      "term": "Shooting box",
+      "definition": "A small shooting area (generally square) formed of four connected fault lines."
+    },
+    {
+      "term": "Shooting position",
+      "definition": "The physical presentation of a person’s body (e.g. standing, sitting, kneeling, prone)."
+    },
+    {
+      "term": "Shell",
+      "definition": "A cartridge of ammunition used in a shotgun."
+    },
+    {
+      "term": "Target(s)",
+      "definition": "A term that can include both scoring target(s) and no-shoot(s)."
+    },
+    {
+      "term": "Tie-down rig",
+      "definition": "A holster where the lower section is strapped or rigidly attached to a competitor’s leg."
+    },
+    {
+      "term": "Unloading",
+      "definition": "The removal of ammunition from a firearm. This action is completed when the firearm is empty of all ammunition and the magazine removed or cylinder opened and shown for inspection by a Range Officer."
+    },
+    {
+      "term": "View",
+      "definition": "A range of sight or vision specific to an array of targets. In order to constitute a new \"view\" under this rule, the range of sight of an array of targets must be broken by a vision barrier of some sort, such that a different array of targets is seen in the new view."
+    },
+    {
+      "term": "Waist level",
+      "definition": "The normal wear level for the lower garment. Wearing a belt at waist level, which is deemed to be at the same level as the original belt loops on the lower garment means that the belt is worn at the normal wear level for the pants, trousers, skirt, kilt, shorts or jeans."
+    },
+    {
+      "term": "Weak hand",
+      "definition": "The hand opposite the strong hand."
+    },
+    {
+      "term": "Weak side",
+      "definition": "(For long guns) Opposite of Strong Side. Firearm is mounted to the shoulder on the weak hand side of the body and trigger must be pulled with the weak hand. The shooter must utilize the same side of their body as the weak side for the duration of the match."
+    },
+    {
+      "term": "Will",
+      "definition": "Mandatory."
+    },
+    {
+      "term": "Bullet",
+      "definition": "The projectile in a round intended to strike a target."
+    },
+    {
+      "term": "Burst operation",
+      "definition": "More than one round can be discharged on a single pull or activation of the trigger."
+    },
+    {
+      "term": "Dry firing",
+      "definition": "The activation of the trigger and/or action of a firearm which is totally devoid of ammunition."
+    },
+    {
+      "term": "Dummy ammunition",
+      "definition": "Includes snap caps, empty cases, dummy rounds and any other object that resembles or duplicates a live round."
+    },
+    {
+      "term": "Freestyle",
+      "definition": "Competitors are allowed to solve the challenge presented without restriction within the rules and engage targets on an “as available for engagement basis.”"
+    },
+    {
+      "term": "Remedial action",
+      "definition": "The term used for correcting any problem to get the firearm back in operation, such as a jam, stuck bullet, or feeding problem due to issues with the magazine, ammunition, or firearm."
+    },
+    {
+      "term": "Reshoot",
+      "definition": "A competitor’s subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee."
+    },
+    {
+      "term": "Round",
+      "definition": "A cartridge of ammunition used in a handgun or rifle."
+    },
+    {
+      "term": "Shot",
+      "definition": "A bullet which passes completely through the barrel of a firearm."
+    },
+    {
+      "term": "Should",
+      "definition": "Optional but highly recommended."
+    },
+    {
+      "term": "Shoulder",
+      "definition": "The shoulder is defined as the upper joint of the arm and the part of the body between the arm and the neck."
+    },
+    {
+      "term": "Sight picture",
+      "definition": "Aiming at a target without actually shooting at it."
+    },
+    {
+      "term": "Significant advantage",
+      "definition": "Any position assumed while faulting that provides: - A greater view of a target or target array, i.e., seeing all of the array versus only one or two targets, or more of a target behind an obscuring no-shoot or wall - A closer (more than 3 feet) shot at a target, especially if the target is partially obscured with a no-shoot or hard cover - Less physical positioning, i.e., lean, around or over a wall or barrier - A more stable position, such as stepping off of a moving platform or narrow beam onto the ground, provided that the object in question has been marked as a shooting area - Having both feet outside of a shooting area and firing shots (10.2.1.2) - Stability by bracing on a wall or barrier outside of the fault lines Note: These are some examples and are not intended to illustrate all possible cases of significant advantage"
+    },
+    {
+      "term": "Single action",
+      "definition": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
+    },
+    {
+      "term": "Snap cap",
+      "definition": "(Also “spring cap”) A type of dummy round."
+    },
+    {
+      "term": "Squib",
+      "definition": "A bullet or solid obstruction lodged inside the barrel of a firearm."
+    },
+    {
+      "term": "Stance",
+      "definition": "The physical presentation of a person’s limbs (e.g. hands by the side, arms crossed etc.)."
+    },
+    {
+      "term": "Standing",
+      "definition": "The competitor’s body is fully erect with both feet planted firmly on the ground or other designated position."
+    },
+    {
+      "term": "Start condition",
+      "definition": "The condition of the firearm prior to commencement of the course of fire, e.g., loaded, unloaded, safety applied, etc. The start condition MUST be clearly defined by the Written Stage Briefing."
+    },
+    {
+      "term": "Start position",
+      "definition": "The location, shooting position and stance prescribed by a COF prior to issuance of the “Start signal.” The start position MUST be clearly defined by the Written Stage Briefing."
+    },
+    {
+      "term": "Static targets",
+      "definition": "Targets which are stationary and are not activated."
     },
     {
       "term": "Strong hand",
@@ -3664,16 +3972,20 @@
       "definition": "(For long guns) Firearm is mounted to the shoulder on the strong hand side of the body and trigger must be pulled with the strong hand. A shooter must utilize the same side of the body as their strong side for the duration of the match."
     },
     {
-      "term": "Weak hand",
-      "definition": "The hand opposite the strong hand."
+      "term": "Supine",
+      "definition": "The competitor is laying on the ground or other designated surface with the spinal column and shoulder blades closest to the ground. NOT recommended due to potential for sweeping."
     },
     {
-      "term": "Range surface",
-      "definition": "The surface within a shooting bay as defined by the Course of Fire that the competitors and staff must move across. This can be the bay floor or other elements of the stage (e.g. raised platform)."
+      "term": "Supporting structure",
+      "definition": "A brace, stand, rope, cable or other element used to support a barrier, line, or obstacle. These do not exist and are not part of the shooting area except as specifically stated in the Written Stage Briefing."
     },
     {
-      "term": "Shooting position",
-      "definition": "The physical presentation of a person’s body (e.g. standing, sitting, kneeling, prone)."
+      "term": "Sweeping",
+      "definition": "Pointing the muzzle of a firearm at any part of any person’s body, while holding it in the hands, or placing it on or removing it from an object. There may be an exception for RO interference."
+    },
+    {
+      "term": "WSB",
+      "definition": "Written Stage Briefing. A written briefing prepared per 3.2 read verbatim to competitors prior to their attempt on a course of fire."
     }
   ],
   "changelog": [

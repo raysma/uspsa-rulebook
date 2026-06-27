@@ -6156,8 +6156,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "OFM",
-    "text": "Original firearm manufacturer."
+    "title": "Aftermarket",
+    "text": "Items not manufactured by, or available directly from, the OFM."
   },
   {
     "book": "uspsa",
@@ -6167,8 +6167,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Course of fire",
-    "text": "(Also “course” and “COF”) An expression used interchangeably with “Stage”."
+    "title": "Allied equipment",
+    "text": "Holsters, magazines, speed loading devices and/or their respective pouches."
   },
   {
     "book": "uspsa",
@@ -6178,8 +6178,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Supporting structure",
-    "text": "A brace, stand, rope, cable or other element used to support a barrier, line, or obstacle. These do not exist and are not part of the shooting area except as specifically stated in the Written Stage Briefing."
+    "title": "Array",
+    "text": "A grouping of more than one target."
   },
   {
     "book": "uspsa",
@@ -6189,8 +6189,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Shot",
-    "text": "A bullet which passes completely through the barrel of a firearm."
+    "title": "Backstop",
+    "text": "A raised structure of sand, soil or other materials used to contain bullets."
   },
   {
     "book": "uspsa",
@@ -6200,8 +6200,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Range surface",
-    "text": ""
+    "title": "Barrier",
+    "text": "A wall or other range prop which helps define a course of fire. Typically, these are “vision barriers” as well either by construction or rule."
   },
   {
     "book": "uspsa",
@@ -6211,8 +6211,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "PCC",
-    "text": "Pistol Caliber Carbine, see Appendix D8 for Division requirements."
+    "title": "Barrier supports",
+    "text": "See Supporting structure."
   },
   {
     "book": "uspsa",
@@ -6222,8 +6222,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Range Official",
-    "text": "A person who is officially serving at a match in the capacity of a Range Officer."
+    "title": "Behind",
+    "text": "Uprange of and within the lateral confines of the specified object; e.g. \"standing behind the table\" means uprange of the table and inside the lines defined by the edges of the table."
   },
   {
     "book": "uspsa",
@@ -6233,19 +6233,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Start position",
-    "text": "The location, shooting position and stance of the competitor as prescribed by the Written Stage Briefing prior to issuance of the “start signal”. The start position MUST be clearly defined by the Written Stage Briefing."
-  },
-  {
-    "book": "uspsa",
-    "type": "glossary",
-    "chapter": "Glossary",
-    "chapterTitle": "Glossary",
-    "section": null,
-    "sectionTitle": null,
-    "number": null,
-    "title": "Target(s)",
-    "text": "A term that can include both scoring target(s) and no-shoot(s)."
+    "title": "Berm",
+    "text": "A raised structure of sand, soil, or other materials used to contain bullets and/or to separate one shooting bay and/or COF from another."
   },
   {
     "book": "uspsa",
@@ -6266,6 +6255,61 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
+    "title": "Cartridge case",
+    "text": "The main body of a round, which contains all component parts."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Closed course of fire",
+    "text": "A course of fire is considered closed or off limits when there are no official match staff present to supervise competitor actions during stage inspection."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Compensator",
+    "text": "A device or machining integrated into the slide or barrel to counter muzzle rise (usually by externally diverting escaping gasses)."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Course of fire",
+    "text": "(Also “course” and “COF”) An expression used interchangeably with “Stage”."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Cross draw",
+    "text": "When a competitor draws with their strong hand while wearing their holster on the opposite side of the body."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
     "title": "Detonation",
     "text": "Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when a slide is being manually retracted, when a round is dropped)."
   },
@@ -6277,8 +6321,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Single action",
-    "text": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
+    "title": "Discharge",
+    "text": "See Shot."
   },
   {
     "book": "uspsa",
@@ -6299,6 +6343,226 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
+    "title": "Draw",
+    "text": "The point at which a handgun is removed or disengaged from the holster so as to allow access to any portion of the interior of the trigger guard."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Dropped gun",
+    "text": "A condition in which a competitor loses control of their firearm. Loss of control does not require the firearm to land on the ground or other range surface or prop. It occurs anytime the firearm is no longer in control of either hand, even if it is trapped against part of the body or caught in midair."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Engaging",
+    "text": "(As in “engaging a target”) A competitor is actively aiming at and firing at least one shot at a target that is within view, not through walls or other barriers/obstacles except soft cover."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Facing downrange",
+    "text": "Any position facing side berms or backstop within 90 degrees of the median intercept of the backstop."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Facing uprange (start position only)",
+    "text": "Face and feet pointing directly (180 degrees) away from the backstop with shoulders and hips square to the backstop. A natural, \"toes out\" stance is acceptable and meets the standard of feet pointing directly away from the backstop, as long as both feet do not point in the same direction, and the rest of the position requirements are satisfied."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "False start",
+    "text": "Beginning an attempt at a COF prior to the “start signal”."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Fault line",
+    "text": "A physical ground reference line in a course of fire which defines the limit(s) of the shooting area."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Forbidden action",
+    "text": "A competitor action which has been expressly prohibited by the Range Master and so reflected in the Written Stage Briefing."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Grain",
+    "text": "A common unit of measurement used in respect of the weight of a bullet (1 grain = 0.0648 grams)."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Gun case/bag",
+    "text": "A carrying device that does not allow access to, or manipulation of, the trigger while fully encasing the firearm."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Handling",
+    "text": "(As in “handling a firearm”) The act of manipulating, holding, or gripping a firearm while the trigger is functionally accessible. Note exceptions for casing/uncasing PCC."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Holstered",
+    "text": "The point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Kneeling",
+    "text": "A body position wherein at least one knee is in contact with the ground or stage surface."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Loaded firearm",
+    "text": "A firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Loading",
+    "text": "The insertion of ammunition into a firearm. Loading is completed when ammunition is inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Location",
+    "text": "A physical space within the boundaries of a course of fire. For the purposes of this rule, a competitor will not be considered to have changed location until both feet have moved to a new physical position."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Make ready position",
+    "text": "The position on the stage where the Range Official gives the \"Make Ready\" command to a competitor. This position does not need to be the same as the start position."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Match Official",
+    "text": "A person who has an official duty or function at a match, but who is not necessarily qualified as, or acting in the capacity of, a Range Official."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Match recognition",
+    "text": "Including a competitor’s scores in the published match results, even if category, class, or division awards are not used."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Movement",
+    "text": "Taking more than one step (both feet have moved) in any direction, or moving from a standing, kneeling, seated, prone, or supine position to another position."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
     "title": "No-shoot(s)",
     "text": "Target(s) that incur penalties when hit."
   },
@@ -6310,8 +6574,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Strong hand",
-    "text": "The hand a competitor uses to draw their handgun from their holster. For PCC, strong hand is the same as strong side. For PCC, both hands may be on the gun. NOTE: this applies to classifier requirements in all instances."
+    "title": "Not applicable",
+    "text": "The rule or requirement does not apply to the particular discipline, Division, or match level."
   },
   {
     "book": "uspsa",
@@ -6321,8 +6585,195 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Weak side",
-    "text": "PCC: Opposite of Strong Side. The carbine is mounted to the shoulder on the weak side of the body and trigger must be pulled with the weak hand. A shooter must utilize the same side of their body as the weak side for the duration of the match."
+    "title": "NROI",
+    "text": "National Range Officers Institute."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Obstacle",
+    "text": "Something within a course of fire, either constructed or naturally occurring, which much be negotiated by the competitor while completing the course of fire."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Occurrence",
+    "text": "For purposes of assessing penalties, e.g., foot faults, an occurrence is defined as shooting at an array of targets from a single location or view in a course of fire. If the competitor moves to another view or location and continues to fault, that constitutes a second occurrence."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Off limits lines",
+    "text": "A physical reference line in a course of fire which defines an area of the range floor which is off limits to a competitor during the course of fire. See 2.2.1.5 for usage."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "OFM",
+    "text": "Original firearm manufacturer."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "PCC",
+    "text": "Pistol Caliber Carbine, see Appendix D8 for Division requirements."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Primer",
+    "text": "The part of a round which causes a detonation or a shot to be fired."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Prone",
+    "text": "The competitor is laying on the ground, or other designated surface, with the front of the chest closest to the ground."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Prototype",
+    "text": "A firearm configuration which is not in mass production and/or is not available to the general public."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Race Gun Holster",
+    "text": "A device which secures the handgun lacking an outer shroud/envelope/covering relying on tension on the trigger guard and sometimes a barrel stud to retain the firearm."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Radial tears",
+    "text": "Tears in a cardboard target radiating outwards from the diameter of a bullet hole."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Range Official",
+    "text": "A person who is officially serving at a match in the capacity of a Range Officer."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Range surface",
+    "text": "The surface within a shooting bay as defined by the Course of Fire that the competitors and staff must move across. This can be the bay floor or other elements of the stage (e.g. raised platform)."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "REF",
+    "text": "Range Equipment Failure."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Reloading",
+    "text": "Revolver - Empty the cylinder, insert new ammunition, and close the cylinder or loading gate. Self-loader - Remove magazine, insert a different magazine, and return the firearm to battery (slide closed), and the competitor’s hand removed from the magazine. For PCCs, a reload is complete when the replacement magazine is fully inserted into the magwell and the bolt is in battery. The competitor's hand is not required to be removed from the magazine. For the purposes of this definition, a magazine/speed-loading device retrieved from the range floor is considered a new source of ammunition."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Securely fixed (belt)",
+    "text": "The belt doesn't move when either the gun or a magazine is drawn from it without using both hands."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Selective action",
+    "text": "The competitor can select either Single Action or Double Action."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shooting box",
+    "text": "A small shooting area (generally square) formed of four connected fault lines."
   },
   {
     "book": "uspsa",
@@ -6343,8 +6794,52 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Strong side",
-    "text": "PCC: Carbine is mounted to the shoulder on the strong hand side of the body and trigger must be pulled with the strong hand. A shooter must utilize the same side of the body as their strong side for the duration of the match."
+    "title": "Shot",
+    "text": "A bullet which passes completely through the barrel of a firearm."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Target(s)",
+    "text": "A term that can include both scoring target(s) and no-shoot(s)."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Unloading",
+    "text": "The removal of ammunition from a firearm. This action is completed when the firearm is empty of all ammunition and the magazine removed or cylinder opened and shown for inspection by a Range Officer."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "View",
+    "text": "A range of sight or vision specific to an array of targets. In order to constitute a new \"view\" under this rule, the range of sight of an array of targets must be broken by a vision barrier of some sort, such that a different array of targets is seen in the new view."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Waist level",
+    "text": "The normal wear level for the lower garment. Wearing a belt at waist level, which is deemed to be at the same level as the original belt loops on the lower garment means that the belt is worn at the normal wear level for the pants, trousers, skirt, kilt, shorts or jeans."
   },
   {
     "book": "uspsa",
@@ -6356,6 +6851,325 @@
     "number": null,
     "title": "Weak hand",
     "text": "The hand opposite the strong hand. For PCC, weak hand is the same as weak side. For PCC, both hands may be on the gun. NOTE: This applies to classifier requirements in all instances."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Weak side",
+    "text": "PCC: Opposite of Strong Side. The carbine is mounted to the shoulder on the weak side of the body and trigger must be pulled with the weak hand. A shooter must utilize the same side of their body as the weak side for the duration of the match."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Bullet",
+    "text": "The projectile in a round intended to strike a target."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Burst operation",
+    "text": "More than one round can be discharged on a single pull or activation of the trigger."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Dry firing",
+    "text": "The activation of the trigger and/or action of a firearm which is totally devoid of ammunition."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Dummy ammunition",
+    "text": "Includes snap caps, empty cases, dummy rounds and any other object that resembles or duplicates a live round."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Freestyle",
+    "text": "Competitors are allowed to solve the challenge presented within the rules and engage targets on an “as available for engagement basis.”"
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Must",
+    "text": "This means the same as “will,” “shall,” etc. Compliance is mandatory."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Remedial action",
+    "text": "The term used for correcting any problem to get the firearm back in operation, such as a jam, stuck bullet, or feeding problem due to issues with the magazine, ammunition or firearm."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Reshoot",
+    "text": "A competitor’s subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Round",
+    "text": "A cartridge of ammunition used in a firearm."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Should",
+    "text": "Optional but highly recommended."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shoulder",
+    "text": "The shoulder is defined as the upper joint of the arm and the part of the body between the arm and the neck."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Sight picture",
+    "text": "Aiming at a target without actually shooting at it."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Significant advantage",
+    "text": "Any position assumed while faulting that provides: - A greater view of a target or target array, i.e., seeing all of the array versus only one or two targets, or more of a target behind an obscuring no-shoot or wall - A closer (more than 3 feet) shot at a target, especially if the target is partially obscured with a no-shoot or hard cover - Less physical positioning, i.e., lean, around or over a wall or barrier - A more stable position, such as stepping off of a moving platform or narrow beam onto the ground, provided that the object in question has been marked as a shooting area - Having both feet outside of a shooting area and firing shots (10.2.1.2) - Stability by bracing on a wall or barrier outside of the fault lines Note: These are some examples and are not intended to illustrate all possible cases of significant advantage"
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Single action",
+    "text": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Snap cap",
+    "text": "(Also “spring cap”) A type of dummy round."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Squib",
+    "text": "A bullet or solid obstruction lodged inside the barrel of a firearm."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Stance",
+    "text": "The physical presentation of a person’s limbs (e.g. hands by the side, arms crossed etc.)."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Standing",
+    "text": "The competitor’s body is fully erect with both feet planted firmly on the ground or other designated position."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Start condition",
+    "text": "The condition of the firearm prior to commencement of the course of fire (e.g., loaded, unloaded, safety applied, etc.). The start condition MUST be clearly defined by the Written Stage Briefing."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Start position",
+    "text": "The location, shooting position and stance of the competitor as prescribed by the Written Stage Briefing prior to issuance of the “start signal”. The start position MUST be clearly defined by the Written Stage Briefing."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Static targets",
+    "text": "Targets which are stationary and are not activated."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Strong hand",
+    "text": "The hand a competitor uses to draw their handgun from their holster. For PCC, strong hand is the same as strong side. For PCC, both hands may be on the gun. NOTE: this applies to classifier requirements in all instances."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Strong side",
+    "text": "PCC: Carbine is mounted to the shoulder on the strong hand side of the body and trigger must be pulled with the strong hand. A shooter must utilize the same side of the body as their strong side for the duration of the match."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Supine",
+    "text": "The competitor is laying on the ground or other designated surface with the spinal column and shoulder blades closest to the ground. NOT recommended for handgun due to potential for sweeping."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Supporting structure",
+    "text": "A brace, stand, rope, cable or other element used to support a barrier, line, or obstacle. These do not exist and are not part of the shooting area except as specifically stated in the Written Stage Briefing."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Sweeping",
+    "text": "Pointing the muzzle of a firearm at any part of any person’s body, while holding it in the hands, or placing it on or removing it from an object. There may be an exception for RO interference."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Will",
+    "text": "Mandatory."
+  },
+  {
+    "book": "uspsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "WSB",
+    "text": "Written Stage Briefing. A written briefing prepared per 3.2 and read verbatim to competitors prior to their attempt on a course of fire."
   },
   {
     "book": "uspsa",
@@ -13328,8 +14142,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "OFM",
-    "text": "Original firearm manufacturer."
+    "title": "Aftermarket",
+    "text": "Items not manufactured by, or available directly from, the Original Firearm Manufacturer. (See OFM)"
   },
   {
     "book": "multigun",
@@ -13339,8 +14153,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Supporting structure",
-    "text": "A brace, stand, rope, cable or other element used to support a barrier, line, or obstacle. These do not exist and are not part of the shooting area except as specifically stated in the Written Stage Briefing."
+    "title": "Allied equipment",
+    "text": "Holsters, magazines, speed loading devices and/or their respective pouches."
   },
   {
     "book": "multigun",
@@ -13350,8 +14164,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Course of fire",
-    "text": "(Also “course” and “COF”) An expression used interchangeably with “Stage”."
+    "title": "Appearing target",
+    "text": "A target which is not visible until activated or revealed."
   },
   {
     "book": "multigun",
@@ -13361,8 +14175,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Shot",
-    "text": "A bullet which passes completely through the barrel of a firearm."
+    "title": "Array",
+    "text": "A grouping of more than one target."
   },
   {
     "book": "multigun",
@@ -13372,8 +14186,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Range Official",
-    "text": "A person who is officially serving at a match in the capacity of a Range Officer."
+    "title": "Backstop",
+    "text": "A raised structure of sand, soil or other materials used to contain bullets."
   },
   {
     "book": "multigun",
@@ -13383,8 +14197,41 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Target(s)",
-    "text": "A term that can include both scoring target(s) and no-shoot(s)."
+    "title": "Barrier supports",
+    "text": "See Supporting structure."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Behind",
+    "text": "Uprange of and within the lateral confines of the specified object. e.g. \"standing behind the table\" means uprange of the table and inside the lines defined by the edges of the table."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Berm",
+    "text": "A raised structure of sand, soil or other materials used to contain bullets and/or to separate one shooting bay and/or COF from another."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Bi-Pods or similar",
+    "text": "(Rifles only) Similar refers to monopods, tripods or other items used as such, however, they must be attached to the rifle during the COF. Modified Division – Only bipods (a two-legged support) which remains attached to the rifle during the COF."
   },
   {
     "book": "multigun",
@@ -13405,6 +14252,61 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
+    "title": "Cartridge case",
+    "text": "The main body of a round, which contains all component parts."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Closed course of fire",
+    "text": "A course of fire is considered closed or off limits when there are no official match staff present to supervise competitor actions during stage inspection."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Compensator",
+    "text": "A device or machining integrated into the slide or barrel to counter muzzle rise (usually by externally diverting escaping gasses)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Course of fire",
+    "text": "(Also “course” and “COF”) An expression used interchangeably with “Stage”."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Cross draw",
+    "text": "When a competitor draws with their strong hand while wearing their holster on the opposite side of the body."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
     "title": "Detonation",
     "text": "Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when a slide is being manually retracted, when a round is dropped)."
   },
@@ -13416,8 +14318,19 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Single action",
-    "text": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
+    "title": "Disappearing target",
+    "text": "A target which when activated and after completing its movement is no longer available for engagement."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Discharge",
+    "text": "See Shot."
   },
   {
     "book": "multigun",
@@ -13438,8 +14351,756 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
+    "title": "Draw",
+    "text": "The point at which a handgun is removed or disengaged from the holster so as to allow access to any portion of the interior of the trigger guard."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Dropped gun",
+    "text": "A condition in which a competitor loses control of their firearm. Loss of control does not require the firearm to land on the ground or other range surface or prop. It occurs anytime the firearm is no longer in control of either hand, even if it is trapped against part of the body or caught in midair."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Engaging",
+    "text": "(As in “engaging a target”) A competitor is actively aiming at and firing at least one shot at a target that is within view, not through walls or other barriers/obstacles except soft cover."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Facing downrange",
+    "text": "Any position facing side berms or backstop within 90 degrees of the median intercept of the backstop."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Facing uprange",
+    "text": "Face and Feet pointing directly (180 degrees) away from the backstop with shoulders and hips square to the backstop. A natural \"toes out\" stance is acceptable and meets the standard of feet pointing directly away from the backstop as long as both feet do not point in the same direction and the rest of the position requirements are satisfied."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "False start",
+    "text": "Beginning an attempt at a COF prior to the “Start signal”."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Fault line",
+    "text": "A physical ground reference line in a course of fire which defines the limit(s) of the shooting area."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Forbidden action",
+    "text": "A competitor action which has been expressly prohibited by the Range Master and so reflected in the Written Stage Briefing."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Grain",
+    "text": "A common unit of measurement used in respect of the weight of a bullet (1 grain = 0.0648 grams)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Gun case/bag",
+    "text": "A carrying device that does not allow access to or manipulation of the trigger while fully encasing the firearm."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Handling",
+    "text": "(As in “handling a firearm”) The act of manipulating, holding, or gripping a firearm while the trigger is functionally accessible."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Holstered",
+    "text": "The point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Kneeling",
+    "text": "A body position wherein at least one knee is in contact with the ground or stage surface."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Loaded firearm",
+    "text": "A firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Loading",
+    "text": "The insertion of ammunition into a firearm. Loading is completed when ammunition is inserted, and firearm is in battery (slide forward or cylinder closed) and ready to fire and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Location",
+    "text": "A physical space within the boundaries of a course of fire. For the purposes of this rule, a competitor will not be considered to have changed location until both feet have moved to a new physical position."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Match Official",
+    "text": "A person who has an official duty or function at a match, but who is not necessarily qualified as, or acting in the capacity of, a Range Official."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Movement",
+    "text": "Taking more than one step in any direction or changing body position (e.g. from standing to kneeling, from seated to standing etc.)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Must",
+    "text": "This means the same as “will,” “shall,” etc. Compliance is mandatory."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
     "title": "No-shoot(s)",
     "text": "Target(s) that incur penalties when hit."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Not applicable",
+    "text": "The rule or requirement does not apply to the particular discipline, Division or match level."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "NROI",
+    "text": "National Range Officers Institute."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Obstacle",
+    "text": "Something within a course of fire, either constructed or naturally occurring, which much be negotiated by the competitor while completing the course of fire."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Occurrence",
+    "text": "For purposes of assessing penalties, e.g., foot faults, an occurrence is defined as shooting at an array of targets from a single location or view in a course of fire. If the competitor moves to another view or location and continues to fault, that constitutes a second occurrence."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Off limits lines",
+    "text": "A physical reference line in a course of fire which defines an area of the range floor which is off limits to a competitor during the course of fire."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "OFM",
+    "text": "Original firearm manufacturer."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "PCC",
+    "text": "Pistol Caliber Carbine, see Appendix D for Division requirements."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Primer",
+    "text": "The part of a round which causes a detonation or a shot to be fired."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Prone",
+    "text": "The competitor is laying on the ground or other designated surface with the front of the chest closest to the ground."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Prototype",
+    "text": "A firearm configuration which is not in mass production and/or is not available to the general public."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Radial tears",
+    "text": "Tears in a cardboard target radiating outwards from the diameter of a bullet hole."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Range Official",
+    "text": "A person who is officially serving at a match in the capacity of a Range Officer."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Range surface",
+    "text": "The surface within a shooting bay as defined by the Course of Fire that the competitors and staff must move across. This can be the bay floor or other elements of the stage (e.g. raised platform)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "REF",
+    "text": "Range Equipment Failure."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Reloading",
+    "text": "The replenishment or the insertion of additional ammunition into a firearm. The reload is not complete until the magazine/speed loader is fully inserted, and the firearm is in battery, (slide forward or cylinder closed and ready to fire) and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Securely fixed (belt)",
+    "text": "The belt doesn't move when either the gun or a magazine is drawn from it without using both hands."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Selective action",
+    "text": "The competitor can select either Single Action or Double Action."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shooting box",
+    "text": "A small shooting area (generally square) formed of four connected fault lines."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shooting position",
+    "text": "The physical presentation of a person’s body (e.g. standing, sitting, kneeling, prone)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shell",
+    "text": "A cartridge of ammunition used in a shotgun."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Target(s)",
+    "text": "A term that can include both scoring target(s) and no-shoot(s)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Tie-down rig",
+    "text": "A holster where the lower section is strapped or rigidly attached to a competitor’s leg."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Unloading",
+    "text": "The removal of ammunition from a firearm. This action is completed when the firearm is empty of all ammunition and the magazine removed or cylinder opened and shown for inspection by a Range Officer."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "View",
+    "text": "A range of sight or vision specific to an array of targets. In order to constitute a new \"view\" under this rule, the range of sight of an array of targets must be broken by a vision barrier of some sort, such that a different array of targets is seen in the new view."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Waist level",
+    "text": "The normal wear level for the lower garment. Wearing a belt at waist level, which is deemed to be at the same level as the original belt loops on the lower garment means that the belt is worn at the normal wear level for the pants, trousers, skirt, kilt, shorts or jeans."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Weak hand",
+    "text": "The hand opposite the strong hand."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Weak side",
+    "text": "(For long guns) Opposite of Strong Side. Firearm is mounted to the shoulder on the weak hand side of the body and trigger must be pulled with the weak hand. The shooter must utilize the same side of their body as the weak side for the duration of the match."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Will",
+    "text": "Mandatory."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Bullet",
+    "text": "The projectile in a round intended to strike a target."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Burst operation",
+    "text": "More than one round can be discharged on a single pull or activation of the trigger."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Dry firing",
+    "text": "The activation of the trigger and/or action of a firearm which is totally devoid of ammunition."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Dummy ammunition",
+    "text": "Includes snap caps, empty cases, dummy rounds and any other object that resembles or duplicates a live round."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Freestyle",
+    "text": "Competitors are allowed to solve the challenge presented without restriction within the rules and engage targets on an “as available for engagement basis.”"
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Remedial action",
+    "text": "The term used for correcting any problem to get the firearm back in operation, such as a jam, stuck bullet, or feeding problem due to issues with the magazine, ammunition, or firearm."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Reshoot",
+    "text": "A competitor’s subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Round",
+    "text": "A cartridge of ammunition used in a handgun or rifle."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shot",
+    "text": "A bullet which passes completely through the barrel of a firearm."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Should",
+    "text": "Optional but highly recommended."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shoulder",
+    "text": "The shoulder is defined as the upper joint of the arm and the part of the body between the arm and the neck."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Sight picture",
+    "text": "Aiming at a target without actually shooting at it."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Significant advantage",
+    "text": "Any position assumed while faulting that provides: - A greater view of a target or target array, i.e., seeing all of the array versus only one or two targets, or more of a target behind an obscuring no-shoot or wall - A closer (more than 3 feet) shot at a target, especially if the target is partially obscured with a no-shoot or hard cover - Less physical positioning, i.e., lean, around or over a wall or barrier - A more stable position, such as stepping off of a moving platform or narrow beam onto the ground, provided that the object in question has been marked as a shooting area - Having both feet outside of a shooting area and firing shots (10.2.1.2) - Stability by bracing on a wall or barrier outside of the fault lines Note: These are some examples and are not intended to illustrate all possible cases of significant advantage"
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Single action",
+    "text": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Snap cap",
+    "text": "(Also “spring cap”) A type of dummy round."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Squib",
+    "text": "A bullet or solid obstruction lodged inside the barrel of a firearm."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Stance",
+    "text": "The physical presentation of a person’s limbs (e.g. hands by the side, arms crossed etc.)."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Standing",
+    "text": "The competitor’s body is fully erect with both feet planted firmly on the ground or other designated position."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Start condition",
+    "text": "The condition of the firearm prior to commencement of the course of fire, e.g., loaded, unloaded, safety applied, etc. The start condition MUST be clearly defined by the Written Stage Briefing."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Start position",
+    "text": "The location, shooting position and stance prescribed by a COF prior to issuance of the “Start signal.” The start position MUST be clearly defined by the Written Stage Briefing."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Static targets",
+    "text": "Targets which are stationary and are not activated."
   },
   {
     "book": "multigun",
@@ -13471,8 +15132,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Weak hand",
-    "text": "The hand opposite the strong hand."
+    "title": "Supine",
+    "text": "The competitor is laying on the ground or other designated surface with the spinal column and shoulder blades closest to the ground. NOT recommended due to potential for sweeping."
   },
   {
     "book": "multigun",
@@ -13482,8 +15143,8 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Range surface",
-    "text": "The surface within a shooting bay as defined by the Course of Fire that the competitors and staff must move across. This can be the bay floor or other elements of the stage (e.g. raised platform)."
+    "title": "Supporting structure",
+    "text": "A brace, stand, rope, cable or other element used to support a barrier, line, or obstacle. These do not exist and are not part of the shooting area except as specifically stated in the Written Stage Briefing."
   },
   {
     "book": "multigun",
@@ -13493,8 +15154,19 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Shooting position",
-    "text": "The physical presentation of a person’s body (e.g. standing, sitting, kneeling, prone)."
+    "title": "Sweeping",
+    "text": "Pointing the muzzle of a firearm at any part of any person’s body, while holding it in the hands, or placing it on or removing it from an object. There may be an exception for RO interference."
+  },
+  {
+    "book": "multigun",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "WSB",
+    "text": "Written Stage Briefing. A written briefing prepared per 3.2 read verbatim to competitors prior to their attempt on a course of fire."
   },
   {
     "book": "multigun",
@@ -16188,6 +17860,292 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
+    "title": "Aftermarket",
+    "text": "Items not manufactured by, or available directly from, the OFM."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Allied Equipment",
+    "text": "Holsters, magazines, speed loading devices and/or their respective pouches."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Berm",
+    "text": "A raised structure of sand, soil, or other materials used to contain bullets and/or to separate one shooting bay and/or COF from another."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Bullet",
+    "text": "The projectile in a round intended to strike a target."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Burst Operation",
+    "text": "More than one round can be discharged on a single pull or activation of the trigger."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Caliber",
+    "text": "The diameter of a bullet measured in millimeters (or thousandths of an inch)."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Cartridge Case",
+    "text": "The main body of a round, which contains all component parts."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Compensator",
+    "text": "A device fitted to the muzzle end of a barrel to counter muzzle rise (usually by externally diverting escaping gasses)."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Cross Draw",
+    "text": "When a competitor draws with their strong hand while wearing their holster on the opposite side of the body."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Detonation",
+    "text": "Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when a slide is being manually retracted, when a round is dropped). See Shot"
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Double Action",
+    "text": "Each pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Draw",
+    "text": "The point at which a handgun is removed or disengaged from the holster so as to allow access to any portion of the interior of the trigger guard."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Dropped Gun",
+    "text": "A condition in which a competitor loses control of their firearm. Loss of control does not require the firearm to land on the ground or other range surface or prop. It occurs anytime the firearm is no longer in control of either hand, even if it is trapped against part of the body or caught in midair."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Event",
+    "text": "An event is comprised of one or more matches."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "False Start",
+    "text": "Beginning an attempt at firing a string for a stage prior to the “start signal”."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Gun Case/Bag",
+    "text": "A carrying device that does not allow access to, or manipulation of, the trigger while fully encasing the firearm."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Handling",
+    "text": "(As in “handling a firearm”) The act of manipulating, holding, or gripping a firearm while the trigger is functionally accessible. Note exceptions for casing/uncasing PCC and rimfire (see rule 8.1.7)."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Holstered",
+    "text": "The point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Loaded Firearm",
+    "text": "A firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Loading",
+    "text": "The insertion of ammunition into a firearm. Loading is completed when ammunition is inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Match",
+    "text": "A contest within an event."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Match Official",
+    "text": "A person who has an official duty or function at a match, but who is not necessarily qualified as, or acting in the capacity of, a Range Officer."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Movement",
+    "text": "Taking more than one step in any direction, or changing body position (e.g., from standing to kneeling, from seated to standing etc.)"
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Must",
+    "text": "This means the same as “will,” “shall,” etc. Compliance is mandatory."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Not Applicable",
+    "text": "The rule or requirement does not apply to the particular discipline, Division, or match level."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "NROI",
+    "text": "National Range Officers Institute."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
     "title": "OFM",
     "text": "Original firearm manufacturer."
   },
@@ -16199,8 +18157,19 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Shot",
-    "text": "A bullet which passes completely through the barrel of a firearm."
+    "title": "Peak Stage Time",
+    "text": "Peak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Race Gun Holster",
+    "text": "A device which secures the handgun lacking an outer shroud/envelope/covering relying on tension on the trigger guard and sometimes a barrel stud to retain the firearm."
   },
   {
     "book": "scsa",
@@ -16221,6 +18190,83 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
+    "title": "Reloading",
+    "text": "he replenishment or the insertion of additional ammunition into a firearm. The reload is not complete until the magazine/speed loader is fully inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Remedial Action",
+    "text": "The term used for correcting any problem to get the firearm back in operation, such as a jam, stuck bullet, or feeding problem due to issues with the magazine, ammunition or firearm."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Reshoot",
+    "text": "A competitor’s subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Selective Action",
+    "text": "The competitor can select either Single Action or Double Action."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shooting Box",
+    "text": "A small shooting area (generally square) formed of four connected fault lines. Boxes must be at least 3/4\" high for hard surfaces and 1- 1/2\" high for loose surfaces."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Shot",
+    "text": "A bullet which passes completely through the barrel of a firearm."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Should",
+    "text": "Optional but highly recommended."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
     "title": "Single Action",
     "text": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
   },
@@ -16232,8 +18278,74 @@
     "section": null,
     "sectionTitle": null,
     "number": null,
-    "title": "Double Action",
-    "text": "Each pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily."
+    "title": "Unloading",
+    "text": "The removal of ammunition from a firearm. This action is completed when the firearm is empty of all ammunition and the magazine removed or cylinder opened and shown for inspection by a Range Officer."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Will",
+    "text": "Mandatory"
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Round",
+    "text": "A cartridge of ammunition used in a firearm."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Snap Cap",
+    "text": "(Also “spring cap”) A type of dummy round."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Squib",
+    "text": "A bullet or solid obstruction lodged inside the barrel of a firearm."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Staging Area",
+    "text": "A designated portion of a range where only long guns may be cased and uncased prior to or after completing a course of fire."
+  },
+  {
+    "book": "scsa",
+    "type": "glossary",
+    "chapter": "Glossary",
+    "chapterTitle": "Glossary",
+    "section": null,
+    "sectionTitle": null,
+    "number": null,
+    "title": "Sweeping",
+    "text": "Pointing the muzzle of a firearm at any part of any person’s body, while holding it in the hands, or placing it on or removing it from an object. There may be an exception for RO interference."
   },
   {
     "book": "scsa",

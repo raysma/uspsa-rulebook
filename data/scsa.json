@@ -1,12 +1,12 @@
 {
   "book": "scsa",
   "source": "https://rules.uspsa.org/scsa",
-  "fetchedAt": "2026-06-20T05:38:30.815Z",
+  "fetchedAt": "2026-06-27T16:04:06.684Z",
   "chapterCount": 12,
   "sectionCount": 60,
   "ruleCount": 213,
   "appendixCount": 18,
-  "glossaryCount": 5,
+  "glossaryCount": 45,
   "changelogCount": 21,
   "chapters": [
     {
@@ -1661,24 +1661,184 @@
   ],
   "glossary": [
     {
+      "term": "Aftermarket",
+      "definition": "Items not manufactured by, or available directly from, the OFM."
+    },
+    {
+      "term": "Allied Equipment",
+      "definition": "Holsters, magazines, speed loading devices and/or their respective pouches."
+    },
+    {
+      "term": "Berm",
+      "definition": "A raised structure of sand, soil, or other materials used to contain bullets and/or to separate one shooting bay and/or COF from another."
+    },
+    {
+      "term": "Bullet",
+      "definition": "The projectile in a round intended to strike a target."
+    },
+    {
+      "term": "Burst Operation",
+      "definition": "More than one round can be discharged on a single pull or activation of the trigger."
+    },
+    {
+      "term": "Caliber",
+      "definition": "The diameter of a bullet measured in millimeters (or thousandths of an inch)."
+    },
+    {
+      "term": "Cartridge Case",
+      "definition": "The main body of a round, which contains all component parts."
+    },
+    {
+      "term": "Compensator",
+      "definition": "A device fitted to the muzzle end of a barrel to counter muzzle rise (usually by externally diverting escaping gasses)."
+    },
+    {
+      "term": "Cross Draw",
+      "definition": "When a competitor draws with their strong hand while wearing their holster on the opposite side of the body."
+    },
+    {
+      "term": "Detonation",
+      "definition": "Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when a slide is being manually retracted, when a round is dropped). See Shot"
+    },
+    {
+      "term": "Double Action",
+      "definition": "Each pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily."
+    },
+    {
+      "term": "Draw",
+      "definition": "The point at which a handgun is removed or disengaged from the holster so as to allow access to any portion of the interior of the trigger guard."
+    },
+    {
+      "term": "Dropped Gun",
+      "definition": "A condition in which a competitor loses control of their firearm. Loss of control does not require the firearm to land on the ground or other range surface or prop. It occurs anytime the firearm is no longer in control of either hand, even if it is trapped against part of the body or caught in midair."
+    },
+    {
+      "term": "Event",
+      "definition": "An event is comprised of one or more matches."
+    },
+    {
+      "term": "False Start",
+      "definition": "Beginning an attempt at firing a string for a stage prior to the “start signal”."
+    },
+    {
+      "term": "Gun Case/Bag",
+      "definition": "A carrying device that does not allow access to, or manipulation of, the trigger while fully encasing the firearm."
+    },
+    {
+      "term": "Handling",
+      "definition": "(As in “handling a firearm”) The act of manipulating, holding, or gripping a firearm while the trigger is functionally accessible. Note exceptions for casing/uncasing PCC and rimfire (see rule 8.1.7)."
+    },
+    {
+      "term": "Holstered",
+      "definition": "The point at which a handgun is inserted or engaged into the holster so as to not allow access to any portion of the interior of the trigger guard. Holstering begins when the handgun muzzle enters the holster or trigger guard enters block."
+    },
+    {
+      "term": "Loaded Firearm",
+      "definition": "A firearm having a live round, empty case or dummy round in the chamber or cylinder or having a live or dummy round in a magazine inserted in the firearm."
+    },
+    {
+      "term": "Loading",
+      "definition": "The insertion of ammunition into a firearm. Loading is completed when ammunition is inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+    },
+    {
+      "term": "Match",
+      "definition": "A contest within an event."
+    },
+    {
+      "term": "Match Official",
+      "definition": "A person who has an official duty or function at a match, but who is not necessarily qualified as, or acting in the capacity of, a Range Officer."
+    },
+    {
+      "term": "Movement",
+      "definition": "Taking more than one step in any direction, or changing body position (e.g., from standing to kneeling, from seated to standing etc.)"
+    },
+    {
+      "term": "Must",
+      "definition": "This means the same as “will,” “shall,” etc. Compliance is mandatory."
+    },
+    {
+      "term": "Not Applicable",
+      "definition": "The rule or requirement does not apply to the particular discipline, Division, or match level."
+    },
+    {
+      "term": "NROI",
+      "definition": "National Range Officers Institute."
+    },
+    {
       "term": "OFM",
       "definition": "Original firearm manufacturer."
     },
     {
-      "term": "Shot",
-      "definition": "A bullet which passes completely through the barrel of a firearm."
+      "term": "Peak Stage Time",
+      "definition": "Peak Stage Times (PSTs) are the benchmark for the Steel Challenge classification system, which categorizes shooters based on their performance against these times."
+    },
+    {
+      "term": "Race Gun Holster",
+      "definition": "A device which secures the handgun lacking an outer shroud/envelope/covering relying on tension on the trigger guard and sometimes a barrel stud to retain the firearm."
     },
     {
       "term": "Range Officer",
       "definition": "Issues range commands, oversees competitor compliance with stage requirements, and closely monitors safe competitor action. He or she also declares time scores and a penalty achieved by each competitor and verifies that these are correctly recorded on the competitors score sheet or scoring tablet."
     },
     {
+      "term": "Reloading",
+      "definition": "he replenishment or the insertion of additional ammunition into a firearm. The reload is not complete until the magazine/speed loader is fully inserted, firearm is in battery (slide forward or cylinder closed and ready to fire), and the competitor’s hand has been removed from the magazine or other loading device (except as may occur during establishing a normal grip on the firearm)."
+    },
+    {
+      "term": "Remedial Action",
+      "definition": "The term used for correcting any problem to get the firearm back in operation, such as a jam, stuck bullet, or feeding problem due to issues with the magazine, ammunition or firearm."
+    },
+    {
+      "term": "Reshoot",
+      "definition": "A competitor’s subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee."
+    },
+    {
+      "term": "Selective Action",
+      "definition": "The competitor can select either Single Action or Double Action."
+    },
+    {
+      "term": "Shooting Box",
+      "definition": "A small shooting area (generally square) formed of four connected fault lines. Boxes must be at least 3/4\" high for hard surfaces and 1- 1/2\" high for loose surfaces."
+    },
+    {
+      "term": "Shot",
+      "definition": "A bullet which passes completely through the barrel of a firearm."
+    },
+    {
+      "term": "Should",
+      "definition": "Optional but highly recommended."
+    },
+    {
       "term": "Single Action",
       "definition": "Pulling the trigger causes the hammer to fall a single time. The hammer must be reset by other action (movement of the slide or competitor action) before it will fall again."
     },
     {
-      "term": "Double Action",
-      "definition": "Each pull of the trigger results in the hammer falling regardless of state prior to the pull. A trigger pull results in cocking of the hammer momentarily."
+      "term": "Unloading",
+      "definition": "The removal of ammunition from a firearm. This action is completed when the firearm is empty of all ammunition and the magazine removed or cylinder opened and shown for inspection by a Range Officer."
+    },
+    {
+      "term": "Will",
+      "definition": "Mandatory"
+    },
+    {
+      "term": "Round",
+      "definition": "A cartridge of ammunition used in a firearm."
+    },
+    {
+      "term": "Snap Cap",
+      "definition": "(Also “spring cap”) A type of dummy round."
+    },
+    {
+      "term": "Squib",
+      "definition": "A bullet or solid obstruction lodged inside the barrel of a firearm."
+    },
+    {
+      "term": "Staging Area",
+      "definition": "A designated portion of a range where only long guns may be cased and uncased prior to or after completing a course of fire."
+    },
+    {
+      "term": "Sweeping",
+      "definition": "Pointing the muzzle of a firearm at any part of any person’s body, while holding it in the hands, or placing it on or removing it from an object. There may be an exception for RO interference."
     }
   ],
   "changelog": [
