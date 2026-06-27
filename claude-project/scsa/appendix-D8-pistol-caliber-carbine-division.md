@@ -3,19 +3,4 @@
 > Per the 2026 Steel Challenge (SCSA) Rules. Cite as "Appendix D8 — Pistol Caliber Carbine Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-None (see Special Conditions)
-9mm,.38 special,.357 Sig,.40 S&W, 10mm,.45 ACP For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed.
-None
-1600 FPS
-No
-Yes
-PCCI – No PCCO – Yes
-PCCI – Yes PCCO – Yes
-Yes
-PCCI – No PCCO – No
-Yes, during course of fire only. Not for transport.
-Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.
-Rifle to be transported in a closed case, scabbard, or “3-gun” cart. Chamber flags must be used regardless of method of transport.
-No side-by-side magazine couplers allowed. End-to-end coupling/extension is allowed.
-Permitted, but semi-auto function only
-Not Allowed Caliber Carbine Optics that the competitor is in full regulations concerning ownership and as long as the conversion is shot in PCC no front tube loading rifles are allowed. fire, and binary fire will result in a for any subsequent occurrences,
+DivisionsOpenLimitedRimfire PistolProductionSingle StackRevolverCarry OpticspagePistol Caliber CarbineRimfire RifleLimited OpticsRimfire Revolver Appendix D8 · pages – Pistol Caliber Carbine Division Minimum barrel length None (see Special Conditions) Accepted calibers 9mm,.38 special,.357 Sig,.40 S&W, 10mm,.45 ACP For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed. Minimum velocity None Maximum velocity 1600 FPS Maximum ammunition capacity No Must have stock attached and be capable of being fired from shoulder position. **Note: Sig Brace and any variant thereof is not allowed** Handgun to carbine conversions are allowed, provided they meet the criteria above.**see Special Conditions** Yes Optical/Electronic sights permitted PCCI – No PCCO – Yes Compensators / Muzzle brakes permitted PCCI – Yes PCCO – Yes Flash hiders permitted Yes Suppressors permitted PCCI – No PCCO – No Sling use authorized Yes, during course of fire only. Not for transport. Start Position (Low ready is defined as both hands on the carbine, buttstock seated on shoulder. Head may be on buttstock or above) Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard. Handling requirements Rifle to be transported in a closed case, scabbard, or “3-gun” cart. Chamber flags must be used regardless of method of transport. Magazine and Magazine holder restrictions No side-by-side magazine couplers allowed. End-to-end coupling/extension is allowed. Full Auto/ “Burst” Capabilities (one trigger pull fires more than one round-- see special conditions) Permitted, but semi-auto function only Binary Triggers (firearm fires once on trigger pull and once on release) Note: PCCI = Pistol Caliber Carbine Irons; PCCO = Pistol Special Conditions: 1) Short Barreled Rifles (SBR’s) are permitted provided compliance with all state and federal laws and transport of the SBR. 2) Handgun to carbine conversions are allowed division, and meets the criteria in #6. 3) Lever rifles must gate load (on the side) only, 4) Full auto, burst fire, mechanically aided bump procedural on the first instance, and a disqualification (unsafe gun handling) Not Allowed Caliber Carbine Optics that the competitor is in full regulations concerning ownership and as long as the conversion is shot in PCC no front tube loading rifles are allowed. fire, and binary fire will result in a for any subsequent occurrences,

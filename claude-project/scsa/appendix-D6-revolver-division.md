@@ -3,26 +3,4 @@
 > Per the 2026 Steel Challenge (SCSA) Rules. Cite as "Appendix D6 — Revolver Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-NA for Steel Challenge
-NA for Steel Challenge
-NA for Steel Challenge
-.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed.
-No
-No
-No
-Not applicable
-NA for Steel Challenge
-Handgun and Mags: 3 3/8” (length of an overlay)
-Yes
-No
-ISR: NO OSR: YES
-Yes, must be functional. Use of lasers prohibited.
-ISR: NO OSR: YES
-ISR: NO OSR: YES
-Not applicable
-No
-No (see Special Conditions below)
-No
-Not applicable
-Not applicable Revolver
-Special conditions: “Self-loading” revolvers with retractable slides are prohibited in this Division.
+DivisionsOpenLimitedRimfire PistolProductionSingle StackpageRevolverCarry OpticsPistol Caliber CarbineRimfire RifleLimited OpticsRimfire Revolver Appendix D6 · pages – Revolver Division Minimum power factor for Major NA for Steel Challenge Minimum power factor for Minor NA for Steel Challenge Minimum bullet weight NA for Steel Challenge Minimum bullet caliber / cartridge case length.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed. Minimum bullet caliber for Major No Minimum trigger pull No Maximum handgun size No Maximum magazine length Not applicable Maximum ammunition capacity NA for Steel Challenge Max. distance of handgun and mags/speed loaders from outer surface of belt Handgun and Mags: 3 3/8” (length of an overlay) Rule 5.1 applies Yes Restriction on position of holster and other equipment No Optical/electronic sights permitted ISR: NO OSR: YES Installed flashlights permitted Yes, must be functional. Use of lasers prohibited. Compensators permitted ISR: NO OSR: YES Barrel ports permitted ISR: NO OSR: YES Slide ports permitted Not applicable Maximum weight No Handgun specific approval for Division No (see Special Conditions below) Holster restrictions No Authorized modifications Not applicable Prohibited modifications NOTE: ISR = Iron Sight Revolver, OSR = Optical Sight Not applicable Revolver Special conditions: “Self-loading” revolvers with retractable slides are prohibited in this Division.

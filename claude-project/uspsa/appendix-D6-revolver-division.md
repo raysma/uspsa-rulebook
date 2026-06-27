@@ -3,24 +3,4 @@
 > Per the 2026 USPSA Competition Rules. Cite as "Appendix D6 — Revolver Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-No
-.38 cal. / 9x19 mm (0.354” x 0.748”)
-No
-No
-No
-“Self-loading” revolvers with retractable slides are prohibited in this Division.
-Not applicable
-No, maximum of 6 rounds fired before reload if Major PF declared, 8 if minor PF declared.
-Handgun and Speed Loaders/Associated Equipment – 3 3/8" (length of an overlay)
-Yes
-Yes, see 5.2.11
-No
-Yes, must be functional. Use of lasers prohibited.
-No
-No
-Not applicable
-No
-No (see Special Conditions below)
-No
-Not applicable
-Not applicable
+Divisionsfakdivision-openimg0 0 512 512truecurrentColorOpen Minimum power factor for Major Minimum power factor for Minor Minimum bullet weight No Minimum bullet caliber/cartridge case length.38 cal. / 9x19 mm (0.354” x 0.748”) Minimum bullet caliber for Major No Minimum trigger pull No Maximum handgun size No Maximum magazine length Not applicable Maximum ammunition capacity No, maximum of 6 rounds fired before reload if Major PF declared, 8 if minor PF declared. Max. distance of handgun and mags/speed loaders from outer surface of belt Handgun and Speed Loaders/Associated Equipment – 3 3/8" (length of an overlay) Rule 5.2.3.1 applies Yes Restriction on position of holster and other equipment Yes, see 5.2.11 Optical/electronic sights permitted No Installed flashlights/lasers permitted Yes, must be functional. Use of lasers prohibited. Compensators permitted No Barrel ports permitted No Slide ports permitted Not applicable Maximum weight No Handgun specific approval for Division No (see Special Conditions below) Holster restrictions No Authorized modifications Not applicable Prohibited modifications Not applicable “Self-loading” revolvers with retractable slides are prohibited in this Division.

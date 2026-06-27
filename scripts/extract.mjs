@@ -111,7 +111,7 @@ function dropStruck(slice) {
 // boundaries (<p>, <li>, <div>, …). React keys and flight refs ("$L1b") drop.
 function proseText(slice) {
   const cleaned = dropStruck(slice)
-    .replace(/(\["\$","(?:p|div|li|br|tr|ul|ol|h[1-6]|table|tbody|thead)")/g, '" ",$1')
+    .replace(/(\["\$","(?:p|div|li|br|tr|ul|ol|h[1-6]|table|tbody|thead|dt|dd)")/g, '" ",$1')
     .replace(/"className":"(?:\\.|[^"\\])*"/g, "")
     .replace(/"(?:href|data-slot|id|style|term|anchor)":"(?:\\.|[^"\\])*"/g, "")
     .replace(/\["\$","[^"]*",(?:"(?:\\.|[^"\\])*"|null),/g, "")
@@ -176,7 +176,7 @@ function badges(text) {
 }
 
 function extractProseRules(rsc) {
-  rsc = stripPopovers(rsc); // drop popover definitions (and their nested blocks)
+  rsc = stripPopovers(resolveRefs(rsc, buildRows(rsc))); // drop popover definitions (and their nested blocks)
   const bs = badges(rsc);
   const rules = [];
   for (let p = rsc.indexOf("rule-prose"); p !== -1; p = rsc.indexOf("rule-prose", p + 1)) {
@@ -198,10 +198,19 @@ const cmpNum = (a, b) => {
   return 0;
 };
 
-// Appendices render as free-form prose (tables/lists/diagrams) without the
-// flat shape or numeric badges — capture the full readable text as one blob.
+// Appendices render as free-form prose, headers and numbered lists — much of it
+// lazy-streamed ($L refs). Resolve refs, drop popovers, then take the whole
+// <article> body (rule-prose-only extraction misses the lists, which for some
+// appendices is the bulk of the content — e.g. C2's chronograph procedure).
 function extractAppendixText(rsc) {
-  rsc = stripPopovers(rsc); // drop popover definitions (and their nested blocks)
+  const rows = buildRows(rsc);
+  rsc = stripPopovers(resolveRefs(rsc, rows));
+  const aAt = rsc.indexOf('"article"');
+  if (aAt !== -1) {
+    const start = rsc.lastIndexOf('["$"', aAt);
+    if (start !== -1) return proseText(balancedFrom(rsc, start));
+  }
+  // Fallback: concatenate rule-prose blocks.
   const chunks = [];
   for (let p = rsc.indexOf("rule-prose"); p !== -1; p = rsc.indexOf("rule-prose", p + 1)) {
     const t = proseText(childrenAfter(rsc, p));

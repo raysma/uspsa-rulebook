@@ -3,14 +3,4 @@
 > Per the 2026 Steel Challenge (SCSA) Rules. Cite as "Appendix D9 — Rimfire Rifle Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-.22 Long Rifle ONLY
-No
-No
-No
-RFRI – No RFRO – Yes
-RFRI – Yes RFRO – Yes; Suppressors are prohibited
-No
-No
-Yes, during course of fire only. Not for transport.
-Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.
-Rifle to be transported in a closed case, scabbard, or “3-gun” cart. Chamber flag must be used regardless of method of transport. Optics
+DivisionsOpenLimitedRimfire PistolProductionSingle StackRevolverCarry OpticsPistol Caliber CarbinepageRimfire RifleLimited OpticsRimfire Revolver Appendix D9 · pages – Rimfire Rifle Division Minimum bullet caliber.22 Long Rifle ONLY Minimum trigger pull No Maximum rifle size No Maximum ammunition capacity No Optical/Electronic sights permitted RFRI – No RFRO – Yes Compensators permitted RFRI – Yes RFRO – Yes; Suppressors are prohibited Maximum weight No Rifle specifically approved for division No Sling use authorized Yes, during course of fire only. Not for transport. Start Position (Low ready is defined as both hands on the rifle, buttstock seated on shoulder. Head may be on buttstock or above) Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard. Handling requirements Note: RFRI = Rimfire Rifle Irons; RFRO = Rimfire Rifle Rifle to be transported in a closed case, scabbard, or “3-gun” cart. Chamber flag must be used regardless of method of transport. Optics

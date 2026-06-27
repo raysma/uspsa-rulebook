@@ -3,25 +3,4 @@
 > Per the 2026 Steel Challenge (SCSA) Rules. Cite as "Appendix D1 — Open Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-NA for Steel Challenge
-NA for Steel Challenge
-NA for Steel Challenge
-.38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed.
-NA for Steel Challenge
-No
-No
-6.742” (171.25mm)
-No
-NA for magazines, Handgun: 3 3/8” (length of an overlay)
-Yes
-No
-Yes
-Yes
-Yes
-Yes
-Yes
-No
-No
-No
-Not applicable
-Not applicable
+DivisionspageOpenLimitedRimfire PistolProductionSingle StackRevolverCarry OpticsPistol Caliber CarbineRimfire RifleLimited OpticsRimfire Revolver Appendix D1 · pages – Open Division Minimum power factor for Major NA for Steel Challenge Minimum power factor for Minor NA for Steel Challenge Minimum bullet weight NA for Steel Challenge Minimum bullet caliber / cartridge case length..38 cal. / 9x19 mm (0.354” x 0.748”) For competitions only in countries where common military calibers are prohibited,.380 ACP is allowed. Minimum bullet caliber for Major NA for Steel Challenge Minimum trigger pull No Maximum handgun size No Maximum magazine length 6.742” (171.25mm) Maximum ammunition capacity No Max. distance of handgun and mags/speed loaders from outer surface of belt NA for magazines, Handgun: 3 3/8” (length of an overlay) Rule 5.1 applies Yes Restriction on position of holster and other equipment No Optical/electronic sights permitted Yes Installed flashlights permitted Yes Compensators permitted Yes Barrel ports permitted Yes Slide ports permitted Yes Maximum weight No Handgun specifically approved for Division No Holster restrictions No Authorized modifications Not applicable Prohibited modifications Not applicable

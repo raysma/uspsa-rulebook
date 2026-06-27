@@ -3,21 +3,4 @@
 > Per the 2026 USPSA Competition Rules. Cite as "Appendix D2 — Limited Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-No
-9x19 mm (0.354” x 0.748”)
-.40 cal. / 10mm (0.40”) /.357 SIG
-No
-No
-5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns.
-No
-Handgun and Mags – 3 3/8” (length of an overlay).
-Yes
-Yes, see 5.2.11
-No
-Yes. Inoperable units used as weights: Yes. Use of lasers prohibited.
-No
-No
-Yes
-No
-Not applicable
-No
+Divisionsfakdivision-openimg0 0 512 512truecurrentColorOpen Minimum power factor for Major Minimum power factor for Minor Minimum bullet weight No Minimum cartridge dimensions 9x19 mm (0.354” x 0.748”) Minimum bullet caliber for Major.40 cal. / 10mm (0.40”) /.357 SIG Minimum trigger pull No Maximum handgun size No Maximum magazine length 5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns. Maximum ammunition capacity No Maximum distance of handgun and mags/speed loaders from outer surface of belt Handgun and Mags – 3 3/8” (length of an overlay). Rule 5.2.3.1 applies Yes Restriction on position of holster and other equipment Yes, see 5.2.11 Optical/electronic sights permitted No Installed flashlights/lasers permitted Yes. Inoperable units used as weights: Yes. Use of lasers prohibited. Compensators permitted No Barrel ports permitted No Slide ports permitted Yes Maximum weight No Handgun specifically approved for Division Not applicable Holster restrictions No

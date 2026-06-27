@@ -3,17 +3,4 @@
 > Per the 2026 Steel Challenge (SCSA) Rules. Cite as "Appendix D11 — Rimfire Revolver Division (Provisional)".
 > Note: tables and diagrams from the source are captured as text only.
 
-.22 Long Rifle ONLY
-No
-No
-No
-RRI – No RRO - Yes
-No
-No
-No
-No
-N/A
-Handguns may not be fitted with forearms, foregrips, stocks, or stock-like devices, such as, but not limited to: buffer tubes, arm braces, folding stocks, etc. Firearms designated, manufactured, and sold as revolvers are restricted by this rule.
-Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.
-Handgun to be transported in closed case or holstered at all times until the Make Ready command is given.
-Recommended at level I, mandatory at level II – IV. Optics
+DivisionsOpenLimitedRimfire PistolProductionSingle StackRevolverCarry OpticsPistol Caliber CarbineRimfire RifleLimited OpticspageRimfire Revolver Appendix D11 · pages – Rimfire Revolver Division (Provisional) Minimum bullet caliber.22 Long Rifle ONLY Minimum trigger pull No Maximum handgun size No Maximum ammunition capacity No Optical/Electronic sights permitted RRI – No RRO - Yes Compensators permitted No Barrel ports permitted No Maximum weight No Handgun specifically approved for division No Authorized modifications N/A Prohibited modifications Handguns may not be fitted with forearms, foregrips, stocks, or stock-like devices, such as, but not limited to: buffer tubes, arm braces, folding stocks, etc. Firearms designated, manufactured, and sold as revolvers are restricted by this rule. Start Position Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard. Handling requirements Handgun to be transported in closed case or holstered at all times until the Make Ready command is given. Speed loader usage Note: RRI = Rimfire Revolver Irons; RRO = Rimfire Revolver Recommended at level I, mandatory at level II – IV. Optics

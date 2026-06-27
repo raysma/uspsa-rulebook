@@ -3,17 +3,4 @@
 > Per the 2026 Steel Challenge (SCSA) Rules. Cite as "Appendix D3 — Rimfire Pistol Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-.22 Long Rifle ONLY
-No
-No
-No
-RFPI – No RFPO - Yes
-RFPI – Yes RFPO – Yes; Suppressors are prohibited
-Yes
-No
-No
-N/A
-Handguns may not be fitted with forearms, foregrips, stocks, or stock-like devices, such as, but not limited to: buffer tubes, arm braces, folding stocks, etc. Firearms designated, manufactured, and sold as pistols are restricted by this rule.
-Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard.
-Handgun to be transported in closed case or holstered at all times until the Make Ready command is given.
-Yes, must be functional. Use of lasers prohibited. Optics
+DivisionsOpenLimitedpageRimfire PistolProductionSingle StackRevolverCarry OpticsPistol Caliber CarbineRimfire RifleLimited OpticsRimfire Revolver Appendix D3 · pages – Rimfire Pistol Division Minimum bullet caliber.22 Long Rifle ONLY Minimum trigger pull No Maximum handgun size No Maximum ammunition capacity No Optical/Electronic sights permitted RFPI – No RFPO - Yes Compensators permitted RFPI – Yes RFPO – Yes; Suppressors are prohibited Slide ports permitted Yes Maximum weight No Handgun specifically approved for division No Authorized modifications N/A Prohibited modifications Handguns may not be fitted with forearms, foregrips, stocks, or stock-like devices, such as, but not limited to: buffer tubes, arm braces, folding stocks, etc. Firearms designated, manufactured, and sold as pistols are restricted by this rule. Start Position Low ready pointing muzzle at aiming flag, safety may be off, finger outside of the trigger guard. Handling requirements Handgun to be transported in closed case or holstered at all times until the Make Ready command is given. Installed flashlights permitted Note: RFPI = Rimfire Pistol Irons; RFPO = Rimfire Pistol Yes, must be functional. Use of lasers prohibited. Optics

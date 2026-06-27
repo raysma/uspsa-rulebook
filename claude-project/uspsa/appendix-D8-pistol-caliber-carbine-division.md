@@ -3,23 +3,4 @@
 > Per the 2026 USPSA Competition Rules. Cite as "Appendix D8 — Pistol Caliber Carbine Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-None (See special conditions.)
-9mm,.357 Sig,.40 S&W, 10mm,.45 ACP
-125 (Minor Scoring Only)
-1600 FPS
-None
-Yes, see 5.1.10.
-Special Conditions: Short Barreled Rifles (SBR’s) are permitted provided that the competitor is in full compliance with all state and federal laws and regulations concerning ownership and transport of the SBR. Handgun to carbine conversions are allowed as long as the conversion is shot in PCC division, and meets the criteria in #6. Full auto, burst fire, mechanically aided bump fire, and binary fire will result in a procedural on the first instance, and a disqualification for any subsequent occurrences, (unsafe gun handling, see 10.5.17).
-Yes
-Yes
-Yes
-Magazines – 2 1/8” (width of an overlay).
-Yes
-Magazines must be carried on the belt or in apparel pockets. See rule 5.2.4. No restriction on location on the belt.
-Yes
-No
-All references to “handgun” are deemed to apply to PCC as well, except where the terms “holstering”, “drawing”, or “re-holstering” are referenced, and where otherwise noted. PCC specific rules are identified within this rules publication.
-Yes
-No side-by-side magazine couplers allowed. End- to-end coupling/extension is allowed.
-Permitted, but semi-auto function only, see 5.1.11, 5.1.12, 10.5.17
-Use not allowed, see 5.1.12
+Divisionsfakdivision-openimg0 0 512 512truecurrentColorOpen Minimum barrel length None (See special conditions.) Approved/permitted calibers 9mm,.357 Sig,.40 S&W, 10mm,.45 ACP Minimum Power Factor 125 (Minor Scoring Only) Maximum velocity 1600 FPS Magazine capacity limit None Must have stock attached and be capable of being fired from shoulder position • Note: Sig Brace and any variant thereof is not allowed • Handgun to carbine conversions are allowed, provided they meet the criteria above. (See Special Conditions) Yes, see 5.1.10. Sling use authorized Yes Optical sight/electronic sights permitted Yes Compensators/muzzle brakes permitted Yes Max. distance of mags/speed loaders from outer surface of belt Magazines – 2 1/8” (width of an overlay). Rule 5.2.3.1 applies Yes Restriction on position of mag pouches Magazines must be carried on the belt or in apparel pockets. See rule 5.2.4. No restriction on location on the belt. Flash hiders permitted Yes Suppressors permitted No Rules references All references to “handgun” are deemed to apply to PCC as well, except where the terms “holstering”, “drawing”, or “re-holstering” are referenced, and where otherwise noted. PCC specific rules are identified within this rules publication. Lasers/flashlights Yes Magazine restrictions No side-by-side magazine couplers allowed. End- to-end coupling/extension is allowed. Full Auto/“Burst” Capabilities (one trigger pull fires more than one round--see special conditions) Permitted, but semi-auto function only, see 5.1.11, 5.1.12, 10.5.17 Binary Triggers (firearm fires once on trigger pull and once on release) Use not allowed, see 5.1.12 Special Conditions: Short Barreled Rifles (SBR’s) are permitted provided that the competitor is in full compliance with all state and federal laws and regulations concerning ownership and transport of the SBR. Handgun to carbine conversions are allowed as long as the conversion is shot in PCC division, and meets the criteria in #6. Full auto, burst fire, mechanically aided bump fire, and binary fire will result in a procedural on the first instance, and a disqualification for any subsequent occurrences, (unsafe gun handling, see 10.5.17).

@@ -3,21 +3,4 @@
 > Per the 2026 USPSA Competition Rules. Cite as "Appendix D9 — Limited Optics Division".
 > Note: tables and diagrams from the source are captured as text only.
 
-Not Applicable
-No
-9x19 mm (0.354” x 0.748”)
-Not Applicable
-No
-5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns.
-No
-Handgun and Mags – 3 3/8” (length of an overlay).
-Yes
-Yes, see 5.2.11
-Optical/electronic sights REQUIRED; must be attached directly to slide between rear of slide and ejection port, and may not be mounted to the frame in any way
-Yes. Inoperable units used as weights: Yes. Use of lasers prohibited.
-No
-No
-Yes
-No
-Not applicable
-No
+Divisionsfakdivision-openimg0 0 512 512truecurrentColorOpen Minimum power factor for Major Not Applicable Minimum power factor for Minor Minimum bullet weight No Minimum cartridge dimensions 9x19 mm (0.354” x 0.748”) Minimum bullet caliber for Major Not Applicable Minimum trigger pull No Maximum handgun size No Maximum magazine length 5.561” (141.25mm) or 6.742” (171.25mm) in single stack guns. Maximum ammunition capacity No Maximum distance of handgun and mags/speed loaders from outer surface of belt Handgun and Mags – 3 3/8” (length of an overlay). Rule 5.2.3.1 applies Yes Restriction on position of holster and other equipment Yes, see 5.2.11 Optical/electronic sights permitted Optical/electronic sights REQUIRED; must be attached directly to slide between rear of slide and ejection port, and may not be mounted to the frame in any way Installed flashlights/lasers permitted Yes. Inoperable units used as weights: Yes. Use of lasers prohibited. Compensators permitted No Barrel ports permitted No Slide ports permitted Yes Maximum weight No Handgun specifically approved for Division Not applicable Holster restrictions No

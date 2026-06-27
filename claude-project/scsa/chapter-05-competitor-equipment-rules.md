@@ -22,7 +22,7 @@ Due to the unique nature of the Steel Challenge, drawing from concealment or fro
 
 ### 5.1.4
 
-range officer with muzzle pointing at the backstop. Failure to point the muzzle at a side berm or back stop during casing/uncasing or removing/replacing on a cart will result in a DQ per.
+range officer with muzzle pointing at the backstop. Failure to point the muzzle at a side berm or back stop during casing/uncasing or removing/replacing on a cart will result in a DQ per 10.3.13.
 
 ### 5.1.5
 
